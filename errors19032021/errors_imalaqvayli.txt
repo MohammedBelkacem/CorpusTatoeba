@@ -1,0 +1,3249 @@
+9218324	D abrid ɣer At Sidi Sa[ε]id.
+9222987	Bibb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222988	Bibbet idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222989	Bibbemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222990	Ad bibbeɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222991	Ad tbibbeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222992	Ad ibibb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222993	Ad tbibb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222994	Ad nbibb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222995	Ad tbibbem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222996	Ad tbibbemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222997	Ad bibben idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222998	Ad bibbent idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9222999	Bubbaɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223000	Tbubbeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223001	Ibubb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223003	Tbubb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223004	Nbubb idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223005	Tbubbem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223006	Tbubbemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223007	Bubben idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223008	Bubbent idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223009	Ur bubbaɣ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223010	Ur tbubbaḍ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223011	Ur ibubba ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223012	Ur tbubba ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223013	Ur nbubba ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223014	Ur tbubbam ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223015	Ur tbubbamt ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223016	Ur bubban ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223017	Ur bubbant ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223018	Ttbibbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223019	Ttbibbit idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223020	Ttbibbimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223022	Ttbibbiɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223023	Tettbibbiḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223024	Yettbibbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223025	Tettbibbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223026	Nettbibbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223027	Tettbibbim idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223028	Tettbibbimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223029	Ttbibbin idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223030	Ttbibbint idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223031	Ɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223032	Ɛebbit idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223033	Ɛebbimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223034	Ad ɛebbiɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223035	Ad tɛebbiḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223036	Ad iɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223037	Ad tɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223038	Ad nɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223039	Ad tɛebbim idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223040	Ad tɛebbimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223041	Ad ɛebbin idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223042	Ad ɛebbint idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223043	Ɛebbaɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223044	Tɛebbaḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223045	Iɛebba idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223046	Tɛebba idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223047	Nɛebba idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223048	Tɛebbam idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223049	Tɛebbamt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223050	Ɛebban idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223051	Ɛebbant idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223052	Ur ɛebbaɣ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223053	Ur tɛebbaḍ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223055	Ur iɛebba ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223056	Ur tɛebba ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223057	Ur nɛebba ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223059	Ur tɛebbam ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223060	Ur tɛebbamt ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223061	Ur ɛebban ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223062	Ur ɛebbant ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223063	Ttɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223064	Ttɛebbit idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223065	Ttɛebbimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223066	Ttɛebbiɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223067	Tettɛebbiḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223068	Yettɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223069	Tettɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223070	Nettɛebbi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223071	Tettɛebbim idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223072	Tettɛebbimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223073	Ttɛebbin idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223074	Ttɛebbint idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223075	Awi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223076	Awit idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223077	Awimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223078	Ad awiɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223080	Ad tawiḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223081	Ad yawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223082	Ad tawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223083	Ad nawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223084	Ad tawim idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223085	Ad tawimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223086	Ad awin idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223087	Ad awint idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223088	Wwiɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223089	Tewwiḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223090	Yewwi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223091	Tewwi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223092	Newwi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223093	Tewwim idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223094	Tewwimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223095	Wwin idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223096	Wwint idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223097	Ur wwiɣ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223098	Ur tewwiḍ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223099	Ur yewwi ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223100	Ur tewwi ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223101	Ur newwi ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223102	Ur tewwim ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223103	Ur tewwimt ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223104	Ur wwin ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223105	Ur wwint ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223106	Ttawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223107	Ttawit idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223108	Ttawimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223110	Ttawiɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223111	Tettawiḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223112	Yettawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223114	Tettawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223116	Nettawi idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223117	Tettawim idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223119	Tettawimt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223120	Ttawin idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223121	Ttawint idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223122	Rfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223123	Refdet idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223124	Refdemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223126	Ad refdeɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223127	Ad trefdeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223128	Ad yerfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223129	Ad terfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223130	Ad nerfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223132	Ad trefdem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223133	Ad trefdemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223134	Ad refden idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223135	Ad refdent idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223136	Refdeɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223138	Trefdeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223139	Yerfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223140	Terfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223141	Nerfed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223142	Trefdem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223145	Trefdemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223146	Refden idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223147	Refdent idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223148	Ur rfideɣ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223149	Ur terfideḍ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223150	Ur yerfid ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223151	Ur terfid ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223153	Ur nerfid ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223154	Ur terfidem ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223155	Ur terfidemt ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223156	Ur rfiden ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223157	Ur rfident ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223158	Reffed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223159	Reffdet idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223160	Reffdemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223161	Reffdeɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223162	Treffdeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223163	Ireffed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223164	Treffed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223165	Nreffed idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223166	Treffdem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223167	Treffdemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223168	Reffden idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223169	Reffdent idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223170	Ddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223171	Ddmet idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223172	Ddmemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223173	Ad ddmeɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223175	Ad teddmeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223176	Ad yeddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223177	Ad teddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223179	Ad neddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223180	Ad teddmem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223181	Ad teddmemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223182	Ad ddmen idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223183	Ad ddment idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223184	Ddmeɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223185	Teddmeḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223186	Yeddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223187	Teddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223189	Neddem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223190	Teddmem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223191	Teddmemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223192	Ddmen idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223193	Ddment idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223194	Ur ddimeɣ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223195	Ur teddimeḍ ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223197	Ur yeddim ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223198	Ur teddim ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223199	Ur neddim ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223200	Ur teddimem ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223201	Ur teddimemt ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223202	Ur ddimen ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223203	Ur ddiment ara idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223204	Ttaddam idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223205	Ttaddamet idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223206	Ttaddamemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223207	Ttaddameɣ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223208	Tettaddameḍ idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223209	Yettaddam idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223210	Tettaddam idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223211	Nettaddam idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223212	Tettaddamem idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223213	Tettaddamemt idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223214	Ttaddamen idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9223215	Ttaddament idɣaɣen-nni ɣer At Sidi Sa[ε]id.
+9226176	Ger wayen i wumi tesra tutlayt n tmazi[γ]t ass-a llan yisegzawalen.
+9226179	[Г]ef waya i ilaq usuget n tezrawin [γ]ef tseknawalt n tutlayt-a.
+9226181	D tizrawin-a ara tt-iɛawnen akken ad tessebded tarrayin d teẓriyin i[γ]ef ara bedden yisegzawalen-is.
+9226191	S wudem-nniḍen, d adlis ara yesseqdec umdan deg tudert-is ama d abujad ama d amassan akken ad yissin tutlayt ne[γ] ad yesnerni tiktiwin-is.
+9226195	Taseknawalt n tmazi[γ]t tettidir uguren, imi nezmer ad d-nini ar ass-a ulac asegzawal aynutlayan.
+9226197	Amur ameqqran deg-sen yerza tantaliwin: taqbaylit, tatergit, tamazi[γ]t n Waṭlas Alemmas.
+9226199	Rnu [γ]ur-s, isezgzawalen-a werǧin sawḍen ad d-gemren awalen akk n tmeslayin i[γ]ef mmugen.
+9226202	Acku taseknawalt n tmazi[γ]t tettmaggar-d aṭas n wuguren deg tigin n yisegzawalen.
+9226203	Uguren-a, timental-nsen d tidersi n tezrawin i d-yellan [γ]ef-s, ama d tid n tegmert ama d tid n tesleḍt i usebded n tarrayin d teẓriyin i[γ]ef ara yebnu usegzawal.
+9226204	Ass-a, wid i ixeddmen isegzawalen d yimawalen, tuget deg-sen d ibujaden, ur llin d imazzagen, ur ten-bnin la [γ]ef teẓriyin la [γ]ef tarrayin i iwulmen, degmi ay sɛan aṭas n lixsas, ur llin d ussnanen.
+9256578	Awi ikajuten-nni ɣer wat S[ε]id.
+9271900	Ad zerben ɣer Fer[ε]un.
+9271913	Ad igaǧǧ ɣer At [Σ]idel.
+9271974	Tteqqlemt ɣer Iɣil A[ε]li.
+9271983	Ad tezwiremt ɣer Iɣil A[ε]li.
+9272014	Tberneḍ ɣer Iɣil A[ε]li.
+9272061	Jbu ɣer Iɣil A[ε]li.
+9272096	Trewlemt ɣer Fer[ε]un.
+9272189	Ur nezzi ara ɣer At [Σ]idel.
+9272269	Tedda ɣer Fer[ε]un.
+9272345	Tthummuɣ ɣer Iɣil A[ε]li.
+9272364	Ad hemlent ɣer Fer[ε]un.
+9272437	Ttarramt ɣer Iɣil A[ε]li.
+9272462	Tewwḍem ɣer Iɣil A[ε]li.
+9272533	Ur tezwareḍ ara ɣer At [Σ]idel.
+9272588	Berrnet ɣer At [Σ]idel.
+9272706	Ur rwilen ara ɣer Iɣil A[ε]li.
+9272712	Nessikil ɣer At [Σ]idel.
+9272788	Ad terremt ɣer Iɣil A[ε]li.
+9272847	Ur teddimt ara ɣer Iɣil A[ε]li.
+9272912	Seddayent ɣer Iɣil A[ε]li.
+9272923	Tedda ɣer At [Σ]idel.
+9272992	Ad terr ɣer Iɣil A[ε]li.
+9273069	Ad nehreɣ ɣer Iɣil A[ε]li.
+9273081	Tmerrḥemt ɣer Iɣil A[ε]li.
+9273253	Ur terwilemt ara ɣer At [Σ]idel.
+9273336	Terram ɣer Fer[ε]un.
+9273368	Ur tezzimt ara ɣer Iɣil A[ε]li.
+9273388	Ttsamit ɣer At [Σ]idel.
+9273422	Ur hmilent ara ɣer Iɣil A[ε]li.
+9273432	Ur tebrinemt ara ɣer At [Σ]idel.
+9273494	Ad teddhem ɣer Fer[ε]un.
+9273603	Leḥḥut ɣer Fer[ε]un.
+9273625	Nehhret ɣer At [Σ]idel.
+9273655	Ddehhimeɣ ɣer At [Σ]idel.
+9273690	Ad tafeg ɣer Fer[ε]un.
+9273709	Ddehhimen ɣer At [Σ]idel.
+9273861	Hummemt ɣer At [Σ]idel.
+9273864	Ireggel ɣer At [Σ]idel.
+9273868	Ɣaben ɣer At [Σ]idel.
+9273918	Ruḥent ɣer At [Σ]idel.
+9273990	Ad yezzi ɣer Iɣil A[ε]li.
+9274018	Ad tẓedmemt ɣer At [Σ]idel.
+9274103	Ẓedmeɣ ɣer Fer[ε]un.
+9274115	Teɣṣeb ɣer Fer[ε]un.
+9274197	Ssikileɣ ɣer Iɣil A[ε]li.
+9274228	Ad tawḍem ɣer Fer[ε]un.
+9274322	Ad afgent ɣer At [Σ]idel.
+9274343	Tettɛeddayemt ɣer At [Σ]idel.
+9274448	Sedday ɣer Fer[ε]un.
+9274532	Ur truḥeḍ ara ɣer Iɣil A[ε]li.
+9274724	Ad tawḍemt ɣer At [Σ]idel.
+9274771	Ad nɛeddi ɣer Fer[ε]un.
+9274977	Samit ɣer At [Σ]idel.
+9275059	Zwiret ɣer Fer[ε]un.
+9275136	Ruḥet ɣer Fer[ε]un.
+9275545	Rekkbent ɣer Iɣil A[ε]li.
+9275821	Ur zziɣ ara ɣer Iɣil A[ε]li.
+9275895	Ad teddehmem ɣer At [Σ]idel.
+9275903	Nehret ɣer Iɣil A[ε]li.
+9275908	Tḥewwṣem ɣer At [Σ]idel.
+9275919	Ssaklen ɣer Iɣil A[ε]li.
+9275941	Tteddu ɣer Iɣil A[ε]li.
+9276053	Themmel ɣer Iɣil A[ε]li.
+9276066	Ɣaben ɣer Fer[ε]un.
+9276341	Ur tewwiḍem ara ɣer Iɣil A[ε]li.
+9276383	Ad ḥewwṣen ɣer Iɣil A[ε]li.
+9276466	Ad bernen ɣer Fer[ε]un.
+9276684	Ur teɣṣibemt ara ɣer Iɣil A[ε]li.
+9276689	Zerbet ɣer At [Σ]idel.
+9276855	Ttɣab ɣer Iɣil A[ε]li.
+9276916	Ur sraffgen ara ɣer Iɣil A[ε]li.
+9277116	Ur tehmilemt ara ɣer Fer[ε]un.
+9277464	Rekbeɣ ɣer Iɣil A[ε]li.
+9277584	Rezzu ɣer At [Σ]idel.
+9277653	Ad ddehmen ɣer Fer[ε]un.
+9277679	Ttsamimt ɣer Fer[ε]un.
+9277770	Ttawḍet ɣer Iɣil A[ε]li.
+9277855	Ad hummeɣ ɣer At [Σ]idel.
+9277990	Ur hmilen ara ɣer At [Σ]idel.
+9278056	Ttɛeddayet ɣer Iɣil A[ε]li.
+9278184	Ur ɣṣibent ara ɣer Fer[ε]un.
+9278208	Ur tsuma ara ɣer Iɣil A[ε]li.
+9278259	Ddut ɣer At [Σ]idel.
+9278551	Ad igaǧǧ ɣer Fer[ε]un.
+9278588	Nher ɣer Fer[ε]un.
+9278616	Ur zwarent ara ɣer Fer[ε]un.
+9278820	Ur teddi ara ɣer At [Σ]idel.
+9278837	Tnehher ɣer Iɣil A[ε]li.
+9281417	Tseddamt ɣer Fer[ε]un.
+9281422	Ttmerriḥemt ɣer At [Σ]idel.
+9281459	Tessikilemt ɣer At [Σ]idel.
+9281511	Yerwel ɣer At [Σ]idel.
+9281552	Nuzzel ɣer Iɣil A[ε]li.
+9281601	Ḥewwṣent ɣer At [Σ]idel.
+9281653	Ad tsehhlemt ɣer Fer[ε]un.
+9281753	Tettmerriḥemt ɣer Fer[ε]un.
+9281795	Neddehhim ɣer Iɣil A[ε]li.
+9281837	Ad tɣabem ɣer Fer[ε]un.
+9281865	Ur nelḥi ara ɣer Iɣil A[ε]li.
+9281871	Ttafget ɣer Iɣil A[ε]li.
+9281893	Ad tsedduḍ ɣer Iɣil A[ε]li.
+9281905	Ɣeṣṣeb ɣer Fer[ε]un.
+9281983	Ur yehmil ara ɣer At [Σ]idel.
+9282004	Tnehhrem ɣer Iɣil A[ε]li.
+9282009	Ad hummen ɣer Fer[ε]un.
+9282012	Ad tesriffgeḍ ɣer Fer[ε]un.
+9282020	Ttarran ɣer Fer[ε]un.
+9282021	Nɣab ɣer At [Σ]idel.
+9282028	Netsehhil ɣer At [Σ]idel.
+9282031	Ad yerwel ɣer Iɣil A[ε]li.
+9282047	Jebbun ɣer Iɣil A[ε]li.
+9282048	Ad tbernemt ɣer Iɣil A[ε]li.
+9282069	Teddehmem ɣer Iɣil A[ε]li.
+9282071	Reggleɣ ɣer Fer[ε]un.
+9282108	Ur ddint ara ɣer Iɣil A[ε]li.
+9282114	Hummeɣ ɣer Iɣil A[ε]li.
+9282164	Sriffigen ɣer Iɣil A[ε]li.
+9282171	Yesriffig ɣer At [Σ]idel.
+9282172	Ad tsehhleḍ ɣer Iɣil A[ε]li.
+9282186	Tzerbeḍ ɣer At [Σ]idel.
+9282203	Ur telḥim ara ɣer Iɣil A[ε]li.
+9282218	Ur nmerreḥ ara ɣer At [Σ]idel.
+9282239	Zzin ɣer Iɣil A[ε]li.
+9282248	Ad ruḥeɣ ɣer Fer[ε]un.
+9282255	Isehhel ɣer Fer[ε]un.
+9282304	Ur tuzzilemt ara ɣer Fer[ε]un.
+9282314	Ur nejbi ara ɣer Fer[ε]un.
+9282320	Nehhren ɣer Fer[ε]un.
+9282326	Tettgaǧǧemt ɣer Fer[ε]un.
+9282336	Ruḥemt ɣer Fer[ε]un.
+9282348	Teddut ɣer At [Σ]idel.
+9282389	Ddumt ɣer Fer[ε]un.
+9282522	Ad inigent ɣer Iɣil A[ε]li.
+9282538	Ad rekbent ɣer Fer[ε]un.
+9282560	Ur nruḥ ara ɣer At [Σ]idel.
+9282583	Ad teddehmemt ɣer Fer[ε]un.
+9282624	Ur iḥewweṣ ara ɣer At [Σ]idel.
+9282626	Teddiḍ ɣer Fer[ε]un.
+9282627	Ur tenhirem ara ɣer At [Σ]idel.
+9282629	Ad ẓedmeɣ ɣer Fer[ε]un.
+9282646	Tettɛeddayem ɣer Iɣil A[ε]li.
+9282665	Tettɣawal ɣer At [Σ]idel.
+9282695	Tzerbemt ɣer At [Σ]idel.
+9282708	Ad terzumt ɣer At [Σ]idel.
+9282753	Ur unageɣ ara ɣer At [Σ]idel.
+9282758	Tthummunt ɣer Iɣil A[ε]li.
+9282833	Teqqlen ɣer Iɣil A[ε]li.
+9282839	Thummemt ɣer Iɣil A[ε]li.
+9282857	Tteqqel ɣer Fer[ε]un.
+9282883	Nzeggir ɣer At [Σ]idel.
+9282917	Ad seddunt ɣer Iɣil A[ε]li.
+9282939	Nebren ɣer Fer[ε]un.
+9282968	Rewlet ɣer At [Σ]idel.
+9283084	Ttarra ɣer Fer[ε]un.
+9290178	Ijebbu ɣer At [Σ]idel.
+9290211	Hemmel ɣer Fer[ε]un.
+9290227	Tettɣabemt ɣer Fer[ε]un.
+9290238	Ur terkibeḍ ara ɣer Fer[ε]un.
+9290272	Ad nezzi ɣer Iɣil A[ε]li.
+9290323	Ttezziḍ ɣer Iɣil A[ε]li.
+9290369	Tettruḥum ɣer Iɣil A[ε]li.
+9290457	Tezzimt ɣer Iɣil A[ε]li.
+9290502	Ur tḥewweṣ ara ɣer At [Σ]idel.
+9290514	Zerrbent ɣer Iɣil A[ε]li.
+9290522	Seddayet ɣer Iɣil A[ε]li.
+9290533	Leḥḥumt ɣer Fer[ε]un.
+9290549	Neẓdem ɣer Fer[ε]un.
+9290573	Ad yejbu ɣer Iɣil A[ε]li.
+9290585	Tehmel ɣer Iɣil A[ε]li.
+9290592	Ur iḥewweṣ ara ɣer Fer[ε]un.
+9290608	Ur ẓdimeɣ ara ɣer Iɣil A[ε]li.
+9290609	Ad tɛeddiḍ ɣer Fer[ε]un.
+9290685	Ɛejjlent ɣer Iɣil A[ε]li.
+9290701	Yeddhem ɣer Fer[ε]un.
+9290716	Ur telḥi ara ɣer Iɣil A[ε]li.
+9290742	Tessikilem ɣer Iɣil A[ε]li.
+9290750	Ur telḥim ara ɣer At [Σ]idel.
+9290757	Ad isami ɣer At [Σ]idel.
+9290778	Rewlent ɣer Fer[ε]un.
+9290791	Nruḥ ɣer Iɣil A[ε]li.
+9290809	Ad jbunt ɣer Fer[ε]un.
+9290832	Ad terreḍ ɣer At [Σ]idel.
+9290845	Neqqel ɣer At [Σ]idel.
+9290852	Ur tessakel ara ɣer Fer[ε]un.
+9290889	Thummemt ɣer Fer[ε]un.
+9290902	Ad qqlent ɣer Iɣil A[ε]li.
+9290909	Zerreb ɣer Fer[ε]un.
+9290923	Nejba ɣer Iɣil A[ε]li.
+9290944	Gaǧǧet ɣer Fer[ε]un.
+9290951	Ad tazzleḍ ɣer Iɣil A[ε]li.
+9290965	Ad trekbemt ɣer Fer[ε]un.
+9290984	Tmerrḥem ɣer Fer[ε]un.
+9291010	Tessikileḍ ɣer Fer[ε]un.
+9291019	Ur ɣaben ara ɣer Iɣil A[ε]li.
+9291022	Qqleɣ ɣer Fer[ε]un.
+9291026	Tzeggireḍ ɣer Fer[ε]un.
+9291030	Ur teɣṣibeḍ ara ɣer Iɣil A[ε]li.
+9291061	Tesriffigemt ɣer Fer[ε]un.
+9291088	Zziɣ ɣer At [Σ]idel.
+9291099	Merrḥet ɣer Fer[ε]un.
+9291103	Rrant ɣer Fer[ε]un.
+9291107	Ɛejlent ɣer At [Σ]idel.
+9291163	Ur yeɣṣib ara ɣer At [Σ]idel.
+9291168	Tufgem ɣer Fer[ε]un.
+9291171	Hemlent ɣer At [Σ]idel.
+9291234	Ad nseddu ɣer Iɣil A[ε]li.
+9291247	Qqel ɣer Iɣil A[ε]li.
+9291263	Ad ddehmeɣ ɣer At [Σ]idel.
+9291264	Samimt ɣer Fer[ε]un.
+9291268	Seddayeɣ ɣer Fer[ε]un.
+9291287	Ad tejbuḍ ɣer Fer[ε]un.
+9291289	Ttafget ɣer Fer[ε]un.
+9291323	Ur tessaklemt ara ɣer At [Σ]idel.
+9291338	Themlemt ɣer Iɣil A[ε]li.
+9291340	Tsehhileɣ ɣer Iɣil A[ε]li.
+9291344	Ttruḥu ɣer At [Σ]idel.
+9291360	Ssikilet ɣer Fer[ε]un.
+9291364	Ad trekbem ɣer Iɣil A[ε]li.
+9291463	Tezwaremt ɣer At [Σ]idel.
+9291476	Ad nsehhel ɣer Fer[ε]un.
+9291485	Ur sehhlen ara ɣer At [Σ]idel.
+9296909	Zerbeɣ ɣer At [Σ]idel.
+9297104	Ad tsami ɣer Fer[ε]un.
+9297148	Ad ssiklen ɣer Fer[ε]un.
+9297162	Tettmerriḥeḍ ɣer Iɣil A[ε]li.
+9297178	Terza ɣer Iɣil A[ε]li.
+9297215	Ad tsehhlem ɣer Iɣil A[ε]li.
+9297221	Trekbem ɣer Fer[ε]un.
+9297441	Nettɣawal ɣer Fer[ε]un.
+9297477	Trekkeb ɣer At [Σ]idel.
+9297485	Ur terwilem ara ɣer At [Σ]idel.
+9297552	Rekkbeɣ ɣer At [Σ]idel.
+9297613	Jbut ɣer At [Σ]idel.
+9297633	Ad afgent ɣer Fer[ε]un.
+9297638	Telḥam ɣer Fer[ε]un.
+9297669	Nettɣab ɣer Iɣil A[ε]li.
+9297747	Treggel ɣer At [Σ]idel.
+9297755	Ur ufigen ara ɣer Iɣil A[ε]li.
+9297807	Nhemmel ɣer Iɣil A[ε]li.
+9297861	Ad telḥum ɣer At [Σ]idel.
+9297876	Yettazzal ɣer Iɣil A[ε]li.
+9297893	Ɛeddant ɣer Iɣil A[ε]li.
+9297899	Ttmerriḥet ɣer At [Σ]idel.
+9297905	Iteddu ɣer Iɣil A[ε]li.
+9297928	Ad nseddu ɣer Fer[ε]un.
+9297997	Teqqleḍ ɣer Iɣil A[ε]li.
+9298009	Treggel ɣer Iɣil A[ε]li.
+9298149	Tettinigem ɣer Iɣil A[ε]li.
+9298175	Tuzzlemt ɣer Iɣil A[ε]li.
+9298180	Ad awḍeɣ ɣer Fer[ε]un.
+9298280	Awḍemt ɣer Iɣil A[ε]li.
+9298338	Tettarra ɣer Iɣil A[ε]li.
+9298383	Ad seddun ɣer Iɣil A[ε]li.
+9298396	Ur ssakleɣ ara ɣer Fer[ε]un.
+9298466	Ad qqleɣ ɣer At [Σ]idel.
+9298485	Ufgen ɣer At [Σ]idel.
+9298537	Ur iɛedda ara ɣer Fer[ε]un.
+9298751	Ɛejlent ɣer Iɣil A[ε]li.
+9298815	Thummemt ɣer At [Σ]idel.
+9298829	Yunag ɣer Fer[ε]un.
+9298832	Qqlet ɣer At [Σ]idel.
+9298845	Ɛeddit ɣer Fer[ε]un.
+9298954	Ur teddiḍ ara ɣer Iɣil A[ε]li.
+9299013	Yettafeg ɣer At [Σ]idel.
+9299031	Tettafeg ɣer At [Σ]idel.
+9299040	Ur ssaklent ara ɣer At [Σ]idel.
+9299041	Ad berneɣ ɣer Fer[ε]un.
+9299151	Regglet ɣer At [Σ]idel.
+9299163	Ad trewlemt ɣer Fer[ε]un.
+9299186	Ttafgemt ɣer At [Σ]idel.
+9299188	Hemmlent ɣer At [Σ]idel.
+9299286	Ur teɣṣibem ara ɣer At [Σ]idel.
+9299296	Tettɛeddayeḍ ɣer At [Σ]idel.
+9299338	Tesraffeg ɣer Iɣil A[ε]li.
+9299356	Tuzzel ɣer At [Σ]idel.
+9299386	Teddehmem ɣer Fer[ε]un.
+9299391	Seddan ɣer At [Σ]idel.
+9299396	Jbumt ɣer Iɣil A[ε]li.
+9299421	Ur neɣṣib ara ɣer Fer[ε]un.
+9299424	Ur tewwiḍ ara ɣer Iɣil A[ε]li.
+9299432	Ur tɣab ara ɣer Fer[ε]un.
+9299450	Ad tedduḍ ɣer Fer[ε]un.
+9299473	Tguǧǧeḍ ɣer At [Σ]idel.
+9299501	Wwḍent ɣer Fer[ε]un.
+9299551	Tunageḍ ɣer Fer[ε]un.
+9299559	Lḥu ɣer Iɣil A[ε]li.
+9303631	Nehrent ɣer At [Σ]idel.
+9303712	Nzerreb ɣer Iɣil A[ε]li.
+9303776	Berrnemt ɣer Fer[ε]un.
+9303791	Tteddumt ɣer At [Σ]idel.
+9303934	Tezwarem ɣer Iɣil A[ε]li.
+9304170	Ɛejlemt ɣer Iɣil A[ε]li.
+9304232	Teddehmeḍ ɣer Iɣil A[ε]li.
+9304252	Ur yeddi ara ɣer At [Σ]idel.
+9304286	Tezzit ɣer At [Σ]idel.
+9304362	Ad ɛejlent ɣer Fer[ε]un.
+9304386	Nedda ɣer Iɣil A[ε]li.
+9304402	Ttarraɣ ɣer Iɣil A[ε]li.
+9304493	Ur tsuma ara ɣer At [Σ]idel.
+9304760	Ad zerben ɣer At [Σ]idel.
+9304768	Ireggel ɣer Iɣil A[ε]li.
+9304805	Ur yuzzil ara ɣer At [Σ]idel.
+9304889	Ttarraɣ ɣer At [Σ]idel.
+9305048	Ad tḥewwṣemt ɣer Fer[ε]un.
+9305319	Ur yeddi ara ɣer Fer[ε]un.
+9305400	Ad themlemt ɣer Iɣil A[ε]li.
+9305430	Ad truḥem ɣer Iɣil A[ε]li.
+9305457	Ad neddhem ɣer At [Σ]idel.
+9305474	Tthummuɣ ɣer At [Σ]idel.
+9305478	Ad awḍen ɣer Iɣil A[ε]li.
+9305487	Tɛejlemt ɣer Fer[ε]un.
+9305505	Ad tsami ɣer Iɣil A[ε]li.
+9305585	Tettḥewwiṣeḍ ɣer Iɣil A[ε]li.
+9305650	Ur truḥemt ara ɣer Iɣil A[ε]li.
+9305687	Iteddu ɣer Fer[ε]un.
+9305690	Ddehhim ɣer Iɣil A[ε]li.
+9305692	Seddut ɣer Iɣil A[ε]li.
+9305703	Ur tewwiḍeḍ ara ɣer At [Σ]idel.
+9305726	Teddehmeḍ ɣer At [Σ]idel.
+9305766	Ur tsehhlemt ara ɣer Fer[ε]un.
+9305803	Tettawḍeḍ ɣer Iɣil A[ε]li.
+9305840	Tezzin ɣer At [Σ]idel.
+9305895	Ad tsamiḍ ɣer At [Σ]idel.
+9306036	Ur yeɣṣib ara ɣer Iɣil A[ε]li.
+9311894	Ɛejjlen ɣer At [Σ]idel.
+9311897	Tettarram ɣer Fer[ε]un.
+9311948	Netthummu ɣer Iɣil A[ε]li.
+9312002	Ur nezwar ara ɣer Iɣil A[ε]li.
+9312056	Ad inigent ɣer At [Σ]idel.
+9312184	Ur yezzi ara ɣer Fer[ε]un.
+9312299	Afget ɣer Fer[ε]un.
+9312302	Ɣawlen ɣer Iɣil A[ε]li.
+9312347	Teqqleḍ ɣer At [Σ]idel.
+9312484	Iɣeṣṣeb ɣer Fer[ε]un.
+9312529	Ɛejleɣ ɣer Iɣil A[ε]li.
+9312620	Ur tenhiremt ara ɣer At [Σ]idel.
+9312650	Ḥewwṣet ɣer Fer[ε]un.
+9312656	Tetsehhileḍ ɣer Fer[ε]un.
+9312758	Ad imerreḥ ɣer Fer[ε]un.
+9312779	Nzeggir ɣer Fer[ε]un.
+9312849	Ur tɛeddam ara ɣer At [Σ]idel.
+9312953	Ur truḥemt ara ɣer Fer[ε]un.
+9313008	Nreggel ɣer Fer[ε]un.
+9313025	Ur rwileɣ ara ɣer Fer[ε]un.
+9313086	Humm ɣer Fer[ε]un.
+9313126	Ad tinigem ɣer Iɣil A[ε]li.
+9313189	Afget ɣer Iɣil A[ε]li.
+9313260	Tẓeddmemt ɣer Fer[ε]un.
+9313290	Ad tezzim ɣer Iɣil A[ε]li.
+9313297	Ttaweḍ ɣer Iɣil A[ε]li.
+9313336	Tuzzlem ɣer Iɣil A[ε]li.
+9313370	Ttɣawaleɣ ɣer Fer[ε]un.
+9313373	Tḥewwṣemt ɣer Iɣil A[ε]li.
+9313511	Ad rzuɣ ɣer Fer[ε]un.
+9313530	Tsehhilet ɣer Iɣil A[ε]li.
+9313564	Ad trekbeḍ ɣer Iɣil A[ε]li.
+9313609	Ad yerzu ɣer At [Σ]idel.
+9313634	Ddant ɣer Iɣil A[ε]li.
+9313676	Ad tmerrḥem ɣer Fer[ε]un.
+9313903	Jban ɣer Fer[ε]un.
+9313913	Ad tazzlem ɣer At [Σ]idel.
+9313923	Ad berneɣ ɣer Iɣil A[ε]li.
+9313982	Nufeg ɣer Fer[ε]un.
+9313992	Ḥewwṣemt ɣer Fer[ε]un.
+9314041	Ɣeṣbent ɣer At [Σ]idel.
+9314060	Ad ɣeṣbeɣ ɣer Iɣil A[ε]li.
+9314110	Ur teqqilemt ara ɣer At [Σ]idel.
+9314112	Tsehhel ɣer Iɣil A[ε]li.
+9314139	Ad teqqlemt ɣer Fer[ε]un.
+9314281	Ad tinigem ɣer At [Σ]idel.
+9314293	Tewwḍemt ɣer Iɣil A[ε]li.
+9314319	Bernen ɣer At [Σ]idel.
+9314348	Ur teɛjilem ara ɣer At [Σ]idel.
+9318297	Ruḥeɣ ɣer Iɣil A[ε]li.
+9318385	Ur yezwar ara ɣer Fer[ε]un.
+9318423	Yeqqel ɣer Fer[ε]un.
+9318450	Ad tessikel ɣer At [Σ]idel.
+9318517	Ad afgeɣ ɣer At [Σ]idel.
+9318621	Ad hemleɣ ɣer Fer[ε]un.
+9318806	Uzzlen ɣer At [Σ]idel.
+9318961	Reggleɣ ɣer Iɣil A[ε]li.
+9319015	Gaǧǧet ɣer Iɣil A[ε]li.
+9319164	Tguǧǧeḍ ɣer Fer[ε]un.
+9319588	Ddant ɣer At [Σ]idel.
+9319604	Zerrbet ɣer Iɣil A[ε]li.
+9319801	Tettḥewwiṣ ɣer Fer[ε]un.
+9319812	Ur unageɣ ara ɣer Fer[ε]un.
+9319897	Tettgaǧǧemt ɣer At [Σ]idel.
+9319910	Iniget ɣer At [Σ]idel.
+9319969	Ur teddim ara ɣer Iɣil A[ε]li.
+9320036	Ad tɛejlem ɣer Fer[ε]un.
+9320159	Ur yezwar ara ɣer At [Σ]idel.
+9320177	Tjebbuḍ ɣer Fer[ε]un.
+9320419	Ad zwireɣ ɣer Iɣil A[ε]li.
+9320440	Ur terwileḍ ara ɣer At [Σ]idel.
+9320443	Nher ɣer At [Σ]idel.
+9320563	Ur nezrib ara ɣer Iɣil A[ε]li.
+9320738	Ddut ɣer Iɣil A[ε]li.
+9320986	Tettgaǧǧem ɣer At [Σ]idel.
+9321032	Ad tezwiremt ɣer At [Σ]idel.
+9321064	Tezzin ɣer Fer[ε]un.
+9321077	Ttɣabet ɣer At [Σ]idel.
+9321092	Ad terzu ɣer Iɣil A[ε]li.
+9321143	Tessikilem ɣer At [Σ]idel.
+9321198	Yettazzal ɣer At [Σ]idel.
+9321226	Ur nunag ara ɣer Fer[ε]un.
+9321311	Tregglemt ɣer Fer[ε]un.
+9321446	Ad ɣiwlen ɣer Iɣil A[ε]li.
+9321634	Ur nɣab ara ɣer Fer[ε]un.
+9321741	Ad rekbeɣ ɣer At [Σ]idel.
+9321755	Ur ddehmen ara ɣer Fer[ε]un.
+9321921	Ihemmel ɣer Fer[ε]un.
+9322018	Ad tezwireḍ ɣer Fer[ε]un.
+9322096	Ad tgaǧǧ ɣer At [Σ]idel.
+9322345	Unageɣ ɣer Fer[ε]un.
+9322598	Ad tɛeddiḍ ɣer At [Σ]idel.
+9322682	Ur nsedda ara ɣer Iɣil A[ε]li.
+9322832	Ad teɛjel ɣer Fer[ε]un.
+9322920	Iruḥ ɣer Iɣil A[ε]li.
+9322930	Yettaweḍ ɣer Iɣil A[ε]li.
+9322938	Tettarraḍ ɣer Fer[ε]un.
+9323006	Tẓeddmeḍ ɣer Fer[ε]un.
+9323041	Ad ɣiwleɣ ɣer Fer[ε]un.
+9325442	Ad tezwir ɣer Iɣil A[ε]li.
+9325654	Ddut ɣer Fer[ε]un.
+9325720	Ad qqleɣ ɣer Iɣil A[ε]li.
+9325740	Tettgaǧǧemt ɣer Iɣil A[ε]li.
+9325840	Trewleḍ ɣer At [Σ]idel.
+9325909	Ttmerriḥent ɣer Iɣil A[ε]li.
+9325944	Tɣawlemt ɣer Iɣil A[ε]li.
+9325952	Iɣab ɣer At [Σ]idel.
+9326169	Ur tessaklem ara ɣer Fer[ε]un.
+9326255	Tettɣabeḍ ɣer Iɣil A[ε]li.
+9326262	Ad yezwir ɣer Iɣil A[ε]li.
+9326346	Ur neẓdim ara ɣer Fer[ε]un.
+9326361	Ad nɣab ɣer Fer[ε]un.
+9326374	Tḥewweṣ ɣer Fer[ε]un.
+9326398	Ad ẓedmen ɣer Fer[ε]un.
+9326401	Sriffigen ɣer At [Σ]idel.
+9326411	Ur ɣawleɣ ara ɣer Iɣil A[ε]li.
+9326445	Ur rkiben ara ɣer At [Σ]idel.
+9326562	Ad gaǧǧen ɣer Iɣil A[ε]li.
+9326695	Ad yenher ɣer At [Σ]idel.
+9326734	Ẓedmen ɣer Fer[ε]un.
+9326806	Tettazzalemt ɣer At [Σ]idel.
+9326914	Ad nerr ɣer Fer[ε]un.
+9326972	Regglemt ɣer Fer[ε]un.
+9327087	Netsehhil ɣer Iɣil A[ε]li.
+9327148	Nrezzu ɣer At [Σ]idel.
+9327233	Iruḥ ɣer At [Σ]idel.
+9327265	Ad nezzi ɣer Fer[ε]un.
+9327266	Ad tbernem ɣer Fer[ε]un.
+9327424	Ur tuzzilem ara ɣer Iɣil A[ε]li.
+9327498	Ad tazzleḍ ɣer At [Σ]idel.
+9327533	Tzeggir ɣer Iɣil A[ε]li.
+9327698	Yettruḥu ɣer Iɣil A[ε]li.
+9327807	Ur ẓdimeɣ ara ɣer At [Σ]idel.
+9327815	Tberrnem ɣer At [Σ]idel.
+9327823	Tɛejleḍ ɣer Iɣil A[ε]li.
+9327991	Ur rwilent ara ɣer At [Σ]idel.
+9328022	Teqqlem ɣer Fer[ε]un.
+9328093	Ttsamiɣ ɣer Iɣil A[ε]li.
+9328095	Ttawḍeɣ ɣer Iɣil A[ε]li.
+9328100	Ad ḥewwṣent ɣer Iɣil A[ε]li.
+9328109	Nnehher ɣer Iɣil A[ε]li.
+9328160	Ad isami ɣer Iɣil A[ε]li.
+9338294	Ad tessiklem ɣer Fer[ε]un.
+9338346	Ad gaǧǧeɣ ɣer At [Σ]idel.
+9338406	Ur rzint ara ɣer Iɣil A[ε]li.
+9338424	Ssikel ɣer Iɣil A[ε]li.
+9338465	Ur tguǧǧemt ara ɣer Iɣil A[ε]li.
+9338490	Ur yesraffeg ara ɣer Iɣil A[ε]li.
+9338551	Teqqlemt ɣer Fer[ε]un.
+9338576	Wwḍeɣ ɣer At [Σ]idel.
+9338594	Ɣiwlemt ɣer Fer[ε]un.
+9338602	Ad rewleɣ ɣer Iɣil A[ε]li.
+9338646	Nsedda ɣer At [Σ]idel.
+9338651	Ɛejjlen ɣer Fer[ε]un.
+9338674	Nẓeddem ɣer Fer[ε]un.
+9338829	Ad ḥewwṣeɣ ɣer Fer[ε]un.
+9338838	Nezzi ɣer Iɣil A[ε]li.
+9338862	Jban ɣer Iɣil A[ε]li.
+9339010	Themmel ɣer At [Σ]idel.
+9339125	Nehmel ɣer Fer[ε]un.
+9339148	Ad telḥuḍ ɣer Fer[ε]un.
+9339249	Ad awḍeɣ ɣer At [Σ]idel.
+9339297	Ur terwil ara ɣer At [Σ]idel.
+9339356	Trezzuḍ ɣer Iɣil A[ε]li.
+9339375	Nsedday ɣer At [Σ]idel.
+9339384	Ur ddehmeɣ ara ɣer At [Σ]idel.
+9339389	Tseddayeḍ ɣer Iɣil A[ε]li.
+9339411	Ad nruḥ ɣer Iɣil A[ε]li.
+9339414	Ad truḥ ɣer Iɣil A[ε]li.
+9339532	Zerben ɣer At [Σ]idel.
+9339695	Ijebbu ɣer Fer[ε]un.
+9339713	Ad tesriffgemt ɣer Iɣil A[ε]li.
+9339877	Nettḥewwiṣ ɣer Fer[ε]un.
+9339913	Tbernemt ɣer Fer[ε]un.
+9340029	Ad tafgemt ɣer Fer[ε]un.
+9340054	Ur isedda ara ɣer Iɣil A[ε]li.
+9340102	Qqlet ɣer Fer[ε]un.
+9340126	Tettɛedday ɣer Fer[ε]un.
+9340190	Ur yuzzil ara ɣer Iɣil A[ε]li.
+9340273	Ad naweḍ ɣer Iɣil A[ε]li.
+9340437	Teqqlemt ɣer At [Σ]idel.
+9340459	Nerra ɣer Fer[ε]un.
+9340482	Seddayemt ɣer At [Σ]idel.
+9340554	Tedduɣ ɣer Iɣil A[ε]li.
+9340598	Rekben ɣer Iɣil A[ε]li.
+9340614	Inehher ɣer Fer[ε]un.
+9340649	Nettḥewwiṣ ɣer At [Σ]idel.
+9340681	Ad yinig ɣer Fer[ε]un.
+9362327	Aweḍ ɣer Fer[ε]un.
+9362332	Bernent ɣer Iɣil A[ε]li.
+9362364	Ur tehmilemt ara ɣer Iɣil A[ε]li.
+9362393	Ttɣabeɣ ɣer Fer[ε]un.
+9362404	Ad teddehmeḍ ɣer Iɣil A[ε]li.
+9362432	Ad tsehhlemt ɣer At [Σ]idel.
+9362457	Ɛeddaɣ ɣer Iɣil A[ε]li.
+9362565	Ad tzerbeḍ ɣer Iɣil A[ε]li.
+9362641	Bernemt ɣer At [Σ]idel.
+9362725	Yettɣab ɣer Iɣil A[ε]li.
+9362769	Ttazzalen ɣer Iɣil A[ε]li.
+9362789	Tettafgemt ɣer Fer[ε]un.
+9362800	Tẓeddmem ɣer Fer[ε]un.
+9362825	Ttḥewwiṣen ɣer Fer[ε]un.
+9362986	Teddehhimeḍ ɣer Iɣil A[ε]li.
+9363003	Rremt ɣer At [Σ]idel.
+9363015	Ad rren ɣer At [Σ]idel.
+9363047	Ur rwilen ara ɣer At [Σ]idel.
+9363131	Tnehhremt ɣer Iɣil A[ε]li.
+9363140	Ttafget ɣer At [Σ]idel.
+9363162	Ur teẓdimeḍ ara ɣer Fer[ε]un.
+9363182	Ttawḍent ɣer At [Σ]idel.
+9363237	Ad azzlent ɣer At [Σ]idel.
+9363249	Ur unagent ara ɣer Iɣil A[ε]li.
+9363277	Rezzunt ɣer At [Σ]idel.
+9363335	Ad tebren ɣer Fer[ε]un.
+9363403	Ur tezwaremt ara ɣer Fer[ε]un.
+9363417	Ur jbin ara ɣer Iɣil A[ε]li.
+9363446	Ad lḥunt ɣer Fer[ε]un.
+9363465	Ur tsehhlemt ara ɣer At [Σ]idel.
+9363500	Tseddayem ɣer At [Σ]idel.
+9363503	Afeg ɣer Iɣil A[ε]li.
+9363505	Yesraffeg ɣer Fer[ε]un.
+9363523	Ttruḥuɣ ɣer Fer[ε]un.
+9363566	Ur yebrin ara ɣer Fer[ε]un.
+9363586	Jbant ɣer Iɣil A[ε]li.
+9363636	Ttḥewwiṣeɣ ɣer Iɣil A[ε]li.
+9363653	Ur humment ara ɣer Fer[ε]un.
+9363708	Ad rewlent ɣer Fer[ε]un.
+9363727	Bernet ɣer Iɣil A[ε]li.
+9363739	Reggel ɣer At [Σ]idel.
+9363760	Rzumt ɣer Fer[ε]un.
+9363849	Isedda ɣer Iɣil A[ε]li.
+9363868	Ẓedmen ɣer Iɣil A[ε]li.
+9363945	Qqlent ɣer At [Σ]idel.
+9363985	Ur teẓdimem ara ɣer Iɣil A[ε]li.
+9364902	Ddehhiment ɣer Fer[ε]un.
+9365026	Tzeggirem ɣer Iɣil A[ε]li.
+9365032	Tufeg ɣer Fer[ε]un.
+9376301	Ur tmerrḥeḍ ara ɣer Iɣil A[ε]li.
+9376367	Ad ɣeṣbeɣ ɣer Fer[ε]un.
+9376381	Ur terri ara ɣer Iɣil A[ε]li.
+9376483	Ad tgaǧǧeḍ ɣer Iɣil A[ε]li.
+9376578	Ad nerwel ɣer Fer[ε]un.
+9376640	Sehhel ɣer Fer[ε]un.
+9376644	Ur ufigeɣ ara ɣer At [Σ]idel.
+9376700	Ad yesriffeg ɣer Iɣil A[ε]li.
+9376744	Hemlen ɣer Fer[ε]un.
+9376757	Ur neddi ara ɣer At [Σ]idel.
+9376785	Ur yeqqil ara ɣer Fer[ε]un.
+9376871	Ur tejbiḍ ara ɣer Iɣil A[ε]li.
+9376888	Nehret ɣer At [Σ]idel.
+9376903	Trekkbeḍ ɣer Iɣil A[ε]li.
+9376930	Ttazzalen ɣer Fer[ε]un.
+9377020	Ɛeddi ɣer Fer[ε]un.
+9377047	Tessaklem ɣer Fer[ε]un.
+9377089	Ad ẓedmen ɣer At [Σ]idel.
+9377105	Ur isedda ara ɣer At [Σ]idel.
+9377147	Ur terwileḍ ara ɣer Iɣil A[ε]li.
+9377181	Tunag ɣer Fer[ε]un.
+9377208	Ad ɛeddin ɣer Iɣil A[ε]li.
+9377212	Ur ḥewwṣent ara ɣer At [Σ]idel.
+9377214	Ad yeɛjel ɣer At [Σ]idel.
+9377289	Tseddayem ɣer Iɣil A[ε]li.
+9377305	Tedda ɣer Iɣil A[ε]li.
+9377330	Yufeg ɣer At [Σ]idel.
+9377394	Zwir ɣer Fer[ε]un.
+9377405	Tẓedmeḍ ɣer Iɣil A[ε]li.
+9377448	Nezwar ɣer At [Σ]idel.
+9377476	Tettarraḍ ɣer Iɣil A[ε]li.
+9377526	Ur yeqqil ara ɣer Iɣil A[ε]li.
+9377612	Ad tazzleḍ ɣer Fer[ε]un.
+9377628	Neẓdem ɣer At [Σ]idel.
+9377659	Tettɣabem ɣer At [Σ]idel.
+9377679	Tettawḍemt ɣer Iɣil A[ε]li.
+9377697	Ttezzim ɣer Fer[ε]un.
+9377703	Ur terzi ara ɣer Iɣil A[ε]li.
+9377812	Nezzi ɣer At [Σ]idel.
+9377891	Telḥiḍ ɣer Iɣil A[ε]li.
+9377939	Reggel ɣer Fer[ε]un.
+9377947	Hemmel ɣer At [Σ]idel.
+9377992	Iɛejjel ɣer Fer[ε]un.
+9378008	Ad teqqleḍ ɣer Fer[ε]un.
+9378096	Tɣeṣṣbem ɣer At [Σ]idel.
+9378126	Ur zwareɣ ara ɣer Iɣil A[ε]li.
+9378134	Yettruḥu ɣer At [Σ]idel.
+9378180	Ur teɛjil ara ɣer Iɣil A[ε]li.
+9378233	Terwel ɣer Fer[ε]un.
+9378315	Ur tufig ara ɣer At [Σ]idel.
+9378362	Iɣeṣṣeb ɣer Iɣil A[ε]li.
+9378386	Ddehmemt ɣer Iɣil A[ε]li.
+9378410	Tettarra ɣer At [Σ]idel.
+9378463	Tetthummuḍ ɣer At [Σ]idel.
+9378467	Ufgent ɣer Fer[ε]un.
+9378476	Tettmerriḥeḍ ɣer At [Σ]idel.
+9381891	Tettinig ɣer Fer[ε]un.
+9381893	Ur wwiḍen ara ɣer Fer[ε]un.
+9381897	Ḥewwṣen ɣer At [Σ]idel.
+9381904	Tesriffig ɣer At [Σ]idel.
+9381949	Ur tezwar ara ɣer At [Σ]idel.
+9381954	Ad tenher ɣer At [Σ]idel.
+9382061	Ur tɣawlemt ara ɣer Iɣil A[ε]li.
+9382087	Tettafgem ɣer Fer[ε]un.
+9382119	Tuzzleḍ ɣer Fer[ε]un.
+9382157	Rwel ɣer At [Σ]idel.
+9382249	Ad terwel ɣer Fer[ε]un.
+9382266	Ad ddunt ɣer Fer[ε]un.
+9382317	Leḥḥunt ɣer Fer[ε]un.
+9382370	Ur zzint ara ɣer Iɣil A[ε]li.
+9382545	Teẓdem ɣer Iɣil A[ε]li.
+9382565	Ad tɛeddiḍ ɣer Iɣil A[ε]li.
+9382596	Teqqlemt ɣer Iɣil A[ε]li.
+9382606	Yewweḍ ɣer At [Σ]idel.
+9382629	Zwiret ɣer At [Σ]idel.
+9382657	Ur merrḥen ara ɣer Fer[ε]un.
+9382729	Yezwar ɣer Iɣil A[ε]li.
+9382842	Ad ɛejlen ɣer At [Σ]idel.
+9382844	Ttruḥumt ɣer Iɣil A[ε]li.
+9382919	Ttɣab ɣer At [Σ]idel.
+9382959	Ur lḥiɣ ara ɣer Fer[ε]un.
+9383025	Ur ddehmen ara ɣer At [Σ]idel.
+9383066	Hummen ɣer Fer[ε]un.
+9383075	Truḥemt ɣer Iɣil A[ε]li.
+9383120	Ur ddiɣ ara ɣer Fer[ε]un.
+9383133	Tguǧǧemt ɣer Iɣil A[ε]li.
+9383202	Ad tgaǧǧemt ɣer At [Σ]idel.
+9383238	Bernet ɣer At [Σ]idel.
+9383245	Lḥumt ɣer At [Σ]idel.
+9383255	Ad tnehreḍ ɣer Fer[ε]un.
+9383277	Teddumt ɣer Iɣil A[ε]li.
+9383291	Leḥḥun ɣer Iɣil A[ε]li.
+9383299	Trewlem ɣer At [Σ]idel.
+9383401	Ad nsami ɣer Fer[ε]un.
+9383531	Ad yeqqel ɣer Iɣil A[ε]li.
+9383577	Tguǧǧ ɣer Iɣil A[ε]li.
+9383595	Tettɣawal ɣer Fer[ε]un.
+9383718	Tɣeṣbemt ɣer Fer[ε]un.
+9383757	Tnehremt ɣer Iɣil A[ε]li.
+9383821	Ttḥewwiṣent ɣer Iɣil A[ε]li.
+9383963	Ssikil ɣer Iɣil A[ε]li.
+9384081	Ad nehrent ɣer At [Σ]idel.
+9384214	Truḥ ɣer At [Σ]idel.
+9388479	Tɛejlem ɣer Iɣil A[ε]li.
+9388490	Ur terkibemt ara ɣer Iɣil A[ε]li.
+9388514	Newweḍ ɣer Iɣil A[ε]li.
+9388537	Ɛejjleɣ ɣer At [Σ]idel.
+9388601	Ad ḥewwṣeɣ ɣer Iɣil A[ε]li.
+9389091	Ad ɣiwlen ɣer Fer[ε]un.
+9389103	Ur uzzileɣ ara ɣer Iɣil A[ε]li.
+9389105	Tezziḍ ɣer At [Σ]idel.
+9389130	Ur ddin ara ɣer Fer[ε]un.
+9389134	Yezzi ɣer Fer[ε]un.
+9389169	Nɣawel ɣer Iɣil A[ε]li.
+9389177	Ad thummeḍ ɣer At [Σ]idel.
+9389210	Tettazzaleḍ ɣer Iɣil A[ε]li.
+9389235	Ad tessikleḍ ɣer At [Σ]idel.
+9389300	Tedduɣ ɣer At [Σ]idel.
+9389321	Tzerrbem ɣer At [Σ]idel.
+9389351	Ur terwileḍ ara ɣer Fer[ε]un.
+9389502	Ad yebren ɣer Iɣil A[ε]li.
+9389554	Ur tguǧǧem ara ɣer At [Σ]idel.
+9389559	Ur yeɛjil ara ɣer At [Σ]idel.
+9389578	Ad yeɛjel ɣer Fer[ε]un.
+9389675	Ad nruḥ ɣer At [Σ]idel.
+9389706	Jbiɣ ɣer Fer[ε]un.
+9389820	Imerreḥ ɣer At [Σ]idel.
+9389906	Nberren ɣer At [Σ]idel.
+9390000	Ad tejbu ɣer Iɣil A[ε]li.
+9390127	Afget ɣer At [Σ]idel.
+9390158	Zzint ɣer At [Σ]idel.
+9390264	Nenher ɣer At [Σ]idel.
+9390340	Yessikil ɣer Iɣil A[ε]li.
+9390386	Ur iɣab ara ɣer Fer[ε]un.
+9390425	Tewweḍ ɣer Fer[ε]un.
+9390606	Ad yerzu ɣer Iɣil A[ε]li.
+9390660	Hmel ɣer Iɣil A[ε]li.
+9390696	Ad sehhlent ɣer Iɣil A[ε]li.
+9390720	Ad yelḥu ɣer At [Σ]idel.
+9390779	Tsehhilen ɣer Iɣil A[ε]li.
+9390803	Ad hemlent ɣer Iɣil A[ε]li.
+9390809	Ur tehmilemt ara ɣer At [Σ]idel.
+9390824	Ad yerr ɣer At [Σ]idel.
+9390830	Ssikileɣ ɣer At [Σ]idel.
+9390840	Teddam ɣer Iɣil A[ε]li.
+9390937	Ad ddunt ɣer At [Σ]idel.
+9390950	Ur tejbimt ara ɣer At [Σ]idel.
+9390974	Neẓdem ɣer Iɣil A[ε]li.
+9390982	Truḥ ɣer Iɣil A[ε]li.
+9391025	Teqqlent ɣer Fer[ε]un.
+9391028	Ad sriffgent ɣer Fer[ε]un.
+9391064	Ur teɣṣib ara ɣer Iɣil A[ε]li.
+9391073	Ur rwilent ara ɣer Fer[ε]un.
+9391165	Ur unagent ara ɣer At [Σ]idel.
+9391181	Afgemt ɣer At [Σ]idel.
+9401221	Tḥewwṣeḍ ɣer Fer[ε]un.
+9401268	Ur teɛjileḍ ara ɣer At [Σ]idel.
+9401316	Ad ngaǧǧ ɣer Fer[ε]un.
+9401322	Yesraffeg ɣer Iɣil A[ε]li.
+9401329	Ad tḥewwṣemt ɣer At [Σ]idel.
+9401412	Ttsamin ɣer At [Σ]idel.
+9401487	Tettinigemt ɣer Iɣil A[ε]li.
+9401498	Seddayen ɣer Fer[ε]un.
+9401514	Jbu ɣer Fer[ε]un.
+9401597	Tzerbeḍ ɣer Fer[ε]un.
+9401629	Tɛejlemt ɣer Iɣil A[ε]li.
+9401664	Ad neẓdem ɣer At [Σ]idel.
+9401744	Ad teddehmem ɣer Iɣil A[ε]li.
+9401748	Ad nerzu ɣer At [Σ]idel.
+9401786	Ur tsehhlemt ara ɣer Iɣil A[ε]li.
+9401793	Ur teddehmeḍ ara ɣer Fer[ε]un.
+9402004	Nẓeddem ɣer Iɣil A[ε]li.
+9402119	Guǧǧeɣ ɣer At [Σ]idel.
+9402138	Ttruḥunt ɣer At [Σ]idel.
+9402155	Nehreɣ ɣer At [Σ]idel.
+9402216	Ur rrint ara ɣer Iɣil A[ε]li.
+9402348	Ur yejbi ara ɣer Fer[ε]un.
+9402360	Ur ɛeddan ara ɣer Iɣil A[ε]li.
+9402390	Ur truḥem ara ɣer Fer[ε]un.
+9402451	Ur tezribeḍ ara ɣer At [Σ]idel.
+9402466	Ur tunagem ara ɣer Fer[ε]un.
+9402524	Ad lḥun ɣer Fer[ε]un.
+9402734	Ad tessiklemt ɣer Fer[ε]un.
+9402918	Ttafgen ɣer Iɣil A[ε]li.
+9402991	Tnehhremt ɣer Fer[ε]un.
+9403064	Ad zzin ɣer Fer[ε]un.
+9403106	Berrnen ɣer At [Σ]idel.
+9403115	Tnehhreḍ ɣer Fer[ε]un.
+9403121	Ttmerriḥ ɣer Fer[ε]un.
+9403125	Iguǧǧ ɣer Fer[ε]un.
+9403136	Sehhlent ɣer Iɣil A[ε]li.
+9403150	Ur ihumm ara ɣer Iɣil A[ε]li.
+9403177	Yelḥa ɣer Fer[ε]un.
+9403190	Telḥam ɣer Iɣil A[ε]li.
+9403209	Azzlet ɣer At [Σ]idel.
+9403292	Ɣabet ɣer Iɣil A[ε]li.
+9403478	Ad yehmel ɣer Iɣil A[ε]li.
+9403513	Thumm ɣer Fer[ε]un.
+9403570	Ssakleɣ ɣer Iɣil A[ε]li.
+9403711	Ur teẓdimemt ara ɣer Iɣil A[ε]li.
+9403733	Tejbamt ɣer Iɣil A[ε]li.
+9403745	Ad tberneḍ ɣer At [Σ]idel.
+9403869	Seddayen ɣer Iɣil A[ε]li.
+9403875	Ad iseddu ɣer Fer[ε]un.
+9403913	Teddehhim ɣer Iɣil A[ε]li.
+9403985	Ad iḥewweṣ ɣer Iɣil A[ε]li.
+9404067	Tesriffigem ɣer At [Σ]idel.
+9404352	Ad terwel ɣer At [Σ]idel.
+9404373	Ur teẓdimem ara ɣer Fer[ε]un.
+9404473	Tɣawleḍ ɣer Iɣil A[ε]li.
+9404524	Ttruḥumt ɣer At [Σ]idel.
+9404527	Rewlet ɣer Iɣil A[ε]li.
+9404642	Tguǧǧem ɣer Fer[ε]un.
+9404726	Ad nelḥu ɣer Fer[ε]un.
+9404730	Ur yerkib ara ɣer At [Σ]idel.
+9404756	Ad hemleɣ ɣer Iɣil A[ε]li.
+9404818	Ur tsehhleḍ ara ɣer Fer[ε]un.
+9404963	Ur tsumaḍ ara ɣer At [Σ]idel.
+9405035	Ɣiwel ɣer Fer[ε]un.
+9405174	Ur truḥeḍ ara ɣer Fer[ε]un.
+9405232	Ad tezwiremt ɣer Fer[ε]un.
+9405242	Ad sriffgen ɣer Fer[ε]un.
+9405250	Tteddumt ɣer Fer[ε]un.
+9405254	Uzzlent ɣer Iɣil A[ε]li.
+9405279	Ur seddan ara ɣer Fer[ε]un.
+9405379	Merrḥemt ɣer Fer[ε]un.
+9405381	Tɣabemt ɣer Fer[ε]un.
+9405537	Leḥḥumt ɣer At [Σ]idel.
+9405589	Ur telḥi ara ɣer At [Σ]idel.
+9405709	Yerwel ɣer Iɣil A[ε]li.
+9405777	Tezzim ɣer Iɣil A[ε]li.
+9405999	Ur tɛeddamt ara ɣer Iɣil A[ε]li.
+9406025	Ad zzint ɣer At [Σ]idel.
+9406224	Telḥiḍ ɣer At [Σ]idel.
+9406271	Ad zzint ɣer Iɣil A[ε]li.
+9406297	Tthummut ɣer Fer[ε]un.
+9406416	Ad hemlen ɣer Iɣil A[ε]li.
+9406439	Tthummun ɣer At [Σ]idel.
+9406486	Ad yezwir ɣer Fer[ε]un.
+9406594	Yettɣab ɣer Fer[ε]un.
+9406599	Ttruḥu ɣer Fer[ε]un.
+9406611	Isuma ɣer Iɣil A[ε]li.
+9406668	Ɣawlen ɣer Fer[ε]un.
+9406674	Ad tseddum ɣer Iɣil A[ε]li.
+9406686	Ad inigen ɣer Fer[ε]un.
+9406715	Tregglemt ɣer At [Σ]idel.
+9406721	Tguǧǧem ɣer At [Σ]idel.
+9406734	Regglemt ɣer At [Σ]idel.
+9406771	Ad dduɣ ɣer Iɣil A[ε]li.
+9406777	Tḥewwṣem ɣer Iɣil A[ε]li.
+9406880	Zerrbet ɣer At [Σ]idel.
+9406907	Ur yelḥi ara ɣer At [Σ]idel.
+9406951	Ur tseddamt ara ɣer At [Σ]idel.
+9406986	Ddehmen ɣer Fer[ε]un.
+9406989	Ad teẓdem ɣer Iɣil A[ε]li.
+9407017	Ur tɣawel ara ɣer Fer[ε]un.
+9407183	Ad ssiklen ɣer At [Σ]idel.
+9407259	Ur nguǧǧ ara ɣer Iɣil A[ε]li.
+9407304	Njebbu ɣer At [Σ]idel.
+9407315	Trekkbem ɣer Fer[ε]un.
+9407336	Isedda ɣer At [Σ]idel.
+9407366	Yetsehhil ɣer At [Σ]idel.
+9407375	Ur guǧǧeɣ ara ɣer Fer[ε]un.
+9407496	Rran ɣer Fer[ε]un.
+9409791	Ur yessakel ara ɣer Iɣil A[ε]li.
+9409833	Ruḥeɣ ɣer At [Σ]idel.
+9409838	Tsedday ɣer Fer[ε]un.
+9409846	Ur tezzi ara ɣer Iɣil A[ε]li.
+9409861	Tettinigemt ɣer At [Σ]idel.
+9409864	Tetthummu ɣer Iɣil A[ε]li.
+9409912	Trekbeḍ ɣer Iɣil A[ε]li.
+9409915	Ad ruḥen ɣer Fer[ε]un.
+9409917	Teddehhimemt ɣer Fer[ε]un.
+9409928	Ad samint ɣer Fer[ε]un.
+9409996	Tettɣawaleḍ ɣer At [Σ]idel.
+9410005	Hummemt ɣer Fer[ε]un.
+9410018	Ad qqlen ɣer Iɣil A[ε]li.
+9410067	Newweḍ ɣer Fer[ε]un.
+9410098	Ur qqilent ara ɣer At [Σ]idel.
+9410113	Terza ɣer At [Σ]idel.
+9410151	Unagent ɣer Iɣil A[ε]li.
+9410211	Newweḍ ɣer At [Σ]idel.
+9410212	Zwir ɣer Iɣil A[ε]li.
+9410247	Ur teɛjilem ara ɣer Iɣil A[ε]li.
+9410263	Ur nhirent ara ɣer Iɣil A[ε]li.
+9410280	Neqqel ɣer Iɣil A[ε]li.
+9410343	Nesraffeg ɣer Fer[ε]un.
+9410400	Rewlen ɣer Iɣil A[ε]li.
+9410410	Bernent ɣer Fer[ε]un.
+9410435	Ad trewlemt ɣer At [Σ]idel.
+9410447	Ad tezzi ɣer Fer[ε]un.
+9410453	Ad terrem ɣer Fer[ε]un.
+9410454	Ttɣawalen ɣer Iɣil A[ε]li.
+9410458	Qqlemt ɣer At [Σ]idel.
+9410459	Ɛejlen ɣer At [Σ]idel.
+9410461	Tthummumt ɣer Iɣil A[ε]li.
+9410467	Terriḍ ɣer At [Σ]idel.
+9410469	Ur terzim ara ɣer At [Σ]idel.
+9410501	Ur teqqileḍ ara ɣer Iɣil A[ε]li.
+9410505	Zwaren ɣer Fer[ε]un.
+9410525	Tetthummumt ɣer Iɣil A[ε]li.
+9410535	Terramt ɣer Iɣil A[ε]li.
+9410543	Ur merrḥent ara ɣer At [Σ]idel.
+9410604	Ad tnehremt ɣer At [Σ]idel.
+9410628	Tleḥḥum ɣer Iɣil A[ε]li.
+9410636	Iɣawel ɣer Fer[ε]un.
+9410651	Tettmerriḥ ɣer Fer[ε]un.
+9410709	Ad terzu ɣer At [Σ]idel.
+9410725	Ur tseddam ara ɣer Iɣil A[ε]li.
+9410740	Ad qqlen ɣer At [Σ]idel.
+9410767	Ur hummeɣ ara ɣer Iɣil A[ε]li.
+9410782	Tɣeṣbemt ɣer Iɣil A[ε]li.
+9410811	Ad terr ɣer Fer[ε]un.
+9410839	Tezziḍ ɣer Iɣil A[ε]li.
+9410844	Tettruḥum ɣer At [Σ]idel.
+9410848	Tɣeṣbem ɣer Iɣil A[ε]li.
+9410850	Ad tinig ɣer At [Σ]idel.
+9410860	Ttɛeddayemt ɣer Iɣil A[ε]li.
+9410951	Ad ssikleɣ ɣer At [Σ]idel.
+9410990	Ad yerkeb ɣer Iɣil A[ε]li.
+9411031	Rezzumt ɣer Iɣil A[ε]li.
+9411072	Tberren ɣer Fer[ε]un.
+9411110	Tɣabeḍ ɣer At [Σ]idel.
+9411223	Ur nunag ara ɣer At [Σ]idel.
+9411305	Tseddaḍ ɣer At [Σ]idel.
+9411351	Ddan ɣer Iɣil A[ε]li.
+9411513	Trekbemt ɣer Fer[ε]un.
+9411579	Tnehhremt ɣer At [Σ]idel.
+9411654	Ur teddi ara ɣer Iɣil A[ε]li.
+9411723	Ttinig ɣer At [Σ]idel.
+9411779	Tbernemt ɣer At [Σ]idel.
+9411863	Ur rwilent ara ɣer Iɣil A[ε]li.
+9411927	Rewlent ɣer Iɣil A[ε]li.
+9412056	Ssaklen ɣer At [Σ]idel.
+9412083	Nettɛedday ɣer At [Σ]idel.
+9412118	Ssikilen ɣer Fer[ε]un.
+9412171	Ad sehhlent ɣer At [Σ]idel.
+9412217	Ẓeddmet ɣer At [Σ]idel.
+9412289	Tẓedmem ɣer Iɣil A[ε]li.
+9412325	Ad tmerrḥeḍ ɣer Iɣil A[ε]li.
+9412380	Tettɣawalemt ɣer At [Σ]idel.
+9412402	Tɣeṣbeḍ ɣer Iɣil A[ε]li.
+9412442	Tmerrḥemt ɣer Fer[ε]un.
+9412609	Ur rwileɣ ara ɣer At [Σ]idel.
+9412651	Nsuma ɣer Fer[ε]un.
+9412705	Ad nehrent ɣer Fer[ε]un.
+9412726	Ur ihumm ara ɣer At [Σ]idel.
+9412752	Nettgaǧǧ ɣer Fer[ε]un.
+9412933	Leḥḥut ɣer At [Σ]idel.
+9413127	Ad ḥewwṣent ɣer At [Σ]idel.
+9413146	Ad zwireɣ ɣer At [Σ]idel.
+9413167	Nɣab ɣer Fer[ε]un.
+9413183	Ur tḥewwṣem ara ɣer Fer[ε]un.
+9413263	Ad terkeb ɣer Iɣil A[ε]li.
+9413266	Ẓeddmen ɣer Fer[ε]un.
+9413288	Ad tesriffeg ɣer At [Σ]idel.
+9413339	Ttɛedday ɣer Iɣil A[ε]li.
+9413405	Ad yafeg ɣer Iɣil A[ε]li.
+9413411	Ur ssaklent ara ɣer Fer[ε]un.
+9413543	Ad nehren ɣer Iɣil A[ε]li.
+9413572	Ur nebrin ara ɣer At [Σ]idel.
+9413647	Ddehhimet ɣer At [Σ]idel.
+9413680	Gaǧǧ ɣer Iɣil A[ε]li.
+9413763	Zerbemt ɣer Fer[ε]un.
+9413841	Ur merrḥen ara ɣer At [Σ]idel.
+9415860	Ur terziḍ ara ɣer At [Σ]idel.
+9415874	Irekkeb ɣer At [Σ]idel.
+9415879	Ad rewleɣ ɣer Fer[ε]un.
+9415886	Ur ḥewwṣent ara ɣer Fer[ε]un.
+9415908	Ad tawḍemt ɣer Iɣil A[ε]li.
+9415931	Ɛejlemt ɣer Fer[ε]un.
+9415959	Ɣeṣṣben ɣer At [Σ]idel.
+9415992	Ttmerriḥent ɣer Fer[ε]un.
+9416061	Ur terkibem ara ɣer At [Σ]idel.
+9416072	Yewweḍ ɣer Iɣil A[ε]li.
+9416084	Treggleḍ ɣer Iɣil A[ε]li.
+9416109	Tteqqlem ɣer At [Σ]idel.
+9416152	Yettafeg ɣer Iɣil A[ε]li.
+9416198	Nelḥa ɣer At [Σ]idel.
+9416204	Ad tḥewweṣ ɣer Iɣil A[ε]li.
+9416211	Yettinig ɣer Iɣil A[ε]li.
+9416251	Tnehreḍ ɣer At [Σ]idel.
+9416306	Yessakel ɣer Iɣil A[ε]li.
+9416365	Nettɛedday ɣer Fer[ε]un.
+9416404	Afeg ɣer At [Σ]idel.
+9416448	Zerbent ɣer At [Σ]idel.
+9416498	Ad neddu ɣer At [Σ]idel.
+9416547	Ẓeddmet ɣer Fer[ε]un.
+9416562	Tɣawleḍ ɣer Fer[ε]un.
+9416592	Tsuma ɣer At [Σ]idel.
+9416613	Ad tafgem ɣer At [Σ]idel.
+9416639	Ur nhirent ara ɣer At [Σ]idel.
+9416679	Ad tezwireḍ ɣer At [Σ]idel.
+9416700	Ad iḥewweṣ ɣer At [Σ]idel.
+9416739	Teqqleɣ ɣer At [Σ]idel.
+9416781	Trewleḍ ɣer Fer[ε]un.
+9416854	Tleḥḥuḍ ɣer Iɣil A[ε]li.
+9416892	Ɣabet ɣer At [Σ]idel.
+9416902	Rekbet ɣer Fer[ε]un.
+9416937	Tguǧǧeḍ ɣer Iɣil A[ε]li.
+9416960	Nnehher ɣer Fer[ε]un.
+9416991	Ad ɛeddiɣ ɣer Fer[ε]un.
+9417174	Teddhem ɣer Iɣil A[ε]li.
+9417182	Berneɣ ɣer Iɣil A[ε]li.
+9417220	Tettmerriḥemt ɣer At [Σ]idel.
+9417235	Tmerrḥemt ɣer At [Σ]idel.
+9417246	Tezzin ɣer Iɣil A[ε]li.
+9417285	Ddu ɣer Fer[ε]un.
+9417307	Tewwḍeḍ ɣer At [Σ]idel.
+9417334	Ad nɣiwel ɣer Iɣil A[ε]li.
+9417341	Ad merrḥent ɣer Fer[ε]un.
+9417348	Tzeggirem ɣer Fer[ε]un.
+9417403	Ur thummemt ara ɣer Fer[ε]un.
+9417485	Ur zziɣ ara ɣer At [Σ]idel.
+9417553	Ttazzal ɣer Fer[ε]un.
+9417565	Zerrbent ɣer At [Σ]idel.
+9417615	Tɣab ɣer Fer[ε]un.
+9417618	Rret ɣer Iɣil A[ε]li.
+9417639	Ur nsuma ara ɣer Fer[ε]un.
+9417646	Ad yezzi ɣer Fer[ε]un.
+9417692	Ur tesraffgem ara ɣer At [Σ]idel.
+9417783	Ad ɣiwleɣ ɣer Iɣil A[ε]li.
+9417824	Yeɣṣeb ɣer Iɣil A[ε]li.
+9418033	Ɛeddaɣ ɣer Fer[ε]un.
+9418065	Jbut ɣer Fer[ε]un.
+9418128	Rekkbet ɣer Iɣil A[ε]li.
+9418169	Ad yazzel ɣer Fer[ε]un.
+9418197	Ur ḥewwṣen ara ɣer At [Σ]idel.
+9418293	Ttgaǧǧent ɣer Iɣil A[ε]li.
+9420502	Guǧǧeɣ ɣer Fer[ε]un.
+9420530	Ur yewwiḍ ara ɣer Iɣil A[ε]li.
+9420539	Tufgeḍ ɣer At [Σ]idel.
+9420555	Tsehhlemt ɣer Fer[ε]un.
+9420583	Ttezzi ɣer At [Σ]idel.
+9420586	Ad yerwel ɣer At [Σ]idel.
+9420617	Ur ḥewwṣeɣ ara ɣer Fer[ε]un.
+9420635	Ɣabeɣ ɣer At [Σ]idel.
+9420707	Ur tejbiḍ ara ɣer At [Σ]idel.
+9420712	Ad yafeg ɣer At [Σ]idel.
+9420741	Ad afgen ɣer At [Σ]idel.
+9420778	Ssakleɣ ɣer Fer[ε]un.
+9420794	Seddayet ɣer Fer[ε]un.
+9420813	Yuzzel ɣer Fer[ε]un.
+9420823	Ɣawlent ɣer At [Σ]idel.
+9420840	Ur tuzzileḍ ara ɣer Iɣil A[ε]li.
+9420854	Ad tezwir ɣer At [Σ]idel.
+9420869	Ɛeddimt ɣer Iɣil A[ε]li.
+9420896	Ur thummem ara ɣer At [Σ]idel.
+9420901	Teddehmemt ɣer Iɣil A[ε]li.
+9420929	Ur tenhireḍ ara ɣer At [Σ]idel.
+9421023	Ur ssakleɣ ara ɣer Iɣil A[ε]li.
+9421037	Ad tɛejleḍ ɣer At [Σ]idel.
+9421059	Ur tɣabem ara ɣer At [Σ]idel.
+9421140	Zzit ɣer Iɣil A[ε]li.
+9421161	Tettazzalem ɣer Iɣil A[ε]li.
+9421210	Trewlemt ɣer At [Σ]idel.
+9421223	Terra ɣer Fer[ε]un.
+9421426	Ttɣawalemt ɣer Iɣil A[ε]li.
+9421497	Tettgaǧǧem ɣer Iɣil A[ε]li.
+9421529	Rewleɣ ɣer Iɣil A[ε]li.
+9421614	Regglent ɣer Fer[ε]un.
+9421653	Teɛjel ɣer Iɣil A[ε]li.
+9421693	Tehmel ɣer At [Σ]idel.
+9421794	Tettɛeddayem ɣer At [Σ]idel.
+9421907	Rriɣ ɣer At [Σ]idel.
+9421939	Ur terrim ara ɣer Iɣil A[ε]li.
+9422041	Ad rekben ɣer Iɣil A[ε]li.
+9422171	Tthummumt ɣer Fer[ε]un.
+9422177	Ur ufigent ara ɣer Fer[ε]un.
+9422180	Ur tehmileḍ ara ɣer Fer[ε]un.
+9422220	Teddehhimem ɣer Iɣil A[ε]li.
+9422230	Tettafgeḍ ɣer At [Σ]idel.
+9422253	Zwarent ɣer At [Σ]idel.
+9422254	Ur zzint ara ɣer Fer[ε]un.
+9422273	Ad tedduḍ ɣer At [Σ]idel.
+9422277	Tesraffgeḍ ɣer Iɣil A[ε]li.
+9422324	Ur ɣabeɣ ara ɣer Fer[ε]un.
+9422333	Yessikil ɣer Fer[ε]un.
+9422335	Ad teddu ɣer Iɣil A[ε]li.
+9422405	Ruḥen ɣer Fer[ε]un.
+9422412	Ssiklemt ɣer At [Σ]idel.
+9422582	Nehhren ɣer Iɣil A[ε]li.
+9422590	Ad tseddu ɣer At [Σ]idel.
+9422606	Ttawḍemt ɣer At [Σ]idel.
+9427039	Ur terwilemt ara ɣer Iɣil A[ε]li.
+9427046	Suman ɣer Fer[ε]un.
+9427074	Regglemt ɣer Iɣil A[ε]li.
+9427088	Sriffigent ɣer Fer[ε]un.
+9427102	Ur sumaɣ ara ɣer At [Σ]idel.
+9427283	Ad tɣabemt ɣer Iɣil A[ε]li.
+9427299	Ur tejbi ara ɣer Iɣil A[ε]li.
+9427502	Ad truḥem ɣer Fer[ε]un.
+9427653	Tnehremt ɣer At [Σ]idel.
+9427892	Samit ɣer Fer[ε]un.
+9427950	Ur teɛjilemt ara ɣer Iɣil A[ε]li.
+9427964	Ur iɣawel ara ɣer Fer[ε]un.
+9428203	Ad nafeg ɣer At [Σ]idel.
+9428267	Ɛjel ɣer Fer[ε]un.
+9428307	Yerza ɣer At [Σ]idel.
+9428690	Leḥḥu ɣer At [Σ]idel.
+9428779	Ssikilet ɣer Iɣil A[ε]li.
+9428807	Ur thumm ara ɣer Fer[ε]un.
+9428843	Ur teɣṣibem ara ɣer Fer[ε]un.
+9428855	Ur zribent ara ɣer Fer[ε]un.
+9429048	Truḥem ɣer At [Σ]idel.
+9429283	Ttarraɣ ɣer Fer[ε]un.
+9429345	Tẓedmemt ɣer Iɣil A[ε]li.
+9429423	Ad tmerrḥeḍ ɣer At [Σ]idel.
+9429665	Yelḥa ɣer Iɣil A[ε]li.
+9429715	Ad nḥewweṣ ɣer Fer[ε]un.
+9429804	Ur rzin ara ɣer Iɣil A[ε]li.
+9429809	Tsehhleḍ ɣer At [Σ]idel.
+9429859	Thummeḍ ɣer Iɣil A[ε]li.
+9429885	Afgemt ɣer Fer[ε]un.
+9430245	Ruḥ ɣer At [Σ]idel.
+9430290	Nreggel ɣer Iɣil A[ε]li.
+9430381	Seddut ɣer Fer[ε]un.
+9430476	Telḥa ɣer Iɣil A[ε]li.
+9430557	Ur ɛeddaɣ ara ɣer Fer[ε]un.
+9430767	Ad ẓedment ɣer At [Σ]idel.
+9431059	Tseddam ɣer Iɣil A[ε]li.
+9431133	Ttsamin ɣer Iɣil A[ε]li.
+9431136	Uzzleɣ ɣer Fer[ε]un.
+9431151	Seddaɣ ɣer Fer[ε]un.
+9431169	Ur tenhireḍ ara ɣer Iɣil A[ε]li.
+9431202	Ur tezzim ara ɣer At [Σ]idel.
+9431236	Ttɣawalent ɣer Iɣil A[ε]li.
+9431292	Ad rreɣ ɣer At [Σ]idel.
+9431316	Ẓeddem ɣer At [Σ]idel.
+9431321	Ad tsamimt ɣer Iɣil A[ε]li.
+9436431	Nettazzal ɣer At [Σ]idel.
+9436497	Ad tɛeddim ɣer At [Σ]idel.
+9436499	Nerza ɣer Fer[ε]un.
+9436502	Regglet ɣer Fer[ε]un.
+9436524	Ur nɣawel ara ɣer Iɣil A[ε]li.
+9436525	Ur yerzi ara ɣer Fer[ε]un.
+9436542	Ttiniget ɣer Fer[ε]un.
+9436559	Uzzlent ɣer Fer[ε]un.
+9436635	Ur terzi ara ɣer Fer[ε]un.
+9436685	Ur yejbi ara ɣer Iɣil A[ε]li.
+9436735	Tettsamim ɣer Iɣil A[ε]li.
+9436761	Ur nufig ara ɣer Fer[ε]un.
+9436776	Ur sraffgen ara ɣer At [Σ]idel.
+9436784	Ad nhumm ɣer Fer[ε]un.
+9436786	Ur nɛedda ara ɣer Iɣil A[ε]li.
+9436834	Telḥa ɣer Fer[ε]un.
+9436835	Ttazzalent ɣer Fer[ε]un.
+9436920	Ur tɣawlem ara ɣer Fer[ε]un.
+9437119	Ad teddum ɣer Fer[ε]un.
+9437150	Ad trewlem ɣer Fer[ε]un.
+9437190	Zerrbent ɣer Fer[ε]un.
+9437213	Themmlem ɣer At [Σ]idel.
+9437219	Ad ɛeddint ɣer Fer[ε]un.
+9437221	Tɛejjleḍ ɣer At [Σ]idel.
+9437249	Ad tmerrḥemt ɣer At [Σ]idel.
+9437340	Regglen ɣer At [Σ]idel.
+9437400	Rewleɣ ɣer Fer[ε]un.
+9437411	Yettgaǧǧ ɣer Fer[ε]un.
+9437421	Ɛeddi ɣer At [Σ]idel.
+9437423	Ur terwilem ara ɣer Iɣil A[ε]li.
+9437460	Ur hmilen ara ɣer Fer[ε]un.
+9437510	Ur tesraffgeḍ ara ɣer Fer[ε]un.
+9437566	Ɣeṣṣbent ɣer Iɣil A[ε]li.
+9437591	Nberren ɣer Iɣil A[ε]li.
+9437605	Nrekkeb ɣer Iɣil A[ε]li.
+9437654	Ur nsedda ara ɣer Fer[ε]un.
+9437746	Ufgent ɣer Iɣil A[ε]li.
+9437760	Hemlemt ɣer At [Σ]idel.
+9437762	Ad afgen ɣer Iɣil A[ε]li.
+9437794	Ɣabeɣ ɣer Iɣil A[ε]li.
+9437808	Nettɛedday ɣer Iɣil A[ε]li.
+9437840	Ur tunageḍ ara ɣer Fer[ε]un.
+9437857	Ad igaǧǧ ɣer Iɣil A[ε]li.
+9437865	Ttedduḍ ɣer Iɣil A[ε]li.
+9437892	Ur terkibeḍ ara ɣer At [Σ]idel.
+9437913	Ur tmerrḥemt ara ɣer Iɣil A[ε]li.
+9437963	Ad tɣiwleḍ ɣer Iɣil A[ε]li.
+9437968	Ur teddimt ara ɣer At [Σ]idel.
+9438003	Regglen ɣer Fer[ε]un.
+9438061	Ad sehhleɣ ɣer Fer[ε]un.
+9438064	Ad nɛeddi ɣer Iɣil A[ε]li.
+9438073	Ur teqqilem ara ɣer Fer[ε]un.
+9438176	Ẓedmemt ɣer At [Σ]idel.
+9438206	Nzerreb ɣer Fer[ε]un.
+9438220	Ur tessakel ara ɣer At [Σ]idel.
+9438250	Ttgaǧǧent ɣer At [Σ]idel.
+9438255	Seddaɣ ɣer At [Σ]idel.
+9438259	Ur ruḥen ara ɣer Fer[ε]un.
+9438281	Tettḥewwiṣem ɣer Iɣil A[ε]li.
+9438287	Ur qqileɣ ara ɣer Iɣil A[ε]li.
+9438290	Err ɣer Iɣil A[ε]li.
+9438296	Tberrnemt ɣer Fer[ε]un.
+9438402	Thumm ɣer Iɣil A[ε]li.
+9438408	Ad yeddhem ɣer At [Σ]idel.
+9438409	Ur nerwil ara ɣer At [Σ]idel.
+9438448	Ur yeddhem ara ɣer Iɣil A[ε]li.
+9438475	Ad lḥuɣ ɣer At [Σ]idel.
+9438501	Tsuma ɣer Fer[ε]un.
+9438533	Ur tezzim ara ɣer Iɣil A[ε]li.
+9438557	Nḥewweṣ ɣer At [Σ]idel.
+9438597	Yettḥewwiṣ ɣer Fer[ε]un.
+9438598	Ad gaǧǧen ɣer At [Σ]idel.
+9438624	Tthummunt ɣer At [Σ]idel.
+9438673	Ẓeddmeɣ ɣer At [Σ]idel.
+9438679	Ur tseddam ara ɣer At [Σ]idel.
+9438681	Ad nehmel ɣer At [Σ]idel.
+9438746	Ad ninig ɣer At [Σ]idel.
+9438753	Ttafgeɣ ɣer Fer[ε]un.
+9438760	Tsedda ɣer At [Σ]idel.
+9438761	Ur merrḥeɣ ara ɣer Fer[ε]un.
+9438783	Ur tḥewwṣemt ara ɣer Fer[ε]un.
+9438807	Jbut ɣer Iɣil A[ε]li.
+9438898	Ur ɛeddant ara ɣer Iɣil A[ε]li.
+9438935	Qqlemt ɣer Fer[ε]un.
+9438966	Ur terriḍ ara ɣer Iɣil A[ε]li.
+9439002	Rran ɣer Iɣil A[ε]li.
+9439014	Ur nɣab ara ɣer Iɣil A[ε]li.
+9439050	Gaǧǧet ɣer At [Σ]idel.
+9439093	Tɛejjel ɣer At [Σ]idel.
+9439099	Ddiɣ ɣer Iɣil A[ε]li.
+9439114	Ad iɣab ɣer At [Σ]idel.
+9439134	Nehhreɣ ɣer Iɣil A[ε]li.
+9439181	Yettɛedday ɣer Fer[ε]un.
+9439203	Ad tessikel ɣer Iɣil A[ε]li.
+9439211	Ihumm ɣer Fer[ε]un.
+9439214	Tessakleḍ ɣer Iɣil A[ε]li.
+9439276	Tettruḥu ɣer Fer[ε]un.
+9439347	Yerwel ɣer Fer[ε]un.
+9439360	Lḥan ɣer Fer[ε]un.
+9439385	Ur tejbim ara ɣer Fer[ε]un.
+9439432	Rret ɣer Fer[ε]un.
+9439444	Nẓeddem ɣer At [Σ]idel.
+9441340	Ur truḥ ara ɣer Fer[ε]un.
+9441399	Nehhren ɣer At [Σ]idel.
+9441406	Zerbemt ɣer At [Σ]idel.
+9441415	Ad thummem ɣer Fer[ε]un.
+9441429	Tettsamimt ɣer Fer[ε]un.
+9441481	Sriffgemt ɣer At [Σ]idel.
+9441489	Ur tesraffgemt ara ɣer Iɣil A[ε]li.
+9441498	Hemlet ɣer Fer[ε]un.
+9441528	Tberrnemt ɣer At [Σ]idel.
+9441573	Ad inigent ɣer Fer[ε]un.
+9441579	Ɣṣeb ɣer Fer[ε]un.
+9441622	Rekbent ɣer Fer[ε]un.
+9441628	Yesraffeg ɣer At [Σ]idel.
+9441674	Ad tsamim ɣer Iɣil A[ε]li.
+9441707	Ad tmerreḥ ɣer Fer[ε]un.
+9441729	Ttafgent ɣer Iɣil A[ε]li.
+9441785	Ad afgent ɣer Iɣil A[ε]li.
+9441819	Ɣab ɣer Fer[ε]un.
+9441844	Jebbunt ɣer Iɣil A[ε]li.
+9441854	Tleḥḥu ɣer Iɣil A[ε]li.
+9441871	Ad nehreɣ ɣer Fer[ε]un.
+9441900	Ad nenher ɣer Iɣil A[ε]li.
+9441940	Nunag ɣer Iɣil A[ε]li.
+9442026	Ttḥewwiṣent ɣer At [Σ]idel.
+9442072	Ɣeṣṣbet ɣer Iɣil A[ε]li.
+9442103	Ad ddehment ɣer At [Σ]idel.
+9442183	Ad ɛeddin ɣer At [Σ]idel.
+9442339	Ad samint ɣer Iɣil A[ε]li.
+9442460	Ur tejbim ara ɣer Iɣil A[ε]li.
+9442491	Tɛejjlem ɣer Iɣil A[ε]li.
+9442495	Rriɣ ɣer Iɣil A[ε]li.
+9442519	Ur qqilen ara ɣer Iɣil A[ε]li.
+9442548	Truḥem ɣer Iɣil A[ε]li.
+9442580	Ur ɛeddant ara ɣer At [Σ]idel.
+9442613	Nehren ɣer Iɣil A[ε]li.
+9442647	Nhumm ɣer At [Σ]idel.
+9442721	Nerwel ɣer Iɣil A[ε]li.
+9449159	Tteddu ɣer Fer[ε]un.
+9449247	Hemlen ɣer At [Σ]idel.
+9449254	Ad yeɣṣeb ɣer Fer[ε]un.
+9449297	Jebbuɣ ɣer Iɣil A[ε]li.
+9449320	Sriffget ɣer Fer[ε]un.
+9449325	Ur zwaren ara ɣer Fer[ε]un.
+9449349	Ad sriffgent ɣer At [Σ]idel.
+9449369	Ad taweḍ ɣer Fer[ε]un.
+9449387	Ur tsumam ara ɣer Iɣil A[ε]li.
+9449407	Ttezzimt ɣer Iɣil A[ε]li.
+9449413	Ur nessakel ara ɣer At [Σ]idel.
+9449418	Ur neqqil ara ɣer Fer[ε]un.
+9449485	Rekbeɣ ɣer Fer[ε]un.
+9449502	Ad nerzu ɣer Fer[ε]un.
+9449574	Ad merrḥen ɣer At [Σ]idel.
+9449583	Ad tejbum ɣer At [Σ]idel.
+9449620	Ur tɛeddaḍ ara ɣer At [Σ]idel.
+9449653	Ur neddi ara ɣer Iɣil A[ε]li.
+9449669	Ad sedduɣ ɣer Iɣil A[ε]li.
+9449814	Tesraffeg ɣer At [Σ]idel.
+9449816	Ttinigent ɣer At [Σ]idel.
+9449831	Sraffgent ɣer At [Σ]idel.
+9449877	Tessikil ɣer At [Σ]idel.
+9449881	Tezzint ɣer At [Σ]idel.
+9449884	Ẓeddmemt ɣer Iɣil A[ε]li.
+9449932	Ur seddaɣ ara ɣer Iɣil A[ε]li.
+9449958	Ur tguǧǧ ara ɣer At [Σ]idel.
+9450051	Guǧǧen ɣer Iɣil A[ε]li.
+9450060	Ur yeẓdim ara ɣer Iɣil A[ε]li.
+9450073	Unagen ɣer Fer[ε]un.
+9450078	Ad tedduḍ ɣer Iɣil A[ε]li.
+9450202	Jebbuɣ ɣer Fer[ε]un.
+9450210	Ttafeg ɣer Fer[ε]un.
+9450223	Suman ɣer At [Σ]idel.
+9450277	Regglent ɣer Iɣil A[ε]li.
+9450282	Ruḥemt ɣer Iɣil A[ε]li.
+9450283	Ad tezziḍ ɣer Fer[ε]un.
+9450291	Ad yazzel ɣer At [Σ]idel.
+9450329	Ur tewwiḍem ara ɣer At [Σ]idel.
+9450340	Ad tsehhel ɣer Iɣil A[ε]li.
+9450350	Jbumt ɣer Fer[ε]un.
+9450357	Rzut ɣer Iɣil A[ε]li.
+9450363	Ttinigen ɣer At [Σ]idel.
+9450402	Tesriffigeḍ ɣer Iɣil A[ε]li.
+9450418	Ur tsuma ara ɣer Fer[ε]un.
+9450504	Ad tɣiwlemt ɣer At [Σ]idel.
+9450531	Rezzu ɣer Iɣil A[ε]li.
+9450557	Zzi ɣer At [Σ]idel.
+9450559	Ttafgen ɣer At [Σ]idel.
+9450640	Ur terzim ara ɣer Fer[ε]un.
+9450648	Ttarran ɣer Iɣil A[ε]li.
+9450659	Yettɛedday ɣer Iɣil A[ε]li.
+9450666	Ad seddunt ɣer Fer[ε]un.
+9450675	Ur tunagemt ara ɣer Iɣil A[ε]li.
+9450757	Tezzimt ɣer Fer[ε]un.
+9450797	Ur nruḥ ara ɣer Fer[ε]un.
+9450851	Ur tguǧǧemt ara ɣer At [Σ]idel.
+9450884	Ur nerzi ara ɣer At [Σ]idel.
+9450937	Tmerrḥeḍ ɣer Fer[ε]un.
+9450973	Ttɣawalent ɣer At [Σ]idel.
+9451041	Nɛedda ɣer Fer[ε]un.
+9467689	Ad tinig ɣer Fer[ε]un.
+9467729	Yeɛjel ɣer Iɣil A[ε]li.
+9467773	Ad terr ɣer At [Σ]idel.
+9467785	Ad ddehmeɣ ɣer Fer[ε]un.
+9467810	Yettarra ɣer Fer[ε]un.
+9467812	Ur ssaklent ara ɣer Iɣil A[ε]li.
+9467821	Ad nsehhel ɣer At [Σ]idel.
+9467907	Ad tenher ɣer Iɣil A[ε]li.
+9467933	Awḍet ɣer Fer[ε]un.
+9467936	Teddumt ɣer Fer[ε]un.
+9467950	Ur tenhir ara ɣer At [Σ]idel.
+9467965	Ijebbu ɣer Iɣil A[ε]li.
+9467993	Ur teddehmem ara ɣer Fer[ε]un.
+9467994	Ur yelḥi ara ɣer Fer[ε]un.
+9468009	Rezzumt ɣer At [Σ]idel.
+9468010	Ad tejbum ɣer Fer[ε]un.
+9468075	Ufgeɣ ɣer Fer[ε]un.
+9468077	Tsuma ɣer Iɣil A[ε]li.
+9468108	Nenher ɣer Iɣil A[ε]li.
+9468147	Ur tehmileḍ ara ɣer Iɣil A[ε]li.
+9468172	Tettmerriḥemt ɣer Iɣil A[ε]li.
+9468180	Tezwareḍ ɣer Iɣil A[ε]li.
+9468189	Yeẓdem ɣer Fer[ε]un.
+9468258	Nehmel ɣer Iɣil A[ε]li.
+9468300	Sehhleɣ ɣer Iɣil A[ε]li.
+9468303	Trekkbem ɣer Iɣil A[ε]li.
+9468338	Ad tberneḍ ɣer Fer[ε]un.
+9468428	Sriffgemt ɣer Iɣil A[ε]li.
+9468429	Ur ɣṣibeɣ ara ɣer Fer[ε]un.
+9468482	Tsedda ɣer Iɣil A[ε]li.
+9468496	Yerza ɣer Iɣil A[ε]li.
+9468497	Ad tẓedmeḍ ɣer Fer[ε]un.
+9468503	Ur hmilent ara ɣer Fer[ε]un.
+9468517	Ur jbint ara ɣer Fer[ε]un.
+9468565	Ur isuma ara ɣer Fer[ε]un.
+9468571	Ur teɛjil ara ɣer At [Σ]idel.
+9468597	Rzan ɣer Iɣil A[ε]li.
+9468622	Teddamt ɣer At [Σ]idel.
+9468648	Treggel ɣer Fer[ε]un.
+9468666	Izeggir ɣer Fer[ε]un.
+9468698	Ur sraffgeɣ ara ɣer Fer[ε]un.
+9468769	Nezzi ɣer Fer[ε]un.
+9468774	Truḥ ɣer Fer[ε]un.
+9468815	Ur iɣab ara ɣer Iɣil A[ε]li.
+9468826	Rewlet ɣer Fer[ε]un.
+9468858	Ad tɛeddi ɣer Fer[ε]un.
+9468897	Ad teddum ɣer At [Σ]idel.
+9468907	Ur uzzilen ara ɣer Fer[ε]un.
+9468929	Ur tɣab ara ɣer At [Σ]idel.
+9469192	Rewlen ɣer Fer[ε]un.
+9469238	Ttarra ɣer At [Σ]idel.
+9469243	Ssikilent ɣer At [Σ]idel.
+9469245	Ad iɛeddi ɣer Fer[ε]un.
+9469273	Zwiret ɣer Iɣil A[ε]li.
+9469376	Iɣeṣṣeb ɣer At [Σ]idel.
+9469397	Thumm ɣer At [Σ]idel.
+9469459	Ur tesraffeg ara ɣer At [Σ]idel.
+9469462	Ur yeddhem ara ɣer Fer[ε]un.
+9469477	Ur teddehmem ara ɣer Iɣil A[ε]li.
+9469479	Ur sumant ara ɣer Iɣil A[ε]li.
+9469499	Tettḥewwiṣeḍ ɣer Fer[ε]un.
+9469509	Ur rkibeɣ ara ɣer At [Σ]idel.
+9469526	Ttɣaben ɣer Fer[ε]un.
+9469528	Rewlemt ɣer Fer[ε]un.
+9469643	Tzerrbemt ɣer At [Σ]idel.
+9469653	Ad terzum ɣer Iɣil A[ε]li.
+9469698	Ur nhireɣ ara ɣer At [Σ]idel.
+9469744	Iɣawel ɣer Iɣil A[ε]li.
+9469746	Trezzum ɣer Iɣil A[ε]li.
+9469759	Ur terzim ara ɣer Iɣil A[ε]li.
+9469776	Tewweḍ ɣer At [Σ]idel.
+9469831	Rekbent ɣer At [Σ]idel.
+9469917	Ad ruḥeɣ ɣer At [Σ]idel.
+9469981	Terza ɣer Fer[ε]un.
+9470049	Ad tezwirem ɣer Iɣil A[ε]li.
+9470053	Tteqqleḍ ɣer At [Σ]idel.
+9470075	Ttgaǧǧ ɣer At [Σ]idel.
+9470084	Nettinig ɣer At [Σ]idel.
+9470102	Ad ẓedment ɣer Iɣil A[ε]li.
+9470114	Ad tɛejlemt ɣer Fer[ε]un.
+9470226	Ur tguǧǧeḍ ara ɣer At [Σ]idel.
+9470350	Ad tnehrem ɣer At [Σ]idel.
+9470358	Sriffeg ɣer Iɣil A[ε]li.
+9470360	Iniget ɣer Fer[ε]un.
+9470370	Iɛejjel ɣer At [Σ]idel.
+9470384	Teddu ɣer Fer[ε]un.
+9470444	Rezzuɣ ɣer Fer[ε]un.
+9470451	Ur tezwar ara ɣer Iɣil A[ε]li.
+9470459	Ad rewlen ɣer Iɣil A[ε]li.
+9470536	Seddumt ɣer Fer[ε]un.
+9470647	Rekkbent ɣer At [Σ]idel.
+9470683	Ɣawlent ɣer Fer[ε]un.
+9470686	Ur rwilen ara ɣer Fer[ε]un.
+9470692	Ad teɛjel ɣer Iɣil A[ε]li.
+9470708	Gaǧǧ ɣer At [Σ]idel.
+9470719	Ur nerkib ara ɣer Iɣil A[ε]li.
+9470726	Tettɛeddayem ɣer Fer[ε]un.
+9470839	Ur nsehhel ara ɣer Iɣil A[ε]li.
+9470934	Tunagem ɣer At [Σ]idel.
+9470947	Sriffigeɣ ɣer At [Σ]idel.
+9470984	Ad yesriffeg ɣer Fer[ε]un.
+9471017	Ur truḥem ara ɣer Iɣil A[ε]li.
+9471069	Ẓdem ɣer Iɣil A[ε]li.
+9471115	Ddhem ɣer At [Σ]idel.
+9471183	Tesraffgeḍ ɣer At [Σ]idel.
+9471222	Ur neẓdim ara ɣer Iɣil A[ε]li.
+9471230	Tsehhileɣ ɣer Fer[ε]un.
+9471285	Lḥu ɣer At [Σ]idel.
+9471302	Ad tnehremt ɣer Iɣil A[ε]li.
+9471310	Teqqleɣ ɣer Iɣil A[ε]li.
+9471332	Ur wwiḍen ara ɣer At [Σ]idel.
+9471452	Tettsami ɣer At [Σ]idel.
+9471474	Unagen ɣer At [Σ]idel.
+9485092	Ad merrḥen ɣer Iɣil A[ε]li.
+9485098	Tettgaǧǧem ɣer Fer[ε]un.
+9485108	Ur tufigemt ara ɣer At [Σ]idel.
+9485110	Ur sehhlen ara ɣer Fer[ε]un.
+9485125	Ur tunag ara ɣer Iɣil A[ε]li.
+9485126	Ur yeɛjil ara ɣer Iɣil A[ε]li.
+9485148	Yebren ɣer Iɣil A[ε]li.
+9485189	Ɣawleɣ ɣer Iɣil A[ε]li.
+9485213	Ur zzint ara ɣer At [Σ]idel.
+9485222	Gaǧǧemt ɣer Fer[ε]un.
+9485285	Tettazzaleḍ ɣer Fer[ε]un.
+9485328	Tnehhreḍ ɣer Iɣil A[ε]li.
+9485362	Ttɛeddayeɣ ɣer Fer[ε]un.
+9485463	Ad teddehmeḍ ɣer At [Σ]idel.
+9485676	Nehhrent ɣer At [Σ]idel.
+9485687	Ad ḥewwṣent ɣer Fer[ε]un.
+9485703	Ad yeɣṣeb ɣer Iɣil A[ε]li.
+9485712	Zerbeɣ ɣer Iɣil A[ε]li.
+9485742	Ad tinigeḍ ɣer At [Σ]idel.
+9485744	Teqqel ɣer Iɣil A[ε]li.
+9485745	Hemlen ɣer Iɣil A[ε]li.
+9485773	Ur yewwiḍ ara ɣer Fer[ε]un.
+9485787	Tezzint ɣer Fer[ε]un.
+9485797	Ur tebrinemt ara ɣer Iɣil A[ε]li.
+9485811	Tettinigem ɣer Fer[ε]un.
+9485816	Jebbuɣ ɣer At [Σ]idel.
+9485846	Ad samiɣ ɣer At [Σ]idel.
+9485892	Tunag ɣer Iɣil A[ε]li.
+9485949	Ttawḍet ɣer Fer[ε]un.
+9485968	Ad terzumt ɣer Iɣil A[ε]li.
+9485991	Zeggiret ɣer Iɣil A[ε]li.
+9486016	Ur isuma ara ɣer Iɣil A[ε]li.
+9486072	Ad samin ɣer At [Σ]idel.
+9486168	Hemmlemt ɣer Fer[ε]un.
+9486189	Ur ɛjileɣ ara ɣer Fer[ε]un.
+9486234	Unagen ɣer Iɣil A[ε]li.
+9486240	Ad tzerbeḍ ɣer Fer[ε]un.
+9486388	Nesraffeg ɣer At [Σ]idel.
+9486409	Lḥant ɣer Fer[ε]un.
+9486554	Nettḥewwiṣ ɣer Iɣil A[ε]li.
+9486561	Ur tɣabemt ara ɣer Fer[ε]un.
+9486665	Tteqqel ɣer Iɣil A[ε]li.
+9486707	Ur tebrin ara ɣer At [Σ]idel.
+9486742	Nteqqel ɣer Iɣil A[ε]li.
+9486818	Yettɣawal ɣer Fer[ε]un.
+9486852	Tsumaḍ ɣer Iɣil A[ε]li.
+9486932	Ɛejjel ɣer Iɣil A[ε]li.
+9486982	Tɣawlem ɣer Fer[ε]un.
+9487007	Leḥḥumt ɣer Iɣil A[ε]li.
+9487019	Ttgaǧǧemt ɣer Iɣil A[ε]li.
+9487076	Ad nezwir ɣer Fer[ε]un.
+9487089	Teqqlen ɣer Fer[ε]un.
+9487196	Ad tsehhleḍ ɣer Fer[ε]un.
+9487247	Ur yezrib ara ɣer Iɣil A[ε]li.
+9487257	Ad lḥun ɣer Iɣil A[ε]li.
+9487362	Ad merrḥeɣ ɣer At [Σ]idel.
+9487435	Ad tezzi ɣer At [Σ]idel.
+9487447	Tuzzlem ɣer Fer[ε]un.
+9487453	Seddayent ɣer At [Σ]idel.
+9487532	Telḥiḍ ɣer Fer[ε]un.
+9487645	Guǧǧen ɣer Fer[ε]un.
+9487702	Terwel ɣer Iɣil A[ε]li.
+9487808	Tɣawel ɣer Fer[ε]un.
+9487887	Ur tguǧǧ ara ɣer Iɣil A[ε]li.
+9487899	Ad azzlen ɣer At [Σ]idel.
+9487949	Ad teqqlem ɣer Iɣil A[ε]li.
+9487966	Nehren ɣer At [Σ]idel.
+9487968	Ɛeddi ɣer Iɣil A[ε]li.
+9487983	Ur tmerrḥeḍ ara ɣer At [Σ]idel.
+9488076	Tnehrem ɣer Fer[ε]un.
+9488092	Ad thummemt ɣer Iɣil A[ε]li.
+9488122	Ad sriffgeɣ ɣer Fer[ε]un.
+9488145	Ur yerri ara ɣer Fer[ε]un.
+9488151	Rkeb ɣer Fer[ε]un.
+9488201	Ad ihumm ɣer Iɣil A[ε]li.
+9488264	Ur tsehhleḍ ara ɣer At [Σ]idel.
+9488265	Ur suman ara ɣer Fer[ε]un.
+9488306	Ad tezreb ɣer Fer[ε]un.
+9488335	Sami ɣer At [Σ]idel.
+9488357	Thummeḍ ɣer Fer[ε]un.
+9488408	Iberren ɣer At [Σ]idel.
+9488412	Ur guǧǧen ara ɣer Iɣil A[ε]li.
+9488420	Merrḥeɣ ɣer At [Σ]idel.
+9488513	Ur nhirent ara ɣer Fer[ε]un.
+9488519	Ad rewlent ɣer Iɣil A[ε]li.
+9488531	Ad rekbent ɣer At [Σ]idel.
+9488546	Tettɣawalem ɣer At [Σ]idel.
+9488593	Ur rkibent ara ɣer At [Σ]idel.
+9488600	Ur lḥiɣ ara ɣer Iɣil A[ε]li.
+9488618	Ɛejjlemt ɣer Fer[ε]un.
+9488643	Yettaweḍ ɣer Fer[ε]un.
+9488659	Ad themlem ɣer Fer[ε]un.
+9488667	Tsehhlem ɣer At [Σ]idel.
+9488669	Ttruḥut ɣer Fer[ε]un.
+9488713	Ur brinent ara ɣer Fer[ε]un.
+9488716	Ur isehhel ara ɣer At [Σ]idel.
+9488740	Tɛeddaḍ ɣer Iɣil A[ε]li.
+9489760	Ad telḥumt ɣer At [Σ]idel.
+9489778	Iɛejjel ɣer Iɣil A[ε]li.
+9489791	Ur unagen ara ɣer Fer[ε]un.
+9489797	Ad yezzi ɣer At [Σ]idel.
+9489813	Ad trekbeḍ ɣer At [Σ]idel.
+9489815	Ur teɛjilemt ara ɣer At [Σ]idel.
+9489869	Teddhem ɣer At [Σ]idel.
+9489888	Ur tsehhlem ara ɣer At [Σ]idel.
+9489936	Tteddum ɣer At [Σ]idel.
+9489949	Zerbeɣ ɣer Fer[ε]un.
+9489962	Ad terwel ɣer Iɣil A[ε]li.
+9490004	Tettɣabeḍ ɣer At [Σ]idel.
+9490034	Tettruḥuḍ ɣer Fer[ε]un.
+9490116	Ur rziɣ ara ɣer At [Σ]idel.
+9490162	Ur tɛeddamt ara ɣer At [Σ]idel.
+9490224	Azzlemt ɣer Iɣil A[ε]li.
+9490225	Rekben ɣer At [Σ]idel.
+9490256	Ad tsehhlem ɣer Fer[ε]un.
+9490318	Ur terzimt ara ɣer Fer[ε]un.
+9490393	Neddhem ɣer At [Σ]idel.
+9490401	Ttawḍent ɣer Iɣil A[ε]li.
+9490404	Ad nebren ɣer Iɣil A[ε]li.
+9490499	Ttezzimt ɣer Fer[ε]un.
+9490582	Ur yeɣṣib ara ɣer Fer[ε]un.
+9490639	Tettsamim ɣer Fer[ε]un.
+9490747	Ur tesraffeg ara ɣer Fer[ε]un.
+9490772	Ad yerzu ɣer Fer[ε]un.
+9490827	Ttazzalet ɣer Iɣil A[ε]li.
+9490858	Tsehhil ɣer At [Σ]idel.
+9490891	Ur teẓdim ara ɣer At [Σ]idel.
+9490897	Tesriffigeḍ ɣer At [Σ]idel.
+9490900	Neqqel ɣer Fer[ε]un.
+9491077	Tenher ɣer Iɣil A[ε]li.
+9491081	Ur tuzzileḍ ara ɣer At [Σ]idel.
+9491217	Ur uzzilen ara ɣer At [Σ]idel.
+9491255	Ad zwiren ɣer Fer[ε]un.
+9491308	Ẓdem ɣer At [Σ]idel.
+9491320	Ad tsehhel ɣer At [Σ]idel.
+9491345	Zerben ɣer Fer[ε]un.
+9491361	Ad thummeḍ ɣer Iɣil A[ε]li.
+9491364	Ur tunag ara ɣer Fer[ε]un.
+9491412	Ur tejbimt ara ɣer Iɣil A[ε]li.
+9491423	Ad zziɣ ɣer Iɣil A[ε]li.
+9491444	Merreḥ ɣer At [Σ]idel.
+9491485	Sriffgemt ɣer Fer[ε]un.
+9491512	Nettgaǧǧ ɣer At [Σ]idel.
+9491520	Ad samint ɣer At [Σ]idel.
+9491586	Aweḍ ɣer At [Σ]idel.
+9491596	Ur teɛjileḍ ara ɣer Fer[ε]un.
+9491679	Trekbem ɣer At [Σ]idel.
+9491692	Trekkeb ɣer Fer[ε]un.
+9491702	Tsehhilemt ɣer Iɣil A[ε]li.
+9491738	Tseddayem ɣer Fer[ε]un.
+9491741	Nettgaǧǧ ɣer Iɣil A[ε]li.
+9491784	Tnehher ɣer Fer[ε]un.
+9491801	Ur tḥewweṣ ara ɣer Iɣil A[ε]li.
+9491806	Rekkeb ɣer Iɣil A[ε]li.
+9491824	Lḥu ɣer Fer[ε]un.
+9491844	Ttazzaleɣ ɣer Fer[ε]un.
+9491906	Ad iɣiwel ɣer Fer[ε]un.
+9491945	Rekkbent ɣer Fer[ε]un.
+9491947	Seddu ɣer Iɣil A[ε]li.
+9492043	Ttgaǧǧen ɣer Fer[ε]un.
+9492077	Rzut ɣer At [Σ]idel.
+9492080	Yezreb ɣer At [Σ]idel.
+9492132	Ur yezzi ara ɣer At [Σ]idel.
+9492146	Ɛejjlet ɣer Fer[ε]un.
+9492253	Ad tgaǧǧem ɣer At [Σ]idel.
+9492290	Ɛejjlemt ɣer At [Σ]idel.
+9492311	Ẓeddem ɣer Fer[ε]un.
+9492325	Ttɣabent ɣer Iɣil A[ε]li.
+9492346	Uzzlen ɣer Iɣil A[ε]li.
+9492452	Unageɣ ɣer Iɣil A[ε]li.
+9492470	Tleḥḥumt ɣer Iɣil A[ε]li.
+9492515	Ẓeddment ɣer At [Σ]idel.
+9492563	Bernen ɣer Iɣil A[ε]li.
+9492611	Regglent ɣer At [Σ]idel.
+9492636	Ur tenhir ara ɣer Fer[ε]un.
+9492652	Tufgemt ɣer Iɣil A[ε]li.
+9492790	Ad azzlent ɣer Iɣil A[ε]li.
+9492909	Ad teddumt ɣer At [Σ]idel.
+9492986	Ur tseddamt ara ɣer Iɣil A[ε]li.
+9492996	Ad tɛeddim ɣer Fer[ε]un.
+9493152	Ad rreɣ ɣer Iɣil A[ε]li.
+9493233	Tejbam ɣer Fer[ε]un.
+9493261	Yenher ɣer Iɣil A[ε]li.
+9493295	Tzerbem ɣer Iɣil A[ε]li.
+9493310	Tberrnem ɣer Iɣil A[ε]li.
+9493479	Sehhlet ɣer At [Σ]idel.
+9493571	Ttarramt ɣer Fer[ε]un.
+9493601	Ur tezwar ara ɣer Fer[ε]un.
+9493621	Regglen ɣer Iɣil A[ε]li.
+9493633	Ad tafgem ɣer Iɣil A[ε]li.
+9493655	Ttinigemt ɣer At [Σ]idel.
+9493669	Ur ɣawleɣ ara ɣer At [Σ]idel.
+9493673	Tjebbu ɣer At [Σ]idel.
+9493750	Ɣiwlet ɣer Iɣil A[ε]li.
+9494078	Ttezzi ɣer Iɣil A[ε]li.
+9494103	Ur jbin ara ɣer Fer[ε]un.
+9494116	Ur tezribeḍ ara ɣer Iɣil A[ε]li.
+9494208	Ruḥen ɣer Iɣil A[ε]li.
+9494295	Ad nazzel ɣer Fer[ε]un.
+9494317	Nɣeṣṣeb ɣer Iɣil A[ε]li.
+9494327	Ad nerwel ɣer Iɣil A[ε]li.
+9494429	Themleḍ ɣer Iɣil A[ε]li.
+9494498	Ad tɛeddi ɣer At [Σ]idel.
+9494503	Ttiniget ɣer Iɣil A[ε]li.
+9494530	Themleḍ ɣer At [Σ]idel.
+9494546	Ad terzum ɣer At [Σ]idel.
+9494555	Teqqleḍ ɣer Fer[ε]un.
+9494577	Tzerbeḍ ɣer Iɣil A[ε]li.
+9494604	Ɣabeɣ ɣer Fer[ε]un.
+9494621	Ur tezzi ara ɣer Fer[ε]un.
+9494623	Ad iseddu ɣer At [Σ]idel.
+9494705	Ttmerriḥet ɣer Iɣil A[ε]li.
+9494791	Nsehhel ɣer At [Σ]idel.
+9494919	Ssikil ɣer Fer[ε]un.
+9514127	Tɛedda ɣer Fer[ε]un.
+9514165	Ur nhumm ara ɣer Iɣil A[ε]li.
+9514183	Ad tinigemt ɣer Fer[ε]un.
+9514304	Yezreb ɣer Iɣil A[ε]li.
+9514308	Ad sehhleɣ ɣer Iɣil A[ε]li.
+9514313	Ad ɣeṣbent ɣer Fer[ε]un.
+9514373	Qqlen ɣer Fer[ε]un.
+9514432	Ad telḥuḍ ɣer At [Σ]idel.
+9514465	Ur lḥiɣ ara ɣer At [Σ]idel.
+9514546	Teɛjel ɣer At [Σ]idel.
+9514569	Isedday ɣer Iɣil A[ε]li.
+9514639	Berneɣ ɣer At [Σ]idel.
+9514681	Ad tẓedmemt ɣer Iɣil A[ε]li.
+9514798	Tzerbemt ɣer Fer[ε]un.
+9514809	Iɣawel ɣer At [Σ]idel.
+9514829	Ur tezrib ara ɣer Iɣil A[ε]li.
+9514859	Tettgaǧǧeḍ ɣer At [Σ]idel.
+9514900	Ad tmerrḥem ɣer Iɣil A[ε]li.
+9514911	Ruḥet ɣer At [Σ]idel.
+9515001	Nehhrent ɣer Iɣil A[ε]li.
+9515007	Ad nesriffeg ɣer Iɣil A[ε]li.
+9515022	Tessikil ɣer Fer[ε]un.
+9515171	Teddam ɣer Fer[ε]un.
+9515235	Ad ruḥent ɣer At [Σ]idel.
+9515243	Ad telḥumt ɣer Iɣil A[ε]li.
+9515278	Ad gaǧǧent ɣer Iɣil A[ε]li.
+9515293	Tbernemt ɣer Iɣil A[ε]li.
+9515311	Ur teqqil ara ɣer Fer[ε]un.
+9515353	Ttaweḍ ɣer At [Σ]idel.
+9515368	Ur neqqil ara ɣer At [Σ]idel.
+9515483	Ur tsumam ara ɣer Fer[ε]un.
+9515666	Ɣiwlemt ɣer Iɣil A[ε]li.
+9515704	Irekkeb ɣer Fer[ε]un.
+9515766	Ur rziɣ ara ɣer Iɣil A[ε]li.
+9515809	Humment ɣer At [Σ]idel.
+9515878	Ur tehmilem ara ɣer Iɣil A[ε]li.
+9515882	Ad teqqleḍ ɣer At [Σ]idel.
+9515919	Zzit ɣer Fer[ε]un.
+9515929	Ur seddan ara ɣer Iɣil A[ε]li.
+9515941	Zeggirent ɣer Fer[ε]un.
+9515947	Ad tɣiwleḍ ɣer At [Σ]idel.
+9515969	Ur zwarent ara ɣer At [Σ]idel.
+9516011	Ur yerwil ara ɣer Iɣil A[ε]li.
+9516074	Tsumam ɣer Fer[ε]un.
+9516135	Tettafeg ɣer Fer[ε]un.
+9516208	Tetsehhil ɣer Fer[ε]un.
+9516246	Ad tɛejleḍ ɣer Iɣil A[ε]li.
+9516262	Uzzlent ɣer At [Σ]idel.
+9516352	Tesriffigem ɣer Fer[ε]un.
+9516423	Ad yerwel ɣer Fer[ε]un.
+9516435	Lḥan ɣer At [Σ]idel.
+9516473	Tɛejjleḍ ɣer Iɣil A[ε]li.
+9516582	Tettruḥuḍ ɣer At [Σ]idel.
+9516610	Zerrbeɣ ɣer Fer[ε]un.
+9516706	Tezreb ɣer Fer[ε]un.
+9516721	Ddehment ɣer At [Σ]idel.
+9516748	Ad lḥun ɣer At [Σ]idel.
+9516758	Ur zribeɣ ara ɣer Fer[ε]un.
+9516835	Ttafgent ɣer Fer[ε]un.
+9516872	Ttarrat ɣer Iɣil A[ε]li.
+9521635	Ur isehhel ara ɣer Fer[ε]un.
+9521692	Ur sraffgent ara ɣer Fer[ε]un.
+9521728	Zerrben ɣer At [Σ]idel.
+9521745	Yeẓdem ɣer Iɣil A[ε]li.
+9521748	Teddun ɣer Fer[ε]un.
+9521778	Ttawḍent ɣer Fer[ε]un.
+9521793	Hummeɣ ɣer Fer[ε]un.
+9521828	Ttɛeddayeɣ ɣer Iɣil A[ε]li.
+9521927	Nguǧǧ ɣer Iɣil A[ε]li.
+9521972	Ur tehmil ara ɣer Fer[ε]un.
+9521978	Ur nɣawel ara ɣer Fer[ε]un.
+9521993	Ad tessiklem ɣer Iɣil A[ε]li.
+9522275	Neddehhim ɣer At [Σ]idel.
+9522291	Ad thumm ɣer At [Σ]idel.
+9522363	Tettinigeḍ ɣer At [Σ]idel.
+9522373	Ur terwil ara ɣer Iɣil A[ε]li.
+9522425	Sehhleɣ ɣer Fer[ε]un.
+9522440	Ad tawḍem ɣer Iɣil A[ε]li.
+9522635	Tɛejjel ɣer Iɣil A[ε]li.
+9522687	Ttafgeɣ ɣer At [Σ]idel.
+9522932	Teddu ɣer At [Σ]idel.
+9522954	Themmlemt ɣer Iɣil A[ε]li.
+9523005	Ḥewwṣen ɣer Iɣil A[ε]li.
+9523031	Themmleḍ ɣer Fer[ε]un.
+9523043	Tufgem ɣer At [Σ]idel.
+9523059	Zeggiret ɣer At [Σ]idel.
+9523074	Isedda ɣer Fer[ε]un.
+9523153	Ad yeddu ɣer At [Σ]idel.
+9523201	Ad tɣeṣbeḍ ɣer At [Σ]idel.
+9523255	Ur isuma ara ɣer At [Σ]idel.
+9523277	Ur nesraffeg ara ɣer Iɣil A[ε]li.
+9523280	Ad tazzel ɣer Fer[ε]un.
+9523472	Tezziɣ ɣer At [Σ]idel.
+9523488	Ttɣawalen ɣer At [Σ]idel.
+9523493	Ur rzin ara ɣer At [Σ]idel.
+9523500	Ur nerwil ara ɣer Fer[ε]un.
+9523510	Leḥḥu ɣer Fer[ε]un.
+9523558	Ur tɣawlemt ara ɣer At [Σ]idel.
+9523619	Tthummu ɣer Fer[ε]un.
+9523659	Ur tewwiḍ ara ɣer Fer[ε]un.
+9523697	Rzut ɣer Fer[ε]un.
+9523731	Ttɛeddayet ɣer At [Σ]idel.
+9523758	Tzerbem ɣer At [Σ]idel.
+9523769	Ssiklet ɣer Iɣil A[ε]li.
+9523867	Ad tezzimt ɣer Iɣil A[ε]li.
+9523900	Tseddamt ɣer At [Σ]idel.
+9523913	Tɣeṣṣbemt ɣer At [Σ]idel.
+9523962	Ad nezreb ɣer At [Σ]idel.
+9523996	Telḥamt ɣer Iɣil A[ε]li.
+9524086	Ur ufigent ara ɣer At [Σ]idel.
+9524105	Tɣeṣṣbeḍ ɣer Iɣil A[ε]li.
+9524120	Tleḥḥu ɣer At [Σ]idel.
+9524123	Hemmlent ɣer Iɣil A[ε]li.
+9526765	Ad ɛejlen ɣer Fer[ε]un.
+9526808	Qqleɣ ɣer Iɣil A[ε]li.
+9526937	Ur terkibem ara ɣer Fer[ε]un.
+9527025	Tsehhil ɣer Iɣil A[ε]li.
+9527069	Iẓeddem ɣer Iɣil A[ε]li.
+9527110	Ur teẓdim ara ɣer Iɣil A[ε]li.
+9527134	Zerrbemt ɣer Fer[ε]un.
+9527259	Ad iɣiwel ɣer Iɣil A[ε]li.
+9527305	Ad ẓedment ɣer Fer[ε]un.
+9527332	Tessikilemt ɣer Fer[ε]un.
+9527358	Ur ruḥen ara ɣer Iɣil A[ε]li.
+9527377	Nettinig ɣer Iɣil A[ε]li.
+9527385	Tettmerriḥeḍ ɣer Fer[ε]un.
+9527418	Ad neẓdem ɣer Fer[ε]un.
+9527433	Ttafeg ɣer At [Σ]idel.
+9527462	Ur rriɣ ara ɣer Fer[ε]un.
+9527552	Ad rewlent ɣer At [Σ]idel.
+9527572	Ɣiwlemt ɣer At [Σ]idel.
+9527688	Tettmerriḥem ɣer At [Σ]idel.
+9527714	Ssikilen ɣer Iɣil A[ε]li.
+9527727	Sriffget ɣer At [Σ]idel.
+9527730	Sraffgeɣ ɣer Iɣil A[ε]li.
+9527817	Ad yenher ɣer Fer[ε]un.
+9527877	Ad tinig ɣer Iɣil A[ε]li.
+9527894	Ur ruḥent ara ɣer Iɣil A[ε]li.
+9527901	Ad sriffgen ɣer At [Σ]idel.
+9528095	Ur suman ara ɣer At [Σ]idel.
+9528144	Ur yebrin ara ɣer Iɣil A[ε]li.
+9528161	Ad nsehhel ɣer Iɣil A[ε]li.
+9528248	Ur rrint ara ɣer Fer[ε]un.
+9528324	Ad azzlen ɣer Fer[ε]un.
+9528341	Ur yeɛjil ara ɣer Fer[ε]un.
+9528399	Ad bernen ɣer At [Σ]idel.
+9528430	Tessakel ɣer Fer[ε]un.
+9528444	Ur zriben ara ɣer Fer[ε]un.
+9528561	Ad ddun ɣer Iɣil A[ε]li.
+9528593	Tesriffigem ɣer Iɣil A[ε]li.
+9528626	Ur tunagemt ara ɣer At [Σ]idel.
+9528686	Tewwḍem ɣer Fer[ε]un.
+9528712	Ur tḥewweṣ ara ɣer Fer[ε]un.
+9528727	Terkeb ɣer Fer[ε]un.
+9528729	Ad ɣabent ɣer Iɣil A[ε]li.
+9528738	Terkeb ɣer Iɣil A[ε]li.
+9528760	Ttɣawal ɣer At [Σ]idel.
+9528835	Tmerreḥ ɣer Fer[ε]un.
+9528870	Ur yezwar ara ɣer Iɣil A[ε]li.
+9528922	Ur telḥimt ara ɣer Fer[ε]un.
+9528974	Tejbamt ɣer Fer[ε]un.
+9532151	Ad yessikel ɣer Fer[ε]un.
+9532212	Ḥewwṣeɣ ɣer At [Σ]idel.
+9532213	Tmerreḥ ɣer At [Σ]idel.
+9532331	Ad rewleɣ ɣer At [Σ]idel.
+9532339	Ur merrḥeɣ ara ɣer Iɣil A[ε]li.
+9532414	Ad nessikel ɣer At [Σ]idel.
+9532451	Tettafgeḍ ɣer Iɣil A[ε]li.
+9532464	Tettruḥumt ɣer Iɣil A[ε]li.
+9532514	Zreb ɣer Fer[ε]un.
+9532517	Ttafeg ɣer Iɣil A[ε]li.
+9532534	Ur thummem ara ɣer Fer[ε]un.
+9532554	Ur nguǧǧ ara ɣer Fer[ε]un.
+9532590	Tḥewweṣ ɣer Iɣil A[ε]li.
+9532606	Zwaren ɣer Iɣil A[ε]li.
+9532654	Ad sedduɣ ɣer Fer[ε]un.
+9532672	Ad tafgemt ɣer Iɣil A[ε]li.
+9532674	Ad teẓdem ɣer At [Σ]idel.
+9532693	Ur nezzi ara ɣer Fer[ε]un.
+9532734	Tettarramt ɣer At [Σ]idel.
+9532744	Yetsehhil ɣer Fer[ε]un.
+9532779	Ur isehhel ara ɣer Iɣil A[ε]li.
+9532793	Tuzzel ɣer Fer[ε]un.
+9532801	Tebren ɣer Fer[ε]un.
+9532809	Tnehreḍ ɣer Iɣil A[ε]li.
+9532816	Samimt ɣer At [Σ]idel.
+9532837	Ur nuzzil ara ɣer Fer[ε]un.
+9532844	Teqqlet ɣer Iɣil A[ε]li.
+9532894	Ad tejbu ɣer At [Σ]idel.
+9532950	Terziḍ ɣer Fer[ε]un.
+9532963	Ur yerri ara ɣer Iɣil A[ε]li.
+9532966	Ad teqqleḍ ɣer Iɣil A[ε]li.
+9533049	Ur newwiḍ ara ɣer Iɣil A[ε]li.
+9533051	Ɣeṣṣbemt ɣer Fer[ε]un.
+9533065	Terramt ɣer Fer[ε]un.
+9533104	Ur tenhirem ara ɣer Iɣil A[ε]li.
+9533123	Tettɛeddayemt ɣer Fer[ε]un.
+9533130	Ad hemlent ɣer At [Σ]idel.
+9533131	Tettafgeḍ ɣer Fer[ε]un.
+9533165	Ttafgemt ɣer Iɣil A[ε]li.
+9533172	Tunagem ɣer Iɣil A[ε]li.
+9533216	Irekkeb ɣer Iɣil A[ε]li.
+9533218	Ad nafeg ɣer Fer[ε]un.
+9533228	Neɣṣeb ɣer At [Σ]idel.
+9533229	Zzi ɣer Fer[ε]un.
+9533234	Ur zribent ara ɣer At [Σ]idel.
+9533270	Zreb ɣer Iɣil A[ε]li.
+9533298	Netthummu ɣer Fer[ε]un.
+9533336	Ad tgaǧǧ ɣer Iɣil A[ε]li.
+9533377	Sumaɣ ɣer Iɣil A[ε]li.
+9533381	Ad neɣṣeb ɣer Iɣil A[ε]li.
+9533400	Tɣeṣṣbemt ɣer Fer[ε]un.
+9533420	Tezwareḍ ɣer At [Σ]idel.
+9533455	Ad nejbu ɣer At [Σ]idel.
+9533465	Nenher ɣer Fer[ε]un.
+9533501	Tjebbumt ɣer Iɣil A[ε]li.
+9533548	Ur tesraffgem ara ɣer Fer[ε]un.
+9533550	Tesriffigeḍ ɣer Fer[ε]un.
+9533556	Yedda ɣer Iɣil A[ε]li.
+9533562	Ur telḥimt ara ɣer At [Σ]idel.
+9533567	Ur nufig ara ɣer Iɣil A[ε]li.
+9536534	Ddhem ɣer Fer[ε]un.
+9536544	Ur ẓdimen ara ɣer At [Σ]idel.
+9536567	Ad tseddum ɣer At [Σ]idel.
+9536584	Ruḥet ɣer Iɣil A[ε]li.
+9536595	Ruḥemt ɣer At [Σ]idel.
+9536648	Ur ɛjilen ara ɣer Iɣil A[ε]li.
+9536689	Ttinigeɣ ɣer Fer[ε]un.
+9536766	Tejba ɣer At [Σ]idel.
+9536785	Ad naweḍ ɣer At [Σ]idel.
+9536845	Ɣeṣbeɣ ɣer Iɣil A[ε]li.
+9536850	Azzlemt ɣer Fer[ε]un.
+9536869	Ur nhumm ara ɣer Fer[ε]un.
+9536942	Ur teẓdimeḍ ara ɣer At [Σ]idel.
+9536957	Rekkbet ɣer At [Σ]idel.
+9537024	Ur zriben ara ɣer Iɣil A[ε]li.
+9537042	Ur neddhem ara ɣer Iɣil A[ε]li.
+9537106	Tettsamiḍ ɣer Fer[ε]un.
+9537159	Zerbet ɣer Iɣil A[ε]li.
+9537201	Nsedday ɣer Fer[ε]un.
+9537211	Tezzi ɣer At [Σ]idel.
+9537237	Ẓedment ɣer Fer[ε]un.
+9537271	Ad tessikleḍ ɣer Fer[ε]un.
+9537278	Ur wwiḍent ara ɣer At [Σ]idel.
+9537369	Ur tesraffgeḍ ara ɣer At [Σ]idel.
+9537378	Ttmerriḥen ɣer Fer[ε]un.
+9537426	Ttruḥuɣ ɣer Iɣil A[ε]li.
+9537488	Tregglem ɣer At [Σ]idel.
+9537509	Tsumaḍ ɣer At [Σ]idel.
+9537546	Treggleḍ ɣer Fer[ε]un.
+9537589	Nerza ɣer At [Σ]idel.
+9537620	Tuzzlemt ɣer At [Σ]idel.
+9537630	Yejba ɣer Iɣil A[ε]li.
+9537665	Ad sriffgent ɣer Iɣil A[ε]li.
+9537668	Ad nɣiwel ɣer At [Σ]idel.
+9537697	Tettazzal ɣer Fer[ε]un.
+9537724	Ttinigen ɣer Fer[ε]un.
+9537742	Ur iguǧǧ ara ɣer At [Σ]idel.
+9537783	Ad zziɣ ɣer Fer[ε]un.
+9537819	Ur tebrinem ara ɣer Fer[ε]un.
+9537835	Zwareɣ ɣer Iɣil A[ε]li.
+9537840	Ufgent ɣer At [Σ]idel.
+9537846	Ad dduɣ ɣer At [Σ]idel.
+9537856	Ur tɛedda ara ɣer Fer[ε]un.
+9537870	Yunag ɣer Iɣil A[ε]li.
+9537940	Ttɛeddayent ɣer At [Σ]idel.
+9537944	Sriffiget ɣer Iɣil A[ε]li.
+9537951	Tmerrḥeḍ ɣer At [Σ]idel.
+9537970	Reggleɣ ɣer At [Σ]idel.
+9537980	Yezwar ɣer Fer[ε]un.
+9537994	Truḥeḍ ɣer At [Σ]idel.
+9537995	Nteddu ɣer Iɣil A[ε]li.
+9538012	Ad tejbumt ɣer Fer[ε]un.
+9538062	Ur brinen ara ɣer At [Σ]idel.
+9538092	Ad tebren ɣer At [Σ]idel.
+9538132	Ɣeṣben ɣer Fer[ε]un.
+9538133	Wwḍen ɣer At [Σ]idel.
+9538140	Ttazzaleɣ ɣer At [Σ]idel.
+9538174	Tedduɣ ɣer Fer[ε]un.
+9538193	Nettsami ɣer Iɣil A[ε]li.
+9538194	Teddunt ɣer Fer[ε]un.
+9538238	Ur tmerrḥeḍ ara ɣer Fer[ε]un.
+9538242	Tzeggirem ɣer At [Σ]idel.
+9538264	Ad ɣeṣben ɣer Iɣil A[ε]li.
+9538297	Ad ddunt ɣer Iɣil A[ε]li.
+9538305	Ad themleḍ ɣer Iɣil A[ε]li.
+9538309	Ad nɣab ɣer At [Σ]idel.
+9538342	Ddehhimen ɣer Iɣil A[ε]li.
+9538346	Ur tufigeḍ ara ɣer Iɣil A[ε]li.
+9538386	Ẓedmeɣ ɣer Iɣil A[ε]li.
+9538395	Ttḥewwiṣen ɣer At [Σ]idel.
+9538432	Ur sraffgeɣ ara ɣer Iɣil A[ε]li.
+9538484	Inehher ɣer Iɣil A[ε]li.
+9538565	Ẓedmemt ɣer Fer[ε]un.
+9538615	Tɛeddam ɣer Iɣil A[ε]li.
+9538621	Ddumt ɣer Iɣil A[ε]li.
+9538643	Ad sriffgen ɣer Iɣil A[ε]li.
+9538644	Ad humment ɣer At [Σ]idel.
+9538702	Zwiremt ɣer At [Σ]idel.
+9538746	Truḥemt ɣer Fer[ε]un.
+9538750	Ad jbuɣ ɣer At [Σ]idel.
+9538763	Tɛejlemt ɣer At [Σ]idel.
+9538782	Jban ɣer At [Σ]idel.
+9538845	Ur tessakleḍ ara ɣer At [Σ]idel.
+9538874	Ad tɣabeḍ ɣer At [Σ]idel.
+9538880	Ad yeẓdem ɣer Fer[ε]un.
+9538929	Ad tsamim ɣer At [Σ]idel.
+9538985	Nteddu ɣer Fer[ε]un.
+9539011	Ad iḥewweṣ ɣer Fer[ε]un.
+9539059	Ad terrem ɣer Iɣil A[ε]li.
+9539092	Ad yerr ɣer Iɣil A[ε]li.
+9539105	Ad zerbeɣ ɣer Fer[ε]un.
+9539113	Ur ɣṣibeɣ ara ɣer Iɣil A[ε]li.
+9539183	Themmleḍ ɣer At [Σ]idel.
+9539200	Izerreb ɣer At [Σ]idel.
+9539202	Ad terzumt ɣer Fer[ε]un.
+9539222	Azzlemt ɣer At [Σ]idel.
+9539271	Tetsehhil ɣer At [Σ]idel.
+9539317	Tzeggireḍ ɣer At [Σ]idel.
+9539347	Ur ɣabent ara ɣer At [Σ]idel.
+9539407	Uzzlen ɣer Fer[ε]un.
+9539593	Ad tsehhlem ɣer At [Σ]idel.
+9539638	Ad neddhem ɣer Iɣil A[ε]li.
+9539665	Ad nehren ɣer Fer[ε]un.
+9539698	Telḥamt ɣer At [Σ]idel.
+9539707	Tezziḍ ɣer Fer[ε]un.
+9539758	Teddun ɣer Iɣil A[ε]li.
+9539760	Lḥan ɣer Iɣil A[ε]li.
+9539793	Rezzut ɣer At [Σ]idel.
+9539821	Ad zzin ɣer Iɣil A[ε]li.
+9539838	Yetsehhil ɣer Iɣil A[ε]li.
+9539866	Ur yunag ara ɣer Fer[ε]un.
+9539870	Irezzu ɣer At [Σ]idel.
+9539935	Ad trewlem ɣer Iɣil A[ε]li.
+9539942	Ddu ɣer At [Σ]idel.
+9539955	Tezwar ɣer Fer[ε]un.
+9539963	Ɣiwel ɣer At [Σ]idel.
+9539987	Ur teqqil ara ɣer Iɣil A[ε]li.
+9540007	Ssiklemt ɣer Fer[ε]un.
+9540016	Ur ẓdimen ara ɣer Iɣil A[ε]li.
+9540052	Ttazzal ɣer Iɣil A[ε]li.
+9540142	Neɣṣeb ɣer Fer[ε]un.
+9540174	Ur nelḥi ara ɣer At [Σ]idel.
+9540187	Ur teddhem ara ɣer At [Σ]idel.
+9540263	Ad tezwireḍ ɣer Iɣil A[ε]li.
+9540272	Rewlen ɣer At [Σ]idel.
+9540276	Tezzi ɣer Fer[ε]un.
+9540298	Ɣeṣbeɣ ɣer Fer[ε]un.
+9540310	Zerben ɣer Iɣil A[ε]li.
+9542521	Ur nessakel ara ɣer Fer[ε]un.
+9542522	Terramt ɣer At [Σ]idel.
+9542528	Yehmel ɣer Fer[ε]un.
+9542603	Ad truḥemt ɣer Iɣil A[ε]li.
+9542608	Ad iruḥ ɣer Iɣil A[ε]li.
+9542761	Tettɣabem ɣer Fer[ε]un.
+9542769	Tuzzel ɣer Iɣil A[ε]li.
+9542836	Ɣeṣben ɣer Iɣil A[ε]li.
+9542841	Isedday ɣer At [Σ]idel.
+9542875	Zzin ɣer At [Σ]idel.
+9542996	Ur teɣṣibeḍ ara ɣer Fer[ε]un.
+9543007	Ttazzalent ɣer Iɣil A[ε]li.
+9543085	Ttaweḍ ɣer Fer[ε]un.
+9543111	Ur nmerreḥ ara ɣer Fer[ε]un.
+9543263	Nuzzel ɣer At [Σ]idel.
+9543458	Ur tɣabemt ara ɣer At [Σ]idel.
+9543620	Ad ruḥen ɣer At [Σ]idel.
+9543627	Ad tezziḍ ɣer At [Σ]idel.
+9543789	Tzerbemt ɣer Iɣil A[ε]li.
+9543813	Ad tsedduḍ ɣer Fer[ε]un.
+9543824	Tteddum ɣer Fer[ε]un.
+9543956	Ur tguǧǧeḍ ara ɣer Fer[ε]un.
+9543990	Ur suman ara ɣer Iɣil A[ε]li.
+9543996	Merrḥen ɣer Iɣil A[ε]li.
+9544050	Ad trekbem ɣer At [Σ]idel.
+9544081	Ttɛeddayemt ɣer At [Σ]idel.
+9544160	Ad jbun ɣer At [Σ]idel.
+9544179	Ɣawleɣ ɣer At [Σ]idel.
+9544288	Tberrnemt ɣer Iɣil A[ε]li.
+9544370	Ad terreḍ ɣer Fer[ε]un.
+9544615	Ɣṣeb ɣer At [Σ]idel.
+9544659	Ad terzuḍ ɣer At [Σ]idel.
+9544689	Ɛjel ɣer At [Σ]idel.
+9544724	Ad tsami ɣer At [Σ]idel.
+9544850	Nehhreɣ ɣer Fer[ε]un.
+9544915	Ur uzzilent ara ɣer Iɣil A[ε]li.
+9544927	Zerreb ɣer Iɣil A[ε]li.
+9545002	Themmleḍ ɣer Iɣil A[ε]li.
+9545070	Nrekkeb ɣer Fer[ε]un.
+9545075	Tteddu ɣer At [Σ]idel.
+9545101	Ad telḥu ɣer At [Σ]idel.
+9545103	Ur seddan ara ɣer At [Σ]idel.
+9545136	Tberneḍ ɣer Fer[ε]un.
+9545196	Ad trewlem ɣer At [Σ]idel.
+9545216	Tɣeṣṣbeḍ ɣer At [Σ]idel.
+9545250	Ad tezzim ɣer At [Σ]idel.
+9545311	Ur tehmileḍ ara ɣer At [Σ]idel.
+9545329	Ur hmilen ara ɣer Iɣil A[ε]li.
+9545363	Ur teddehmemt ara ɣer At [Σ]idel.
+9545364	Ɛejjlemt ɣer Iɣil A[ε]li.
+9545423	Rekkben ɣer Fer[ε]un.
+9545544	Teɣṣeb ɣer Iɣil A[ε]li.
+9545553	Regglet ɣer Iɣil A[ε]li.
+9545555	Ad tehmel ɣer At [Σ]idel.
+9545565	Tseddamt ɣer Iɣil A[ε]li.
+9545583	Tɣeṣṣeb ɣer At [Σ]idel.
+9545623	Ɣawlent ɣer Iɣil A[ε]li.
+9545630	Ad tḥewweṣ ɣer At [Σ]idel.
+9545637	Ẓeddmen ɣer Iɣil A[ε]li.
+9545642	Qqel ɣer Fer[ε]un.
+9545667	Tteqqlem ɣer Iɣil A[ε]li.
+9545678	Ḥewwṣeɣ ɣer Fer[ε]un.
+9545792	Ttɣawalent ɣer Fer[ε]un.
+9545809	Tsehhilen ɣer At [Σ]idel.
+9545813	Ad ɣabeɣ ɣer At [Σ]idel.
+9545814	Teddehhimem ɣer Fer[ε]un.
+9545818	Ad tesriffgem ɣer Iɣil A[ε]li.
+9545831	Ad thumm ɣer Fer[ε]un.
+9545868	Ur telḥim ara ɣer Fer[ε]un.
+9545891	Ad awḍent ɣer At [Σ]idel.
+9545904	Tḥewwṣeḍ ɣer Iɣil A[ε]li.
+9545933	Ur hummen ara ɣer Iɣil A[ε]li.
+9545958	Ttezziḍ ɣer At [Σ]idel.
+9545986	Rekkbemt ɣer At [Σ]idel.
+9546058	Ẓeddment ɣer Fer[ε]un.
+9546091	Hemmlent ɣer Fer[ε]un.
+9546160	Teddehmeḍ ɣer Fer[ε]un.
+9546238	Nberren ɣer Fer[ε]un.
+9546261	Nehrent ɣer Fer[ε]un.
+9546314	Ruḥeɣ ɣer Fer[ε]un.
+9546315	Ad rekbent ɣer Iɣil A[ε]li.
+9546388	Trezzuḍ ɣer Fer[ε]un.
+9546391	Ur terrimt ara ɣer Fer[ε]un.
+9546396	Ssikilent ɣer Iɣil A[ε]li.
+9546402	Iḥewweṣ ɣer Iɣil A[ε]li.
+9546416	Ur yerwil ara ɣer At [Σ]idel.
+9546490	Ad ḥewwṣen ɣer Fer[ε]un.
+9546530	Tleḥḥuḍ ɣer At [Σ]idel.
+9546538	Ad teddumt ɣer Iɣil A[ε]li.
+9546592	Nufeg ɣer At [Σ]idel.
+9546595	Tẓeddem ɣer Fer[ε]un.
+9546643	Ad awḍent ɣer Fer[ε]un.
+9546674	Tseddaḍ ɣer Fer[ε]un.
+9546722	Ad merrḥen ɣer Fer[ε]un.
+9546729	Ur rzin ara ɣer Fer[ε]un.
+9546739	Ttiniget ɣer At [Σ]idel.
+9551186	Tthummun ɣer Iɣil A[ε]li.
+9551260	Trekbemt ɣer At [Σ]idel.
+9551269	Inigemt ɣer Iɣil A[ε]li.
+9551286	Ur tɛeddam ara ɣer Iɣil A[ε]li.
+9551313	Ur unagent ara ɣer Fer[ε]un.
+9551314	Nejba ɣer At [Σ]idel.
+9551316	Ttɣaben ɣer At [Σ]idel.
+9551328	Tetsehhilem ɣer Iɣil A[ε]li.
+9551338	Teddunt ɣer Iɣil A[ε]li.
+9551356	Njebbu ɣer Iɣil A[ε]li.
+9551397	Tɛeddaḍ ɣer Fer[ε]un.
+9551443	Ɣabent ɣer Fer[ε]un.
+9551487	Nteqqel ɣer At [Σ]idel.
+9551526	Nebren ɣer Iɣil A[ε]li.
+9551528	Ad terrem ɣer At [Σ]idel.
+9551541	Ur ddiɣ ara ɣer At [Σ]idel.
+9551543	Imerreḥ ɣer Fer[ε]un.
+9551567	Nreggel ɣer At [Σ]idel.
+9551572	Ad jbuɣ ɣer Iɣil A[ε]li.
+9551584	Zerbent ɣer Iɣil A[ε]li.
+9551611	Tzeggiremt ɣer Iɣil A[ε]li.
+9551626	Ad ɣaben ɣer Fer[ε]un.
+9551668	Ttmerriḥeɣ ɣer Fer[ε]un.
+9551705	Ur tezwarem ara ɣer Fer[ε]un.
+9551735	Nḥewweṣ ɣer Fer[ε]un.
+9551739	Rzu ɣer At [Σ]idel.
+9551798	Jbu ɣer At [Σ]idel.
+9551817	Ssikilemt ɣer At [Σ]idel.
+9551821	Ur seddant ara ɣer At [Σ]idel.
+9551824	Tsedday ɣer Iɣil A[ε]li.
+9551831	Ad bernent ɣer At [Σ]idel.
+9551832	Ur teqqilem ara ɣer At [Σ]idel.
+9551872	Ad tazzlemt ɣer Fer[ε]un.
+9551924	Ur nerri ara ɣer Iɣil A[ε]li.
+9551927	Ad truḥeḍ ɣer Fer[ε]un.
+9551934	Ur zzin ara ɣer Iɣil A[ε]li.
+9551937	Sriffig ɣer Fer[ε]un.
+9551944	Ad merrḥeɣ ɣer Fer[ε]un.
+9551965	Ssaklent ɣer Iɣil A[ε]li.
+9551974	Yeẓdem ɣer At [Σ]idel.
+9552011	Iɛedda ɣer At [Σ]idel.
+9552019	Ad tseddumt ɣer Iɣil A[ε]li.
+9552039	Iguǧǧ ɣer At [Σ]idel.
+9552050	Thummeḍ ɣer At [Σ]idel.
+9552161	Hemleɣ ɣer Fer[ε]un.
+9552207	Merrḥeɣ ɣer Iɣil A[ε]li.
+9552352	Rremt ɣer Iɣil A[ε]li.
+9552353	Seddayen ɣer At [Σ]idel.
+9552380	Teqqel ɣer At [Σ]idel.
+9552407	Teddehmemt ɣer Fer[ε]un.
+9552499	Ad rzunt ɣer At [Σ]idel.
+9552593	Ur wwiḍen ara ɣer Iɣil A[ε]li.
+9552610	Ɛejleɣ ɣer Fer[ε]un.
+9556087	Ɣeṣṣbeɣ ɣer At [Σ]idel.
+9556108	Lḥiɣ ɣer Iɣil A[ε]li.
+9556109	Zerrbemt ɣer At [Σ]idel.
+9556156	Ssaklen ɣer Fer[ε]un.
+9556157	Tezreb ɣer Iɣil A[ε]li.
+9556160	Berren ɣer Iɣil A[ε]li.
+9556176	Ufgeɣ ɣer At [Σ]idel.
+9556229	Tetsehhilemt ɣer Fer[ε]un.
+9556256	Azzel ɣer Fer[ε]un.
+9556277	Tẓeddmeḍ ɣer Iɣil A[ε]li.
+9556308	Ur zribent ara ɣer Iɣil A[ε]li.
+9556326	Hummen ɣer Iɣil A[ε]li.
+9556334	Yebren ɣer At [Σ]idel.
+9556371	Ad zerben ɣer Iɣil A[ε]li.
+9556384	Ad iɣab ɣer Fer[ε]un.
+9556520	Ad zzint ɣer Fer[ε]un.
+9556657	Tenher ɣer At [Σ]idel.
+9556671	Ur terkibeḍ ara ɣer Iɣil A[ε]li.
+9556744	Ur tseddaḍ ara ɣer Iɣil A[ε]li.
+9556748	Ur tuzzilem ara ɣer At [Σ]idel.
+9556751	Ur yuzzil ara ɣer Fer[ε]un.
+9556764	Ur nhiren ara ɣer Fer[ε]un.
+9556771	Yeɣṣeb ɣer Fer[ε]un.
+9556817	Ur merrḥen ara ɣer Iɣil A[ε]li.
+9556845	Iḥewweṣ ɣer At [Σ]idel.
+9556872	Ur seddaɣ ara ɣer At [Σ]idel.
+9556891	Yezzi ɣer At [Σ]idel.
+9556960	Ntezzi ɣer At [Σ]idel.
+9557059	Tetthummum ɣer At [Σ]idel.
+9557142	Ur tsehhlem ara ɣer Iɣil A[ε]li.
+9557152	Ur nezzi ara ɣer Iɣil A[ε]li.
+9557219	Ttɣawalet ɣer At [Σ]idel.
+9557369	Ddehment ɣer Fer[ε]un.
+9557572	Tberneḍ ɣer At [Σ]idel.
+9557599	Tthummunt ɣer Fer[ε]un.
+9557682	Tessikileḍ ɣer Iɣil A[ε]li.
+9557688	Ad yeddhem ɣer Iɣil A[ε]li.
+9557726	Tunageḍ ɣer Iɣil A[ε]li.
+9557878	Rrant ɣer At [Σ]idel.
+9557907	Ẓeddment ɣer Iɣil A[ε]li.
+9557942	Ad zwirent ɣer Iɣil A[ε]li.
+9557983	Ur iɣawel ara ɣer Iɣil A[ε]li.
+9558025	Ur ɣṣibeɣ ara ɣer At [Σ]idel.
+9558053	Zzin ɣer Fer[ε]un.
+9558227	Ad afgeɣ ɣer Iɣil A[ε]li.
+9558273	Ur tɛeddamt ara ɣer Fer[ε]un.
+9558307	Ur terzi ara ɣer At [Σ]idel.
+9558400	Rremt ɣer Fer[ε]un.
+9558414	Tɛeddamt ɣer Iɣil A[ε]li.
+9558440	Tettɣawalemt ɣer Iɣil A[ε]li.
+9558444	Ttḥewwiṣemt ɣer Iɣil A[ε]li.
+9558448	Tezzim ɣer Fer[ε]un.
+9558460	Ur thummeḍ ara ɣer At [Σ]idel.
+9558551	Rzant ɣer Iɣil A[ε]li.
+9560164	Jebbunt ɣer At [Σ]idel.
+9560169	Terziḍ ɣer At [Σ]idel.
+9560204	Ur ɛeddaɣ ara ɣer At [Σ]idel.
+9560245	Ad ninig ɣer Fer[ε]un.
+9560326	Ttɣabemt ɣer At [Σ]idel.
+9560449	Ttruḥut ɣer Iɣil A[ε]li.
+9560454	Ur brineɣ ara ɣer Iɣil A[ε]li.
+9560555	Iɣab ɣer Iɣil A[ε]li.
+9560613	Ur nsehhel ara ɣer Fer[ε]un.
+9560763	Tezzit ɣer Fer[ε]un.
+9560783	Suman ɣer Iɣil A[ε]li.
+9560915	Iḥewweṣ ɣer Fer[ε]un.
+9560986	Tteqqlemt ɣer At [Σ]idel.
+9561012	Truḥem ɣer Fer[ε]un.
+9561206	Ttruḥun ɣer Fer[ε]un.
+9561232	Ad rzun ɣer Fer[ε]un.
+9561327	Nhumm ɣer Iɣil A[ε]li.
+9561354	Tettawḍemt ɣer Fer[ε]un.
+9561427	Sriffeg ɣer At [Σ]idel.
+9561448	Tleḥḥum ɣer At [Σ]idel.
+9561508	Ad nerkeb ɣer Iɣil A[ε]li.
+9561512	Nzerreb ɣer At [Σ]idel.
+9561521	Nɛedda ɣer At [Σ]idel.
+9561526	Ttazzalemt ɣer At [Σ]idel.
+9561583	Tteqqel ɣer At [Σ]idel.
+9561596	Ad ɣiwlent ɣer Fer[ε]un.
+9561622	Ɣeṣbet ɣer Fer[ε]un.
+9561666	Ur nerzi ara ɣer Fer[ε]un.
+9561682	Trewlemt ɣer Iɣil A[ε]li.
+9561725	Ad tejbumt ɣer Iɣil A[ε]li.
+9561742	Ur nguǧǧ ara ɣer At [Σ]idel.
+9561747	Nettazzal ɣer Iɣil A[ε]li.
+9561792	Ur tewwiḍ ara ɣer At [Σ]idel.
+9561848	Yeddehhim ɣer Fer[ε]un.
+9561911	Ad tejbuḍ ɣer Iɣil A[ε]li.
+9561980	Ur nerwil ara ɣer Iɣil A[ε]li.
+9561984	Tthummuɣ ɣer Fer[ε]un.
+9562034	Inig ɣer Fer[ε]un.
+9562061	Ad ɛeddint ɣer At [Σ]idel.
+9562066	Ɣeṣṣbeɣ ɣer Iɣil A[ε]li.
+9562096	Ad rewlen ɣer At [Σ]idel.
+9562112	Telḥam ɣer At [Σ]idel.
+9562122	Ad nessikel ɣer Fer[ε]un.
+9562193	Ur hmileɣ ara ɣer At [Σ]idel.
+9562289	Hummemt ɣer Iɣil A[ε]li.
+9562305	Tezzim ɣer At [Σ]idel.
+9562336	Tẓedmem ɣer Fer[ε]un.
+9562361	Ur nerri ara ɣer Fer[ε]un.
+9562382	Ad rzunt ɣer Fer[ε]un.
+9562384	Ɣeṣbet ɣer At [Σ]idel.
+9566053	Ur sehhlen ara ɣer Iɣil A[ε]li.
+9566082	Berrneɣ ɣer Iɣil A[ε]li.
+9566155	Ur yezrib ara ɣer Fer[ε]un.
+9566167	Ad neɣṣeb ɣer Fer[ε]un.
+9566174	Ssikel ɣer Fer[ε]un.
+9566192	Ur terkib ara ɣer Fer[ε]un.
+9566209	Ad ddehmeɣ ɣer Iɣil A[ε]li.
+9566215	Azzel ɣer At [Σ]idel.
+9566227	Ur nɛedda ara ɣer Fer[ε]un.
+9566249	Ad nafeg ɣer Iɣil A[ε]li.
+9566272	Ɣabemt ɣer Fer[ε]un.
+9566301	Ur ɛeddan ara ɣer Fer[ε]un.
+9566305	Ntezzi ɣer Fer[ε]un.
+9566313	Samimt ɣer Iɣil A[ε]li.
+9566387	Teddehhim ɣer Fer[ε]un.
+9566397	Tɛejjlem ɣer Fer[ε]un.
+9566516	Ur jbint ara ɣer At [Σ]idel.
+9566523	Ur ruḥen ara ɣer At [Σ]idel.
+9566552	Ur nhumm ara ɣer At [Σ]idel.
+9566626	Ad lḥuɣ ɣer Iɣil A[ε]li.
+9566655	Gaǧǧemt ɣer At [Σ]idel.
+9566667	Ḥewweṣ ɣer Iɣil A[ε]li.
+9566695	Ɛejjleɣ ɣer Iɣil A[ε]li.
+9566802	Ad thummem ɣer Iɣil A[ε]li.
+9566865	Ur tessaklemt ara ɣer Fer[ε]un.
+9566871	Tessaklem ɣer At [Σ]idel.
+9566908	Ad tezwirem ɣer At [Σ]idel.
+9566913	Netsehhil ɣer Fer[ε]un.
+9566943	Zwiremt ɣer Fer[ε]un.
+9566951	Ur newwiḍ ara ɣer Fer[ε]un.
+9566970	Teddam ɣer At [Σ]idel.
+9566993	Ad tafgeḍ ɣer Iɣil A[ε]li.
+9567128	Tẓedmemt ɣer At [Σ]idel.
+9567186	Ttɛeddayeɣ ɣer At [Σ]idel.
+9567191	Tguǧǧ ɣer Fer[ε]un.
+9567249	Ur tebrin ara ɣer Fer[ε]un.
+9567253	Rrant ɣer Iɣil A[ε]li.
+9567283	Ttḥewwiṣeɣ ɣer Fer[ε]un.
+9567334	Merrḥet ɣer Iɣil A[ε]li.
+9567349	Ad tinigem ɣer Fer[ε]un.
+9567380	Ad tafgem ɣer Fer[ε]un.
+9567403	Tɛejjlemt ɣer Iɣil A[ε]li.
+9567413	Tjebbumt ɣer Fer[ε]un.
+9567462	Qqel ɣer At [Σ]idel.
+9567534	Sriffigent ɣer Iɣil A[ε]li.
+9567547	Ur thumm ara ɣer Iɣil A[ε]li.
+9567577	Tjebbuḍ ɣer Iɣil A[ε]li.
+9567588	Nezwar ɣer Iɣil A[ε]li.
+9567622	Sami ɣer Fer[ε]un.
+9567627	Tẓedmemt ɣer Fer[ε]un.
+9567635	Ur hummen ara ɣer At [Σ]idel.
+9567691	Ad teddehmeḍ ɣer Fer[ε]un.
+9567807	Ur ɛeddan ara ɣer At [Σ]idel.
+9567819	Ɣeṣṣeb ɣer Iɣil A[ε]li.
+9568024	Ad zerbeɣ ɣer At [Σ]idel.
+9568029	Ur tejbiḍ ara ɣer Fer[ε]un.
+9568113	Tettafeg ɣer Iɣil A[ε]li.
+9568166	Sraffgen ɣer Fer[ε]un.
+9568168	Ur tḥewwṣemt ara ɣer Iɣil A[ε]li.
+9568176	Tezwar ɣer At [Σ]idel.
+9568222	Ad nḥewweṣ ɣer Iɣil A[ε]li.
+9568246	Ttinig ɣer Fer[ε]un.
+9568252	Tsehhlem ɣer Iɣil A[ε]li.
+9568300	Terzam ɣer Fer[ε]un.
+9568353	Nettafeg ɣer At [Σ]idel.
+9568373	Ddehmet ɣer At [Σ]idel.
+9568379	Nɣawel ɣer Fer[ε]un.
+9568479	Ttawḍen ɣer Iɣil A[ε]li.
+9568488	Hemmlet ɣer Fer[ε]un.
+9568533	Ddehmet ɣer Iɣil A[ε]li.
+9568590	Ddehmen ɣer At [Σ]idel.
+9568600	Ur rkiben ara ɣer Fer[ε]un.
+9568637	Ttḥewwiṣent ɣer Fer[ε]un.
+9568721	Ẓedmet ɣer Iɣil A[ε]li.
+9568748	Tɣeṣṣbem ɣer Fer[ε]un.
+9568789	Ur ɛjileɣ ara ɣer At [Σ]idel.
+9568832	Azzel ɣer Iɣil A[ε]li.
+9568878	Ddehhimemt ɣer Iɣil A[ε]li.
+9568887	Ad neddhem ɣer Fer[ε]un.
+9569007	Ur tezrib ara ɣer At [Σ]idel.
+9569152	Tuzzleḍ ɣer Iɣil A[ε]li.
+9569169	Tettḥewwiṣ ɣer At [Σ]idel.
+9569176	Nzeggir ɣer Iɣil A[ε]li.
+9569224	Leḥḥunt ɣer At [Σ]idel.
+9569228	Ur truḥ ara ɣer Iɣil A[ε]li.
+9569296	Ur rzint ara ɣer Fer[ε]un.
+9569314	Ɣeṣbemt ɣer Fer[ε]un.
+9569406	Ad yafeg ɣer Fer[ε]un.
+9569732	Ur tguǧǧem ara ɣer Fer[ε]un.
+9569775	Ur terwilemt ara ɣer Fer[ε]un.
+9569777	Tteddum ɣer Iɣil A[ε]li.
+9569812	Hemmlen ɣer At [Σ]idel.
+9569816	Ttarran ɣer At [Σ]idel.
+9569825	Ad nmerreḥ ɣer Fer[ε]un.
+9569960	Ẓedment ɣer Iɣil A[ε]li.
+9569979	Ɣiwel ɣer Iɣil A[ε]li.
+9570063	Tettɣawalem ɣer Fer[ε]un.
+9570067	Teqqel ɣer Fer[ε]un.
+9570081	Ur ɣawlent ara ɣer At [Σ]idel.
+9570112	Tessaklem ɣer Iɣil A[ε]li.
+9570152	Ur yufig ara ɣer Iɣil A[ε]li.
+9570155	Ad tawḍeḍ ɣer At [Σ]idel.
+9570171	Trekkbeḍ ɣer Fer[ε]un.
+9570190	Ad ruḥent ɣer Iɣil A[ε]li.
+9570195	Ad isami ɣer Fer[ε]un.
+9570250	Ẓeddmen ɣer At [Σ]idel.
+9570256	Ad teɣṣeb ɣer Iɣil A[ε]li.
+9578720	Ur tunageḍ ara ɣer Iɣil A[ε]li.
+9578737	Ad yaweḍ ɣer At [Σ]idel.
+9578764	Trekbeḍ ɣer At [Σ]idel.
+9578786	Ttmerriḥeɣ ɣer Iɣil A[ε]li.
+9578793	Ddehhim ɣer Fer[ε]un.
+9578867	Ttazzal ɣer At [Σ]idel.
+9578870	Tteqqlemt ɣer Fer[ε]un.
+9578892	Ad tsamiḍ ɣer Fer[ε]un.
+9578902	Ur wwiḍent ara ɣer Fer[ε]un.
+9578924	Yuzzel ɣer At [Σ]idel.
+9578984	Ur tunagem ara ɣer At [Σ]idel.
+9579062	Ad nɣiwel ɣer Fer[ε]un.
+9579079	Ttazzalemt ɣer Fer[ε]un.
+9579085	Ad teddehmemt ɣer At [Σ]idel.
+9579087	Treggleḍ ɣer At [Σ]idel.
+9579124	Ad ninig ɣer Iɣil A[ε]li.
+9579194	Ttarrat ɣer Fer[ε]un.
+9579199	Ad jbun ɣer Iɣil A[ε]li.
+9579213	Tjebbum ɣer At [Σ]idel.
+9579217	Ad yerr ɣer Fer[ε]un.
+9579326	Ur teddehmeḍ ara ɣer Iɣil A[ε]li.
+9579399	Rewleɣ ɣer At [Σ]idel.
+9579409	Ur ḥewwṣeɣ ara ɣer Iɣil A[ε]li.
+9579417	Ad humment ɣer Fer[ε]un.
+9579418	Tettɣawalemt ɣer Fer[ε]un.
+9579455	Ad bernen ɣer Iɣil A[ε]li.
+9579456	Ur jbiɣ ara ɣer At [Σ]idel.
+9579458	Tmerrḥem ɣer Iɣil A[ε]li.
+9579477	Yettmerriḥ ɣer Iɣil A[ε]li.
+9579501	Ur yessakel ara ɣer At [Σ]idel.
+9579509	Ad nruḥ ɣer Fer[ε]un.
+9579523	Ad ɣabeɣ ɣer Fer[ε]un.
+9579549	Thummem ɣer Iɣil A[ε]li.
+9579598	Ur nerkib ara ɣer Fer[ε]un.
+9579635	Iteqqel ɣer At [Σ]idel.
+9579789	Yedda ɣer Fer[ε]un.
+9579954	Terwel ɣer At [Σ]idel.
+9579975	Tberrneḍ ɣer Fer[ε]un.
+9579985	Ttɣawal ɣer Fer[ε]un.
+9580015	Ur ɣabent ara ɣer Iɣil A[ε]li.
+9580081	Rekbemt ɣer Iɣil A[ε]li.
+9580091	Tmerreḥ ɣer Iɣil A[ε]li.
+9580167	Nunag ɣer Fer[ε]un.
+9580235	Ihumm ɣer Iɣil A[ε]li.
+9580244	Tettazzalem ɣer Fer[ε]un.
+9580260	Tjebbumt ɣer At [Σ]idel.
+9580269	Themleḍ ɣer Fer[ε]un.
+9580287	Teqqlem ɣer At [Σ]idel.
+9580316	Bernemt ɣer Iɣil A[ε]li.
+9580353	Ur tɣawleḍ ara ɣer Fer[ε]un.
+9580438	Ur rrin ara ɣer At [Σ]idel.
+9580440	Ad azzleɣ ɣer At [Σ]idel.
+9580516	Berrnen ɣer Fer[ε]un.
+9580542	Ad tezziḍ ɣer Iɣil A[ε]li.
+9580571	Ur tɣawel ara ɣer At [Σ]idel.
+9580577	Jebbun ɣer Fer[ε]un.
+9580692	Tmerrḥeḍ ɣer Iɣil A[ε]li.
+9580878	Nmerreḥ ɣer Iɣil A[ε]li.
+9580937	Ur tmerrḥem ara ɣer Iɣil A[ε]li.
+9580954	Tettɣawal ɣer Iɣil A[ε]li.
+9581102	Ur nerkib ara ɣer At [Σ]idel.
+9581233	Ttsamint ɣer Fer[ε]un.
+9581291	Ad azzlent ɣer Fer[ε]un.
+9581430	Trekkbem ɣer At [Σ]idel.
+9581558	Ad tɛeddimt ɣer Fer[ε]un.
+9581614	Ur tuzzil ara ɣer Iɣil A[ε]li.
+9581749	Ur nɣab ara ɣer At [Σ]idel.
+9581771	Ur ufigeɣ ara ɣer Iɣil A[ε]li.
+9581849	Zerbet ɣer Fer[ε]un.
+9581972	Ur tezrib ara ɣer Fer[ε]un.
+9582034	Ad nseddu ɣer At [Σ]idel.
+9582038	Tezzi ɣer Iɣil A[ε]li.
+9582051	Ur tesraffgeḍ ara ɣer Iɣil A[ε]li.
+9582098	Ḥewwṣemt ɣer Iɣil A[ε]li.
+9582118	Leḥḥu ɣer Iɣil A[ε]li.
+9582150	Ur ddehment ara ɣer Iɣil A[ε]li.
+9582154	Tzerrbemt ɣer Iɣil A[ε]li.
+9582170	Ad rzun ɣer At [Σ]idel.
+9582268	Themmlemt ɣer At [Σ]idel.
+9582454	Ad rrent ɣer Fer[ε]un.
+9582456	Tessakleḍ ɣer Fer[ε]un.
+9582539	Tetsehhilemt ɣer Iɣil A[ε]li.
+9582579	Zeggir ɣer Iɣil A[ε]li.
+9582600	Tɣeṣbeḍ ɣer Fer[ε]un.
+9582723	Ttɛeddayen ɣer At [Σ]idel.
+9582798	Ur yessakel ara ɣer Fer[ε]un.
+9582845	Ttarra ɣer Iɣil A[ε]li.
+9582862	Ttafgent ɣer At [Σ]idel.
+9582868	Azzlet ɣer Fer[ε]un.
+9582886	Ur ruḥeɣ ara ɣer Fer[ε]un.
+9582918	Ad yeẓdem ɣer Iɣil A[ε]li.
+9582938	Tettawḍeḍ ɣer At [Σ]idel.
+9582943	Ad ssiklent ɣer At [Σ]idel.
+9582960	Neddhem ɣer Fer[ε]un.
+9583005	Tunageḍ ɣer At [Σ]idel.
+9583035	Ruḥent ɣer Fer[ε]un.
+9583090	Ur nuzzil ara ɣer Iɣil A[ε]li.
+9583108	Ddehhimet ɣer Fer[ε]un.
+9583118	Ad tbernem ɣer Iɣil A[ε]li.
+9583136	Ttarrant ɣer Iɣil A[ε]li.
+9583138	Themlemt ɣer At [Σ]idel.
+9583160	Ttsamimt ɣer Iɣil A[ε]li.
+9583194	Nɣawel ɣer At [Σ]idel.
+9583210	Nleḥḥu ɣer Iɣil A[ε]li.
+9583212	Rkeb ɣer At [Σ]idel.
+9583214	Ad ɛejleɣ ɣer Fer[ε]un.
+9583237	Ad nezzi ɣer At [Σ]idel.
+9583257	Ḥewweṣ ɣer At [Σ]idel.
+9583265	Ad yezreb ɣer Iɣil A[ε]li.
+9583272	Ad tenher ɣer Fer[ε]un.
+9583295	Zeggirent ɣer At [Σ]idel.
+9590559	Nsuma ɣer At [Σ]idel.
+9590590	Yerra ɣer Fer[ε]un.
+9590598	Ur teddim ara ɣer Fer[ε]un.
+9590620	Ur tewwiḍemt ara ɣer Fer[ε]un.
+9590649	Ad afgeɣ ɣer Fer[ε]un.
+9590682	Ad rekben ɣer At [Σ]idel.
+9590748	Nezwar ɣer Fer[ε]un.
+9590834	Ɣeṣbent ɣer Iɣil A[ε]li.
+9590856	Ɣabent ɣer Iɣil A[ε]li.
+9590890	Ad ẓedmeɣ ɣer At [Σ]idel.
+9590912	Ur rzint ara ɣer At [Σ]idel.
+9590919	Ad ɣiwleɣ ɣer At [Σ]idel.
+9590989	Zzimt ɣer Iɣil A[ε]li.
+9591059	Hemmlemt ɣer At [Σ]idel.
+9591085	Ad teddehmem ɣer Fer[ε]un.
+9591115	Ad seddun ɣer At [Σ]idel.
+9591171	Tesraffgem ɣer Iɣil A[ε]li.
+9591178	Merrḥeɣ ɣer Fer[ε]un.
+9591212	Ad ɣiwlen ɣer At [Σ]idel.
+9591246	Ad ɣabent ɣer At [Σ]idel.
+9591247	Ur tessakel ara ɣer Iɣil A[ε]li.
+9591277	Sehhlent ɣer Fer[ε]un.
+9591301	Bernen ɣer Fer[ε]un.
+9591314	Ad taweḍ ɣer At [Σ]idel.
+9591400	Ad nehmel ɣer Fer[ε]un.
+9591457	Berrnemt ɣer At [Σ]idel.
+9591479	Ur tɣawlemt ara ɣer Fer[ε]un.
+9591509	Tewwḍeḍ ɣer Fer[ε]un.
+9591523	Tettsamiḍ ɣer At [Σ]idel.
+9591527	Ad tẓedmem ɣer At [Σ]idel.
+9591579	Ɛejlemt ɣer At [Σ]idel.
+9591707	Zeggireɣ ɣer Fer[ε]un.
+9591713	Sriffiget ɣer Fer[ε]un.
+9591756	Ad ddun ɣer Fer[ε]un.
+9591780	Tunag ɣer At [Σ]idel.
+9591847	Ttḥewwiṣeɣ ɣer At [Σ]idel.
+9591906	Terzamt ɣer At [Σ]idel.
+9591909	Yettruḥu ɣer Fer[ε]un.
+9591937	Ur seddaɣ ara ɣer Fer[ε]un.
+9591974	Rekkeb ɣer Fer[ε]un.
+9592019	Samit ɣer Iɣil A[ε]li.
+9592022	Err ɣer At [Σ]idel.
+9592043	Terzamt ɣer Fer[ε]un.
+9592113	Ur tebrin ara ɣer Iɣil A[ε]li.
+9592150	Ɛejlet ɣer Iɣil A[ε]li.
+9592188	Ɣawleɣ ɣer Fer[ε]un.
+9592279	Ad tehmel ɣer Iɣil A[ε]li.
+9592304	Ur tebrineḍ ara ɣer Fer[ε]un.
+9592350	Ad yinig ɣer Iɣil A[ε]li.
+9592374	Ad ngaǧǧ ɣer Iɣil A[ε]li.
+9592413	Ur tseddaḍ ara ɣer Fer[ε]un.
+9592418	Ad tsehhlemt ɣer Iɣil A[ε]li.
+9592451	Trewlem ɣer Iɣil A[ε]li.
+9592508	Ur tsehhel ara ɣer Iɣil A[ε]li.
+9592593	Ur tguǧǧeḍ ara ɣer Iɣil A[ε]li.
+9592648	Ad terzu ɣer Fer[ε]un.
+9592703	Tettmerriḥem ɣer Fer[ε]un.
+9596135	Ur nsuma ara ɣer Iɣil A[ε]li.
+9596160	Ur teẓdimeḍ ara ɣer Iɣil A[ε]li.
+9596182	Yesriffig ɣer Iɣil A[ε]li.
+9596240	Qqlent ɣer Fer[ε]un.
+9596298	Ad yeɣṣeb ɣer At [Σ]idel.
+9596308	Leḥḥunt ɣer Iɣil A[ε]li.
+9596347	Ur ssaklen ara ɣer Iɣil A[ε]li.
+9596359	Ad telḥum ɣer Fer[ε]un.
+9596363	Tessaklemt ɣer Iɣil A[ε]li.
+9596384	Ur nhiren ara ɣer At [Σ]idel.
+9596391	Ruḥ ɣer Fer[ε]un.
+9596392	Tɛedda ɣer Iɣil A[ε]li.
+9596393	Ad yeddhem ɣer Fer[ε]un.
+9596453	Ttinigeɣ ɣer Iɣil A[ε]li.
+9596472	Ddiɣ ɣer At [Σ]idel.
+9596504	Ttɣabet ɣer Iɣil A[ε]li.
+9596515	Ad terzuḍ ɣer Fer[ε]un.
+9596564	Ɛejlen ɣer Iɣil A[ε]li.
+9596592	Ur terrimt ara ɣer At [Σ]idel.
+9596698	Ɛejjlen ɣer Iɣil A[ε]li.
+9596720	Tettinigemt ɣer Fer[ε]un.
+9596722	Ur qqileɣ ara ɣer At [Σ]idel.
+9596742	Ur teddiḍ ara ɣer At [Σ]idel.
+9596762	Ad zerbent ɣer Fer[ε]un.
+9596777	Ad tzerbemt ɣer Fer[ε]un.
+9596781	Wwḍent ɣer At [Σ]idel.
+9596798	Ur iguǧǧ ara ɣer Fer[ε]un.
+9596811	Ɛejlen ɣer Fer[ε]un.
+9596891	Ad yezreb ɣer At [Σ]idel.
+9596937	Trezzumt ɣer Iɣil A[ε]li.
+9596979	Ttinigen ɣer Iɣil A[ε]li.
+9596981	Rezzun ɣer Iɣil A[ε]li.
+9597034	Ẓeddmemt ɣer Fer[ε]un.
+9597050	Ad trewlemt ɣer Iɣil A[ε]li.
+9597062	Rewlent ɣer At [Σ]idel.
+9597113	Tbernem ɣer Fer[ε]un.
+9597220	Ad nezwir ɣer Iɣil A[ε]li.
+9597282	Ur ruḥent ara ɣer At [Σ]idel.
+9597301	Tzerrbem ɣer Fer[ε]un.
+9597308	Ad lḥunt ɣer Iɣil A[ε]li.
+9597374	Rwel ɣer Iɣil A[ε]li.
+9597407	Ad tezzi ɣer Iɣil A[ε]li.
+9597485	Ttsami ɣer Iɣil A[ε]li.
+9597516	Ad hemlen ɣer At [Σ]idel.
+9597556	Jebbun ɣer At [Σ]idel.
+9597594	Ur yehmil ara ɣer Iɣil A[ε]li.
+9597756	Yuzzel ɣer Iɣil A[ε]li.
+9597812	Ad trekbemt ɣer Iɣil A[ε]li.
+9597902	Tɛeddam ɣer Fer[ε]un.
+9598001	Ur rriɣ ara ɣer At [Σ]idel.
+9598056	Hmel ɣer At [Σ]idel.
+9598265	Ad tzerbeḍ ɣer At [Σ]idel.
+9598330	Ur imerreḥ ara ɣer At [Σ]idel.
+9598396	Nettsami ɣer Fer[ε]un.
+9598455	Ad ẓedmeɣ ɣer Iɣil A[ε]li.
+9598468	Ttawḍen ɣer Fer[ε]un.
+9598538	Ur teddehmemt ara ɣer Iɣil A[ε]li.
+9598559	Yessakel ɣer Fer[ε]un.
+9598567	Ur ḥewwṣen ara ɣer Iɣil A[ε]li.
+9602504	Ur ddin ara ɣer Iɣil A[ε]li.
+9602513	Ad nhumm ɣer Iɣil A[ε]li.
+9602532	Tunagemt ɣer Iɣil A[ε]li.
+9602535	Hemlent ɣer Iɣil A[ε]li.
+9602559	Ttarrant ɣer Fer[ε]un.
+9602576	Ur tebrineḍ ara ɣer Iɣil A[ε]li.
+9602757	Tseddayemt ɣer Fer[ε]un.
+9602851	Yettinig ɣer Fer[ε]un.
+9602970	Teddehhim ɣer At [Σ]idel.
+9602991	Yeddhem ɣer At [Σ]idel.
+9603057	Ur lḥin ara ɣer Fer[ε]un.
+9603091	Ad nebren ɣer At [Σ]idel.
+9603095	Ad teqqel ɣer Iɣil A[ε]li.
+9603143	Zeggir ɣer At [Σ]idel.
+9603268	Ur tɛedda ara ɣer At [Σ]idel.
+9603322	Ur yunag ara ɣer At [Σ]idel.
+9603336	Nessakel ɣer Fer[ε]un.
+9603339	Ur yeẓdim ara ɣer Fer[ε]un.
+9603401	Nsedday ɣer Iɣil A[ε]li.
+9603428	Ad tazzel ɣer At [Σ]idel.
+9603438	Ur ɣawleɣ ara ɣer Fer[ε]un.
+9603513	Ttɛeddayent ɣer Iɣil A[ε]li.
+9603515	Ur ɛjilent ara ɣer At [Σ]idel.
+9603564	Ad tazzlemt ɣer At [Σ]idel.
+9603688	Nehhrent ɣer Fer[ε]un.
+9603724	Ad ɣeṣben ɣer At [Σ]idel.
+9603830	Ad telḥuḍ ɣer Iɣil A[ε]li.
+9603843	Tzerrbemt ɣer Fer[ε]un.
+9603850	Ur tḥewwṣeḍ ara ɣer Iɣil A[ε]li.
+9603948	Ttgaǧǧent ɣer Fer[ε]un.
+9603984	Ur teɛjileḍ ara ɣer Iɣil A[ε]li.
+9604077	Ur tezribeḍ ara ɣer Fer[ε]un.
+9604154	Ad jbun ɣer Fer[ε]un.
+9604199	Ur rrin ara ɣer Fer[ε]un.
+9604232	Yewweḍ ɣer Fer[ε]un.
+9604257	Iɣab ɣer Fer[ε]un.
+9604486	Ur brinent ara ɣer At [Σ]idel.
+9604559	Ddumt ɣer At [Σ]idel.
+9604676	Ur guǧǧent ara ɣer At [Σ]idel.
+9604717	Ur yeẓdim ara ɣer At [Σ]idel.
+9604842	Ur ɣawlen ara ɣer At [Σ]idel.
+9604865	Ur terrim ara ɣer At [Σ]idel.
+9604953	Ad tsamim ɣer Fer[ε]un.
+9605101	Ur nruḥ ara ɣer Iɣil A[ε]li.
+9605143	Ttɣab ɣer Fer[ε]un.
+9605168	Ttmerriḥen ɣer Iɣil A[ε]li.
+9605399	Tḥewweṣ ɣer At [Σ]idel.
+9605403	Ad tɣeṣbemt ɣer Iɣil A[ε]li.
+9605483	Merrḥen ɣer Fer[ε]un.
+9605543	Lḥut ɣer At [Σ]idel.
+9605546	Ɛjel ɣer Iɣil A[ε]li.
+9605550	Tḥewwṣemt ɣer At [Σ]idel.
+9605560	Ad sriffgeɣ ɣer Iɣil A[ε]li.
+9605586	Sraffgent ɣer Iɣil A[ε]li.
+9605615	Trekkbemt ɣer At [Σ]idel.
+9605724	Ur imerreḥ ara ɣer Iɣil A[ε]li.
+9605888	Uzzleɣ ɣer At [Σ]idel.
+9624285	Ddehmeɣ ɣer Fer[ε]un.
+9624336	Zwaren ɣer At [Σ]idel.
+9624338	Ttezzi ɣer Fer[ε]un.
+9624365	Tberren ɣer Iɣil A[ε]li.
+9624407	Nguǧǧ ɣer Fer[ε]un.
+9624410	Ur tmerrḥemt ara ɣer Fer[ε]un.
+9624493	Ttazzalent ɣer At [Σ]idel.
+9624497	Ur truḥem ara ɣer At [Σ]idel.
+9624599	Ur teɣṣib ara ɣer At [Σ]idel.
+9624640	Ad tebren ɣer Iɣil A[ε]li.
+9624662	Ad neddu ɣer Fer[ε]un.
+9624702	Ad zerbent ɣer At [Σ]idel.
+9624762	Tettinigeḍ ɣer Iɣil A[ε]li.
+9624769	Ad tɛejlem ɣer At [Σ]idel.
+9624802	Tsehhileɣ ɣer At [Σ]idel.
+9624923	Tettɛedday ɣer At [Σ]idel.
+9624936	Ad nerr ɣer At [Σ]idel.
+9624959	Ad zwirent ɣer At [Σ]idel.
+9625135	Ad nenher ɣer Fer[ε]un.
+9625202	Ur nehmil ara ɣer Iɣil A[ε]li.
+9625224	Seddayet ɣer At [Σ]idel.
+9625277	Zreb ɣer At [Σ]idel.
+9625295	Nessikil ɣer Iɣil A[ε]li.
+9625308	Merrḥemt ɣer At [Σ]idel.
+9625365	Ur terziḍ ara ɣer Fer[ε]un.
+9625420	Trezzu ɣer Iɣil A[ε]li.
+9625441	Tguǧǧemt ɣer At [Σ]idel.
+9625458	Ad tawḍeḍ ɣer Fer[ε]un.
+9625478	Nezreb ɣer Fer[ε]un.
+9625506	Nettarra ɣer Iɣil A[ε]li.
+9625638	Yeɛjel ɣer Fer[ε]un.
+9625714	Ur ḥewwṣent ara ɣer Iɣil A[ε]li.
+9625753	Berrnen ɣer Iɣil A[ε]li.
+9625773	Hemlet ɣer At [Σ]idel.
+9625841	Tezziɣ ɣer Iɣil A[ε]li.
+9625842	Nebren ɣer At [Σ]idel.
+9625882	Ur nenhir ara ɣer Fer[ε]un.
+9625924	Tsehhilet ɣer At [Σ]idel.
+9625941	Terram ɣer At [Σ]idel.
+9625961	Ttruḥunt ɣer Fer[ε]un.
+9626026	Ɛeddaɣ ɣer At [Σ]idel.
+9626118	Ad yeɛjel ɣer Iɣil A[ε]li.
+9626214	Ur terrimt ara ɣer Iɣil A[ε]li.
+9626221	Ad tɣeṣbemt ɣer Fer[ε]un.
+9626252	Tewwḍemt ɣer Fer[ε]un.
+9626260	Ad terkeb ɣer Fer[ε]un.
+9626331	Rzu ɣer Fer[ε]un.
+9626344	Ttɣabet ɣer Fer[ε]un.
+9626349	Tteqqleḍ ɣer Iɣil A[ε]li.
+9626360	Tnehreḍ ɣer Fer[ε]un.
+9626403	Ur ẓdiment ara ɣer Iɣil A[ε]li.
+9626440	Nhemmel ɣer Fer[ε]un.
+9626443	Tezzit ɣer Iɣil A[ε]li.
+9626493	Inigemt ɣer Fer[ε]un.
+9626496	Humm ɣer Iɣil A[ε]li.
+9626507	Ttḥewwiṣet ɣer Iɣil A[ε]li.
+9626634	Ur terzimt ara ɣer At [Σ]idel.
+9626665	Tsehhilent ɣer At [Σ]idel.
+9626678	Tettɛedday ɣer Iɣil A[ε]li.
+9626690	Tettmerriḥ ɣer Iɣil A[ε]li.
+9626697	Ad neqqel ɣer Fer[ε]un.
+9626701	Ẓedmen ɣer At [Σ]idel.
+9626712	Nḥewweṣ ɣer Iɣil A[ε]li.
+9626748	Tettɣabemt ɣer At [Σ]idel.
+9626804	Ur zwareɣ ara ɣer Fer[ε]un.
+9626877	Ddehhimemt ɣer Fer[ε]un.
+9626883	Ur qqilen ara ɣer At [Σ]idel.
+9626891	Ur ɛjileɣ ara ɣer Iɣil A[ε]li.
+9626895	Ur teẓdim ara ɣer Fer[ε]un.
+9626944	Ɣeṣbet ɣer Iɣil A[ε]li.
+9626960	Sriffig ɣer Iɣil A[ε]li.
+9626970	Ur humment ara ɣer Iɣil A[ε]li.
+9627073	Ur imerreḥ ara ɣer Fer[ε]un.
+9627100	Ttgaǧǧet ɣer Iɣil A[ε]li.
+9627110	Ad themlem ɣer At [Σ]idel.
+9627118	Tguǧǧem ɣer Iɣil A[ε]li.
+9627157	Ur qqilent ara ɣer Iɣil A[ε]li.
+9627168	Ɣeṣṣbeɣ ɣer Fer[ε]un.
+9627229	Ad qqlent ɣer Fer[ε]un.
+9627236	Ttafgen ɣer Fer[ε]un.
+9627252	Tesraffeg ɣer Fer[ε]un.
+9627256	Ddehhimemt ɣer At [Σ]idel.
+9627297	Ad nezreb ɣer Iɣil A[ε]li.
+9627320	Ur qqilent ara ɣer Fer[ε]un.
+9627367	Ur nessakel ara ɣer Iɣil A[ε]li.
+9627453	Ad imerreḥ ɣer Iɣil A[ε]li.
+9627483	Ttɣabent ɣer At [Σ]idel.
+9627508	Ad ɛejlent ɣer Iɣil A[ε]li.
+9627535	Tezwarem ɣer Fer[ε]un.
+9650044	Ur tehmilem ara ɣer At [Σ]idel.
+9650046	Ad teɛjel ɣer At [Σ]idel.
+9650059	Tezziɣ ɣer Fer[ε]un.
+9650066	Ad yeddu ɣer Iɣil A[ε]li.
+9650144	Nmerreḥ ɣer At [Σ]idel.
+9650199	Ur terwilem ara ɣer Fer[ε]un.
+9650203	Ttmerriḥet ɣer Fer[ε]un.
+9650224	Ɛeddan ɣer Fer[ε]un.
+9650325	Ḥewwṣent ɣer Fer[ε]un.
+9650349	Ad zerbeɣ ɣer Iɣil A[ε]li.
+9650365	Ad tesriffgem ɣer At [Σ]idel.
+9650430	Ɛejjlent ɣer At [Σ]idel.
+9650435	Nsehhel ɣer Fer[ε]un.
+9650476	Tmerrḥem ɣer At [Σ]idel.
+9650588	Ad nḥewweṣ ɣer At [Σ]idel.
+9650601	Yezreb ɣer Fer[ε]un.
+9650622	Trezzu ɣer At [Σ]idel.
+9650693	Ttawḍemt ɣer Iɣil A[ε]li.
+9650738	Ḥewwṣemt ɣer At [Σ]idel.
+9650791	Tettḥewwiṣem ɣer Fer[ε]un.
+9650810	Ad teddhem ɣer At [Σ]idel.
+9650897	Neɛjel ɣer Iɣil A[ε]li.
+9650905	Tesraffgeḍ ɣer Fer[ε]un.
+9650950	Ur tseddamt ara ɣer Fer[ε]un.
+9651015	Seddayemt ɣer Fer[ε]un.
+9651055	Yerkeb ɣer At [Σ]idel.
+9651092	Tuzzlem ɣer At [Σ]idel.
+9651099	Ttsamiɣ ɣer Fer[ε]un.
+9651125	Ad azzlen ɣer Iɣil A[ε]li.
+9651131	Zerbent ɣer Fer[ε]un.
+9651188	Hemmlen ɣer Iɣil A[ε]li.
+9651266	Ad tẓedmemt ɣer Fer[ε]un.
+9651316	Ileḥḥu ɣer Iɣil A[ε]li.
+9651411	Ur sehhleɣ ara ɣer Iɣil A[ε]li.
+9651441	Ttɣawaleɣ ɣer At [Σ]idel.
+9651791	Ddehmeɣ ɣer At [Σ]idel.
+9651802	Tesraffgemt ɣer At [Σ]idel.
+9651813	Nerwel ɣer At [Σ]idel.
+9651832	Ur tsedda ara ɣer At [Σ]idel.
+9651854	Ur rwileɣ ara ɣer Iɣil A[ε]li.
+9651858	Rekbet ɣer Iɣil A[ε]li.
+9651894	Nettɣab ɣer At [Σ]idel.
+9651914	Hemmlet ɣer At [Σ]idel.
+9651928	Tettgaǧǧ ɣer Fer[ε]un.
+9651936	Inehher ɣer At [Σ]idel.
+9651971	Ur nezwar ara ɣer At [Σ]idel.
+9651995	Tregglem ɣer Fer[ε]un.
+9652000	Ad terzum ɣer Fer[ε]un.
+9652064	Nguǧǧ ɣer At [Σ]idel.
+9652073	Ɣeṣṣben ɣer Fer[ε]un.
+9652078	Tettruḥu ɣer At [Σ]idel.
+9652104	Zziɣ ɣer Fer[ε]un.
+9652125	Ur rkiben ara ɣer Iɣil A[ε]li.
+9652180	Seddaɣ ɣer Iɣil A[ε]li.
+9652261	Sriffiget ɣer At [Σ]idel.
+9652265	Rekkbet ɣer Fer[ε]un.
+9652343	Ddehmeɣ ɣer Iɣil A[ε]li.
+9652350	Ur teɛjilemt ara ɣer Fer[ε]un.
+9652436	Ttɛeddayent ɣer Fer[ε]un.
+9652449	Ad tɛeddimt ɣer At [Σ]idel.
+9652485	Ad inigeɣ ɣer Fer[ε]un.
+9652496	Trewleḍ ɣer Iɣil A[ε]li.
+9652500	Tettsami ɣer Fer[ε]un.
+9652541	Ad isehhel ɣer Iɣil A[ε]li.
+9652586	Ad tɣiwlemt ɣer Fer[ε]un.
+9652649	Tetthummumt ɣer At [Σ]idel.
+9652693	Ttsamiɣ ɣer At [Σ]idel.
+9652960	Ad bernent ɣer Fer[ε]un.
+9652968	Nesriffig ɣer Iɣil A[ε]li.
+9652988	Ur tebrineḍ ara ɣer At [Σ]idel.
+9653003	Ad themleḍ ɣer Fer[ε]un.
+9653018	Ur ddehmeɣ ara ɣer Fer[ε]un.
+9653048	Merreḥ ɣer Fer[ε]un.
+9653087	Ur tewwiḍeḍ ara ɣer Fer[ε]un.
+9653201	Rezzunt ɣer Iɣil A[ε]li.
+9653272	Nettafeg ɣer Fer[ε]un.
+9653413	Lḥumt ɣer Iɣil A[ε]li.
+9653517	Ad ruḥen ɣer Iɣil A[ε]li.
+9653565	Yettḥewwiṣ ɣer At [Σ]idel.
+9653606	Wwḍeɣ ɣer Fer[ε]un.
+9653687	Ur brinen ara ɣer Fer[ε]un.
+9653708	Teddehmemt ɣer At [Σ]idel.
+9653889	Nteddu ɣer At [Σ]idel.
+9654142	Ur ɣabeɣ ara ɣer At [Σ]idel.
+9654161	Ur wwiḍeɣ ara ɣer Iɣil A[ε]li.
+9654305	Ad yenher ɣer Iɣil A[ε]li.
+9654437	Tɛeddam ɣer At [Σ]idel.
+9654464	Hemmleɣ ɣer Fer[ε]un.
+9654466	Tettmerriḥ ɣer At [Σ]idel.
+9654519	Ad trewleḍ ɣer Iɣil A[ε]li.
+9654586	Gaǧǧ ɣer Fer[ε]un.
+9654652	Ttgaǧǧen ɣer At [Σ]idel.
+9654705	Ssaklent ɣer At [Σ]idel.
+9654720	Merrḥet ɣer At [Σ]idel.
+9654728	Tẓeddem ɣer At [Σ]idel.
+9654840	Tesraffgemt ɣer Iɣil A[ε]li.
+9654901	Ur terrim ara ɣer Fer[ε]un.
+9654985	Sraffgeɣ ɣer At [Σ]idel.
+9655147	Ur teẓdimemt ara ɣer At [Σ]idel.
+9655273	Tessikilemt ɣer Iɣil A[ε]li.
+9655309	Tleḥḥum ɣer Fer[ε]un.
+9655313	Ɣeṣṣbet ɣer At [Σ]idel.
+9655503	Nhumm ɣer Fer[ε]un.
+9655551	Ur ɣṣibent ara ɣer Iɣil A[ε]li.
+9655611	Ad themlem ɣer Iɣil A[ε]li.
+9655642	Ttruḥuɣ ɣer At [Σ]idel.
+9655657	Tzerrbem ɣer Iɣil A[ε]li.
+9655740	Ur wwiḍent ara ɣer Iɣil A[ε]li.
+9655762	Ur nenhir ara ɣer At [Σ]idel.
+9655978	Tzerrbeḍ ɣer Fer[ε]un.
+9656129	Ur tḥewwṣem ara ɣer Iɣil A[ε]li.
+9656134	Ad lḥuɣ ɣer Fer[ε]un.
+9656198	Ur tufigem ara ɣer At [Σ]idel.
+9656242	Ttɣabeɣ ɣer Iɣil A[ε]li.
+9656247	Ttɣabeɣ ɣer At [Σ]idel.
+9656260	Ur tebrinem ara ɣer At [Σ]idel.
+9656580	Tsehhilet ɣer Fer[ε]un.
+9656587	Tsumaḍ ɣer Fer[ε]un.
+9656615	Ur yufig ara ɣer Fer[ε]un.
+9656631	Tthummu ɣer Iɣil A[ε]li.
+9656670	Ad tgaǧǧ ɣer Fer[ε]un.
+9656676	Yettarra ɣer Iɣil A[ε]li.
+9656759	Ur tsumamt ara ɣer Fer[ε]un.
+9656863	Lḥant ɣer At [Σ]idel.
+9657069	Trekkbemt ɣer Fer[ε]un.
+9788752	Ur ẓdimen ara ɣer Fer[ε]un.
+9788771	Afeg ɣer Fer[ε]un.
+9788834	Ad yejbu ɣer Fer[ε]un.
+9788865	Hemlet ɣer Iɣil A[ε]li.
+9788899	Ḥewweṣ ɣer Fer[ε]un.
+9788900	Ur yerri ara ɣer At [Σ]idel.
+9788903	Rezzuɣ ɣer At [Σ]idel.
+9788921	Ur rkibeɣ ara ɣer Fer[ε]un.
+9788938	Ad dduɣ ɣer Fer[ε]un.
+9788944	Teddun ɣer At [Σ]idel.
+9788964	Ad tɣiwel ɣer Fer[ε]un.
+9788985	Tettsamiḍ ɣer Iɣil A[ε]li.
+9789013	Teddiḍ ɣer Iɣil A[ε]li.
+9789016	Ad trewleḍ ɣer At [Σ]idel.
+9789028	Ad tawḍeḍ ɣer Iɣil A[ε]li.
+9789076	Sriffigeɣ ɣer Fer[ε]un.
+9789119	Tbernem ɣer Iɣil A[ε]li.
+9789124	Jbant ɣer At [Σ]idel.
+9789174	Ad tessiklem ɣer At [Σ]idel.
+9789222	Tetsehhilemt ɣer At [Σ]idel.
+9789235	Telḥamt ɣer Fer[ε]un.
+9789243	Ad sehhlen ɣer Iɣil A[ε]li.
+9789252	Nettmerriḥ ɣer At [Σ]idel.
+9789257	Nuzzel ɣer Fer[ε]un.
+9789284	Lḥant ɣer Iɣil A[ε]li.
+9789316	Rzant ɣer At [Σ]idel.
+9789406	Ad tsedduḍ ɣer At [Σ]idel.
+9789460	Seddumt ɣer At [Σ]idel.
+9789475	Ur tesraffgemt ara ɣer At [Σ]idel.
+9789479	Ad tnehrem ɣer Fer[ε]un.
+9789481	Ttruḥunt ɣer Iɣil A[ε]li.
+9789503	Tɛejjlemt ɣer Fer[ε]un.
+9789587	Ttgaǧǧeɣ ɣer At [Σ]idel.
+9789591	Tettazzalemt ɣer Iɣil A[ε]li.
+9789599	Ur uzzilent ara ɣer Fer[ε]un.
+9789648	Tsehhleḍ ɣer Fer[ε]un.
+9789675	Tettɣab ɣer Iɣil A[ε]li.
+9789684	Ur tunageḍ ara ɣer At [Σ]idel.
+9789735	Hemmleɣ ɣer Iɣil A[ε]li.
+9789744	Tettazzaleḍ ɣer At [Σ]idel.
+9789784	Nehher ɣer Iɣil A[ε]li.
+9789797	Nufeg ɣer Iɣil A[ε]li.
+9789807	Ad telḥu ɣer Iɣil A[ε]li.
+9789823	Ad yesriffeg ɣer At [Σ]idel.
+9789866	Rezzunt ɣer Fer[ε]un.
+9789889	Ttsami ɣer At [Σ]idel.
+9789927	Tettɣawaleḍ ɣer Fer[ε]un.
+9789945	Ufgen ɣer Fer[ε]un.
+9789949	Tettafgem ɣer Iɣil A[ε]li.
+9789951	Ur tuzzil ara ɣer Fer[ε]un.
+9789952	Zeggiremt ɣer Fer[ε]un.
+9789954	Ad tesriffeg ɣer Fer[ε]un.
+9789972	Ad tẓedmeḍ ɣer At [Σ]idel.
+9789993	Ur tunagemt ara ɣer Fer[ε]un.
+9790008	Guǧǧeɣ ɣer Iɣil A[ε]li.
+9790065	Nɛejjel ɣer Fer[ε]un.
+9790108	Tettafgemt ɣer At [Σ]idel.
+9790118	Ur nɣawel ara ɣer At [Σ]idel.
+9790120	Ur guǧǧeɣ ara ɣer At [Σ]idel.
+9790136	Ur iɣawel ara ɣer At [Σ]idel.
+9790174	Tɛeddaḍ ɣer At [Σ]idel.
+9790209	Hemlemt ɣer Iɣil A[ε]li.
+9790241	Ad iruḥ ɣer Fer[ε]un.
+9790296	Ad tsamiḍ ɣer Iɣil A[ε]li.
+9790347	Itezzi ɣer Fer[ε]un.
+9790375	Ttsamit ɣer Iɣil A[ε]li.
+9790381	Tɣeṣṣeb ɣer Fer[ε]un.
+9790389	Ur uzzileɣ ara ɣer Fer[ε]un.
+9790411	Ur tɣabeḍ ara ɣer Fer[ε]un.
+9790415	Ad teqqel ɣer Fer[ε]un.
+9790421	Ur neɣṣib ara ɣer At [Σ]idel.
+9790442	Ur teqqilem ara ɣer Iɣil A[ε]li.
+9790450	Trezzum ɣer At [Σ]idel.
+9790492	Nhemmel ɣer At [Σ]idel.
+9790514	Ur teddehmemt ara ɣer Fer[ε]un.
+9790530	Ad nhumm ɣer At [Σ]idel.
+9790546	Zwiremt ɣer Iɣil A[ε]li.
+9790576	Rewlemt ɣer Iɣil A[ε]li.
+9790580	Tɣeṣṣeb ɣer Iɣil A[ε]li.
+9790587	Tẓedmeḍ ɣer Fer[ε]un.
+9790655	Ɣeṣbemt ɣer Iɣil A[ε]li.
+9790659	Tunagemt ɣer At [Σ]idel.
+9790723	Tessaklemt ɣer At [Σ]idel.
+9790751	Tnehrem ɣer Iɣil A[ε]li.
+9790802	Ad ruḥeɣ ɣer Iɣil A[ε]li.
+9790819	Sehhlemt ɣer Iɣil A[ε]li.
+9790827	Irezzu ɣer Iɣil A[ε]li.
+9790834	Imerreḥ ɣer Iɣil A[ε]li.
+9790868	Rekkben ɣer At [Σ]idel.
+9790878	Tberren ɣer At [Σ]idel.
+9790904	Ttinig ɣer Iɣil A[ε]li.
+9790905	Rewlemt ɣer At [Σ]idel.
+9790912	Ur nehmil ara ɣer Fer[ε]un.
+9790927	Teddehhimemt ɣer At [Σ]idel.
+9790941	Ur ɛjilen ara ɣer Fer[ε]un.
+9790969	Ur iguǧǧ ara ɣer Iɣil A[ε]li.
+9790987	Ur ddint ara ɣer Fer[ε]un.
+9790995	Ad azzleɣ ɣer Iɣil A[ε]li.
+9791013	Ad nsami ɣer At [Σ]idel.
+9791014	Jbiɣ ɣer Iɣil A[ε]li.
+9791020	Ad humment ɣer Iɣil A[ε]li.
+9791071	Themmlem ɣer Fer[ε]un.
+9791097	Tẓeddmemt ɣer At [Σ]idel.
+9791102	Ad gaǧǧent ɣer Fer[ε]un.
+9791110	Ɣabet ɣer Fer[ε]un.
+9791143	Tsumamt ɣer Iɣil A[ε]li.
+9791152	Zerreb ɣer At [Σ]idel.
+9791166	Iẓeddem ɣer At [Σ]idel.
+9791207	Nehhret ɣer Iɣil A[ε]li.
+9791214	Tnehhreḍ ɣer At [Σ]idel.
+9791225	Tɛejjleḍ ɣer Fer[ε]un.
+9791230	Ad yaweḍ ɣer Iɣil A[ε]li.
+9791242	Rekbemt ɣer Fer[ε]un.
+9791312	Ssikil ɣer At [Σ]idel.
+9791331	Yufeg ɣer Fer[ε]un.
+9791337	Bren ɣer Fer[ε]un.
+9791353	Ad teddu ɣer At [Σ]idel.
+9791368	Iɛedda ɣer Fer[ε]un.
+9791380	Ad ɣabent ɣer Fer[ε]un.
+9791397	Ur merrḥeɣ ara ɣer At [Σ]idel.
+9791412	Ad tɛejlemt ɣer At [Σ]idel.
+9791455	Ddehmemt ɣer Fer[ε]un.
+9791475	Ur rziɣ ara ɣer Fer[ε]un.
+9791486	Ur rriɣ ara ɣer Iɣil A[ε]li.
+9791737	Ur tezribem ara ɣer Fer[ε]un.
+9791793	Iniget ɣer Iɣil A[ε]li.
+9791824	Ad yeqqel ɣer Fer[ε]un.
+9791830	Merrḥemt ɣer Iɣil A[ε]li.
+9791887	Ur ddiɣ ara ɣer Iɣil A[ε]li.
+9791956	Ḥewwṣeɣ ɣer Iɣil A[ε]li.
+9791973	Ur jbin ara ɣer At [Σ]idel.
+9791999	Nɣeṣṣeb ɣer Fer[ε]un.
+9792023	Ad trekbemt ɣer At [Σ]idel.
+9792035	Ad awḍent ɣer Iɣil A[ε]li.
+9792042	Tettawḍem ɣer Fer[ε]un.
+9792097	Sumant ɣer Iɣil A[ε]li.
+9792121	Ur nerzi ara ɣer Iɣil A[ε]li.
+9792136	Ad teddum ɣer Iɣil A[ε]li.
+9792141	Ad inigeɣ ɣer At [Σ]idel.
+9792163	Ur tuzzil ara ɣer At [Σ]idel.
+9792178	Nesriffig ɣer At [Σ]idel.
+9792184	Trezzu ɣer Fer[ε]un.
+9792214	Teddehhimeḍ ɣer Fer[ε]un.
+9792238	Ur tezzimt ara ɣer At [Σ]idel.
+9792289	Ur ddehmen ara ɣer Iɣil A[ε]li.
+9792301	Ur iɛedda ara ɣer Iɣil A[ε]li.
+9792311	Ad nezreb ɣer Fer[ε]un.
+9792317	Ad hummen ɣer At [Σ]idel.
+9792362	Ad rekbeɣ ɣer Fer[ε]un.
+9792367	Sedday ɣer At [Σ]idel.
+9792368	Ad tɣiwlemt ɣer Iɣil A[ε]li.
+9792394	Ɣeṣbemt ɣer At [Σ]idel.
+9792404	Ẓeddmeɣ ɣer Fer[ε]un.
+9792405	Ur tuzzilem ara ɣer Fer[ε]un.
+9792416	Tesraffgemt ɣer Fer[ε]un.
+9792425	Ɣaben ɣer Iɣil A[ε]li.
+9792448	Sedday ɣer Iɣil A[ε]li.
+9792452	Ad qqlent ɣer At [Σ]idel.
+9792471	Teqqlet ɣer At [Σ]idel.
+9792488	Teqqlent ɣer Iɣil A[ε]li.
+9792501	Iteddu ɣer At [Σ]idel.
+9792521	Ɣeṣben ɣer At [Σ]idel.
+9792556	Ad tnehrem ɣer Iɣil A[ε]li.
+9792585	Nɛedda ɣer Iɣil A[ε]li.
+9792604	Rwel ɣer Fer[ε]un.
+9792663	Ad tberneḍ ɣer Iɣil A[ε]li.
+9792666	Ur ruḥeɣ ara ɣer At [Σ]idel.
+9792678	Tettɣawaleḍ ɣer Iɣil A[ε]li.
+9792684	Ur tɣawlem ara ɣer At [Σ]idel.
+9792688	Seddumt ɣer Iɣil A[ε]li.
+9792711	Tezwareḍ ɣer Fer[ε]un.
+9792720	Sriffigent ɣer At [Σ]idel.
+9792721	Tufeg ɣer At [Σ]idel.
+9792739	Ur yesraffeg ara ɣer Fer[ε]un.
+9792778	Ad thummemt ɣer At [Σ]idel.
+9792794	Ur tḥewwṣeḍ ara ɣer Fer[ε]un.
+9792834	Jbiɣ ɣer At [Σ]idel.
+9792836	Ad hemlen ɣer Fer[ε]un.
+9792857	Hemmlen ɣer Fer[ε]un.
+9792891	Ur tɣabemt ara ɣer Iɣil A[ε]li.
+9792901	Ur tɣab ara ɣer Iɣil A[ε]li.
+9792903	Ur tunagem ara ɣer Iɣil A[ε]li.
+9792929	Ur tɣawel ara ɣer Iɣil A[ε]li.
+9792930	Ḥewwṣent ɣer Iɣil A[ε]li.
+9792934	Tjebbu ɣer Iɣil A[ε]li.
+9792958	Ad isehhel ɣer Fer[ε]un.
+9792978	Tettazzal ɣer Iɣil A[ε]li.
+9793012	Ddehhimen ɣer Fer[ε]un.
+9793013	Tguǧǧ ɣer At [Σ]idel.
+9793027	Tettɣabem ɣer Iɣil A[ε]li.
+9793081	Ur zribeɣ ara ɣer Iɣil A[ε]li.
+9793089	Nelḥa ɣer Fer[ε]un.
+9793105	Ur ɣaben ara ɣer Fer[ε]un.
+9793110	Terzam ɣer Iɣil A[ε]li.
+9793119	Hmel ɣer Fer[ε]un.
+9793126	Ur uzzilen ara ɣer Iɣil A[ε]li.
+9793145	Zerrbemt ɣer Iɣil A[ε]li.
+9793203	Ttɣawalemt ɣer At [Σ]idel.
+9793234	Ur tguǧǧem ara ɣer Iɣil A[ε]li.
+9793256	Ur nezwar ara ɣer Fer[ε]un.
+9793261	Guǧǧen ɣer At [Σ]idel.
+9793268	Ad truḥemt ɣer Fer[ε]un.

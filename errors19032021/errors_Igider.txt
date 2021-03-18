@@ -1,0 +1,326 @@
+7201048	H[é]l[è]ne d tahulandit, tettmeslay cwiṭ tafṛansist, u taglizit akken iwata.
+7215918	Lbaṭel icewwel-iyi[ ]yessufeɣ-iyi seg ṣṣwab.
+7215968	Ulayɣer neṛ[ğ]a qessam!
+7216012	Tiɣri n ta[ğ][ğ]alt tḥuza ulawen meṛṛa.
+7216505	Ad [ğ][ğ]leɣ ur d-yewwiḍ lawan.
+7216507	Nniɣ-ak zew[ğ]eɣ!
+7342747	Kob[é] d tamdint i ḥemmleɣ ugar.
+7412053	Azekka ad iṛuḥ Tom ɣer N[î]mes.
+7432501	Tḥemmel M[é]lanie ad tett tapizzat.
+7435022	Nekk d M[é]lanie.
+7435031	Isem-iw M[é]lanie.
+7464392	Acḥal ara tes[ε]eddim da?
+7464393	Acḥal ara tes[ε]eddimt da?
+7491719	Anta tarba[ε]t i tḥemmleḍ akk?
+7491720	Anta tarba[ε]t i tḥemmlem akk?
+7491721	Anta tarba[ε]t i tḥemmlemt akk?
+7498572	Massa Tase[ε]dit Yasin d taqbaylit i tḥemmel!
+7523103	Ra[ë]l d Muḥemmed d yiwen yiswi i yesɛan: akellex akked lxalat, maca Ra[ë]l ur yenɣi yiwen!
+7524679	D Muḥemmed i yuɣen 13 n tlawin yerna yes[ε]a aṭas n teklatin, neɣ ala?
+7529858	Le[ε]meṛ teṭṭif deg wawal-is.
+7532094	Anta temdint taqbaylit i k-i[ε]ejben?
+7532095	Anta temdint taqbaylit i m-i[ε]ejben?
+7532096	Anta temdint taqbaylit i ken-i[ε]ejben?
+7532097	Anta temdint taqbaylit i kent-i[ε]ejben?
+7677459	Ad k-sa[ε]feɣ?
+7677460	Ad kem-sa[ε]feɣ?
+7677461	Ad ken-sa[ε]feɣ?
+7677462	Ad kent-sa[ε]feɣ?
+7677463	Ad k-isa[ε]ef?
+7677464	Ad kem-isa[ε]ef?
+7677465	Ad ken-isa[ε]ef?
+7677466	Ad kent-isa[ε]ef?
+7677467	Ad iyi-isa[ε]ef?
+7677468	Ad k-tsa[ε]ef?
+7677469	Ad kem-tsa[ε]ef?
+7677470	Ad ken-tsa[ε]ef?
+7677471	Ad kent-tsa[ε]ef?
+7677472	Ad iyi-tsa[ε]ef?
+7677473	Ad k-sa[ε]fen?
+7677474	Ad kem-sa[ε]fen?
+7677475	Ad t-sa[ε]fen?
+7677476	Ad tt-sa[ε]fen?
+7677477	Ad iyi-sa[ε]fen?
+7677478	Ad ken-sa[ε]fen?
+7677479	Ad kent-sa[ε]fen?
+7677480	Ad k-sa[ε]fent?
+7677481	Ad kem-sa[ε]fent?
+7677482	Ad t-sa[ε]fent?
+7677483	Ad tt-sa[ε]fent?
+7677484	Ad ken-sa[ε]fent?
+7677485	Ad kent-sa[ε]fent?
+7677486	Ad t-isa[ε]ef?
+7677487	Ad tt-isa[ε]ef?
+7677488	Ad t-tsa[ε]ef?
+7677489	Ad tt-tsa[ε]ef?
+8124303	Nemmeslay ɣef waya le[ε]ca.
+9035692	At Cafe[ε] d taɣiwant i d-yezgan deg Tizi Wezzu.
+9035718	Sidi Na[ε]man d taɣiwant i d-yezgan deg Tizi Wezzu.
+9035744	Ima[ε]tuqen d taɣiwant i d-yezgan deg Tizi Wezzu.
+9040246	At Sidi Sa[ε]id d taddart.
+9040530	At Sidi Sa[ε]id d taɣiwant.
+9054151	Ma[ï]wenn tettqellib imru-s.
+9083607	Nes[ε]a amkan deg ugdud.
+9083608	Nes[ε]a amkan deg uxxam.
+9083758	Amek ur iyi-yeffiɣ le[ε]tab?
+9083764	Tes[ğ]u[ğ][ğ]geḍ temẓi-s.
+9083766	I lemmer ad d-teḥdeṛ yir teswe[ε]t?
+9083768	Ɛemmdeɣ a kem-[ğ][ğ]eɣ ass-a.
+9083773	Yak teẓriḍ ne[ε]teb.
+9083774	Nenne[ε]dam akk.
+9083777	Ulayɣer neṛ[ğ]a Ṛebbi.
+9089356	D lmizirya taberkant seg wasmi i teffe[γ] Fransa si Lezzayer
+9089357	Aṭas n tɣawsiwin i d-yenna une[γ]laf aqbayli.
+9089359	Sinima [‘][’]Mondial[’][’] tella di temdin n Tizi Wezzu.
+9089376	Atan amek i ilaq i wid yeb[γ]an ad ddun deg ubrid-a.
+9089377	Yusa-d seg Tubiret am le[ε]wayed-is.
+9089378	Tekker-d zik am le[ε]wayed-is
+9132184	Tugad ad te[ğ][ğ]el weltma-s!
+9132185	Tugad ad te[ğ][ğ]el.
+9132214	Ayen i yi-d-txulfeḍ zz[ε]af?
+9132218	Yis-wen i zehhuɣ ay imawlan [ε]zizen.
+9132222	La ttṛa[ğ]uɣ ussan lɛali.
+9132238	La t[ε]eddint le[ε]yud d iseggassen.
+9132243	Ussan-a ṭṭuqten ṛṛ[ε]ud deg igenni.
+9132247	Deg-sen i neṛ[ğ]a ttbut.
+9132249	D kenwi i d-yu[ğ][ğ]wen ccyaḍ.
+9132482	Deg ṭṛad aṭas n tlawin i tteqqlent d tu[ğ][ğ]al.
+9132844	La ttnezzihen deg-s akk le[ğ]nas.
+9132848	Azzayri yeqqar nekk d a[ε]ṛab ula d Lezzayer akken-nni!
+9132873	Xas akka izdeɣ-aɣ zz[ε]ef Tazwawt ad s-tebru i lqid i tt-yurzen.
+9132879	Tura ste[ε]fu kan.
+9132880	Srewteɣ [ε]ebban wiyaḍ.
+9174430	Nudant fell-asent deg At Sidi Sa[ε]id.
+9176009	Ẓẓa[ε] izan.
+9176016	Sa[ε]seq-it syin.
+9212188	Din i yella uqube[ε].
+9230608	Bɣiɣ ad zzenzeɣ a[γ]ilu-a.
+9239067	At Sidi Sa[ε]id d taɣiwant n Tizi Wezzu.
+9243698	At Sidi Sa[ε]id d taɣiwant n Tmurt Taqbaylit.
+9243972	At Sidi Sa[ε]id d taɣiwant n Tezwawt.
+9244488	At Sidi Sa[ε]id d taɣiwant n At nnif.
+9244771	At Sidi Sa[ε]id d taɣiwant i d-yefkan aṭas n inaẓuṛen.
+9245026	At Sidi Sa[ε]id d taɣiwant i d-yefkan aṭas n icennayen.
+9246112	At Sidi Sa[ε]id d taddart i d-yezgan deg Tmurt n Yeqbayliyen.
+9262018	Ad yas wass ideg ad twalim le[ε]ǧeb yerna ad wen-ye[ε]ǧeb.
+9284517	Nudan fell-am deg At Sidi Sa[ε]id.
+9288094	Nudan fell-as deg At Sidi Sa[ε]id.
+9292575	Ur zwarent ara ɣer At Sidi Sa[ε]id.
+9295830	Te[ε]ǧeb-iyi ṭumubil-im.
+9295831	Te[ε]ǧeb-iyi ṭumubil-ik.
+9295832	Te[ε]ǧeb-iyi ṭumubil-nwen.
+9295833	Te[ε]ǧeb-iyi ṭumubil-nkent.
+9297856	Ad yehmel ɣer At Sidi Sa[ε]id.
+9298302	Teddiḍ ɣer At Sidi Sa[ε]id.
+9299085	Yerkeb ɣer At Sidi Sa[ε]id.
+9299362	Ur ẓdimen ara ɣer At Sidi Sa[ε]id.
+9299742	Hemmel ɣer At Sidi Sa[ε]id.
+9299757	Ur teddiḍ ara ɣer At Sidi Sa[ε]id.
+9300564	Themlem ɣer At Sidi Sa[ε]id.
+9300801	Ad nsami ɣer At Sidi Sa[ε]id.
+9301572	Ur tezzimt ara ɣer At Sidi Sa[ε]id.
+9302210	Ur tessaklem ara ɣer At Sidi Sa[ε]id.
+9302392	Ad trekbeḍ ɣer At Sidi Sa[ε]id.
+9305290	Ttsamint ɣer At Sidi Sa[ε]id.
+9306511	D ta i d taqbaylit, qbel-itt neɣ eǧg[̱]itt!
+9307554	Ad tgaǧǧemt ɣer At Sidi Sa[ε]id.
+9309363	Neɛjel ɣer At Sidi Sa[ε]id.
+9309436	Ad zerbeɣ ɣer At Sidi Sa[ε]id.
+9309469	Ttezzim ɣer At Sidi Sa[ε]id.
+9309520	Ɛejjlet ɣer At Sidi Sa[ε]id.
+9309567	Ur ḥewwṣen ara ɣer At Sidi Sa[ε]id.
+9309653	Ad tsamiḍ ɣer At Sidi Sa[ε]id.
+9311124	Tettawḍemt ɣer At Sidi Sa[ε]id.
+9311181	Zzit ɣer At Sidi Sa[ε]id.
+9311236	Ur tḥewwṣem ara ɣer At Sidi Sa[ε]id.
+9312167	Ur tsumam ara ɣer At Sidi Sa[ε]id.
+9312323	Ur yeẓdim ara ɣer At Sidi Sa[ε]id.
+9314526	Ssakleɣ ɣer At Sidi Sa[ε]id.
+9318628	Ur tehmilem ara ɣer At Sidi Sa[ε]id.
+9320447	Trekkbemt ɣer At Sidi Sa[ε]id.
+9320924	Ttinigent ɣer At Sidi Sa[ε]id.
+9322445	Thummemt ɣer At Sidi Sa[ε]id.
+9322766	Ur telḥi ara ɣer At Sidi Sa[ε]id.
+9323661	Ttxil-k, eǧǧ ad rnuɣ ad ṭṭseɣ [ε]ecṛa n ddqayeq.
+9323662	Ttxil-m, eǧǧ ad rnuɣ ad ṭṭseɣ [ε]ecṛa n ddqayeq.
+9323663	Ttxil-wet, eǧǧet ad rnuɣ ad ṭṭseɣ [ε]ecṛa n ddqayeq.
+9323664	Ttxil-kent, eǧǧemt ad rnuɣ ad ṭṭseɣ [ε]ecṛa n ddqayeq.
+9323665	Ttxil-k, anef-iyi ad gneɣ [ε]ecṛa n ddqayeq nniḍen.
+9323666	Ttxil-m, anef-iyi ad gneɣ [ε]ecṛa n ddqayeq nniḍen.
+9323667	Ttxil-wet, anfet-iyi ad gneɣ [ε]ecṛa n ddqayeq nniḍen.
+9323668	Ttxil-kent, anfemt-iyi ad gneɣ [ε]ecṛa n ddqayeq nniḍen.
+9325112	Ad nerwel ɣer At Sidi Sa[ε]id.
+9325294	Ur tmerrḥemt ara ɣer At Sidi Sa[ε]id.
+9325865	Ur ɣabeɣ ara ɣer At Sidi Sa[ε]id.
+9326239	Yettgaǧǧ ɣer At Sidi Sa[ε]id.
+9326294	Ur iɣab ara ɣer At Sidi Sa[ε]id.
+9327000	Ur zwareɣ ara ɣer At Sidi Sa[ε]id.
+9328217	Ur hmileɣ ara ɣer At Sidi Sa[ε]id.
+9328385	Ur neddhem ara ɣer At Sidi Sa[ε]id.
+9328617	Yettinig ɣer At Sidi Sa[ε]id.
+9329011	Ad tejbu ɣer At Sidi Sa[ε]id.
+9330437	Tguǧǧem ɣer At Sidi Sa[ε]id.
+9333170	Tettɣawal ɣer At Sidi Sa[ε]id.
+9333471	Ddumt ɣer At Sidi Sa[ε]id.
+9334368	Ad tezzimt ɣer At Sidi Sa[ε]id.
+9334604	Ad ruḥen ɣer At Sidi Sa[ε]id.
+9334648	Ad tsamim ɣer At Sidi Sa[ε]id.
+9336255	Seddayent ɣer At Sidi Sa[ε]id.
+9336288	Sraffgen ɣer At Sidi Sa[ε]id.
+9336475	Tesriffigeḍ ɣer At Sidi Sa[ε]id.
+9338045	Teqqlem ɣer At Sidi Sa[ε]id.
+9338059	Ur ɛeddaɣ ara ɣer At Sidi Sa[ε]id.
+9339004	Ur tuzzil ara ɣer At Sidi Sa[ε]id.
+9339742	Ur yehmil ara ɣer At Sidi Sa[ε]id.
+9339884	Ttmerriḥet ɣer At Sidi Sa[ε]id.
+9343674	Tettɛedday ɣer At Sidi Sa[ε]id.
+9344456	Ɣabemt ɣer At Sidi Sa[ε]id.
+9345613	Ur jbint ara ɣer At Sidi Sa[ε]id.
+9345891	Iceyye[ε]-am-d?
+9345894	Iceyye[ε]-awen-d?
+9345897	Iceyye[ε]-akent-d?
+9346445	Ur sehhlent ara ɣer At Sidi Sa[ε]id.
+9346719	Ur tsehhleḍ ara ɣer At Sidi Sa[ε]id.
+9347263	Bernen ɣer At Sidi Sa[ε]id.
+9347510	Ur yeddi ara ɣer At Sidi Sa[ε]id.
+9349591	Yet[ε]edda!
+9350600	Tettɣawalem ɣer At Sidi Sa[ε]id.
+9352785	Tunag ɣer At Sidi Sa[ε]id.
+9354903	Ad yaweḍ ɣer At Sidi Sa[ε]id.
+9354946	Sriffeg ɣer At Sidi Sa[ε]id.
+9355801	Nettɣawal ɣer At Sidi Sa[ε]id.
+9356200	Ttḥewwiṣet ɣer At Sidi Sa[ε]id.
+9357150	Ad ɛejlent ɣer At Sidi Sa[ε]id.
+9357164	Ad yeddhem ɣer At Sidi Sa[ε]id.
+9359245	Ẓedmeɣ ɣer At Sidi Sa[ε]id ilindi.
+9362870	mar. 11 ao[û]t [à] 12:00
+9366382	Yella kra i asent-xedme[γ] akken ad qejjiment deg-i ad rennunt?
+9368844	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ D[é]mocrite.
+9372097	Numen La[ï]za imir-n.
+9373090	Imi tugiḍ-iyi, ur walaɣ ara d acu i [γ]-d-iqqimen!
+9374386	ven. 14 ao[û]t [à] 11:16
+9374822	Umnen La[ï]za imir-n.
+9376174	Amnemt Ma[ï]na!
+9376518	Gis[è]le Ḥalimi d yiwet n tmeṭṭut i yennuɣen ɣef izerfan n wemdan deg umaḍal.
+9376606	Yumen La[ï]za imir-n.
+9378263	Lhan yedlisen n Aur[é]lien Barrau awid ukan ad ten-teɣṛem.
+9378544	Ilaq ad tesleḍ i tedwilin anda yettmeslay uaggag R[é]gis Debray.
+9380423	D aya i nes[ε]a d-ayla-nneɣ.
+9380596	Efk-d rray-ik [ε]iwen-iyi.
+9381099	Tumnem Ma[ï]wan.
+9381185	I kečč d acu i d ak-tuqe[ε]?
+9382229	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ Parm[é]nide.
+9382676	Tifiṛa[ε]qest tettidir deg ilel.
+9385114	Tikwal ibellir[ğ]en ttidiren deg temdinin.
+9385424	Tumnemt La[ï]za imir-n.
+9445610	Ye[ε]req.
+9447216	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ Z[é]non.
+9447322	Tumen Ma[ï]wan.
+9447368	Yella kra i am-xedme[γ] akken ad tqejjimeḍ deg-i ad trennuḍ?
+9447454	Tumnem La[ï]za imir-n.
+9447959	Tumneḍ La[ï]za imir-n.
+9448097	Amnet Ma[ï]na!
+9448436	Umnent Ma[ï]wan.
+9448809	Umnent La[ï]za imir-n.
+9449704	Tumen La[ï]za imir-n.
+9450908	Umnen Ma[ï]wan.
+9450972	Yella kra i asen-xedme[γ] akken ad qejjimen deg-i ad rennun?
+9451060	Tumnemt Ma[ï]wan.
+9451644	Te[ε]yam.
+9451645	Te[ε]yamt.
+9452226	Yumen Ma[ï]wan.
+9452270	Menhu-t Dmitri Galil[é]e?
+9452646	Numen Ma[ï]wan.
+9452660	Tḥemmleḍ taklut n Paul C[é]zanne?
+9453002	I kemm d acu i d am-tuqe[ε]?
+9453112	Melba cekk adlis[‑]a yewwi-d ameynut i taqbaylit.
+9454110	[À] :Arsene Amalou
+9454118	I kenwi d acu i d awen-tuqe[ε]?
+9454249	Ttamnemt L[é]nanne!
+9454357	Tuqe[ε]-aɣ, imi d nekkenti i teɛna temsalt.
+9454435	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ Diog[è]ne.
+9454614	Yella kra i akent-xedme[γ] akken ad tqejjimemt deg-i ad trennumt?
+9454792	D idlisen n Andr[é] Comte-Sponville ara ad ken-inefɛen mačči d leǧwamaɛt!
+9455381	Acimi ur ye[ε]ǧib ara usensu-a i Tom d Mary?
+9455712	Ɣṛemt idlisen n Moli[è]re d Eug[è]ne Ionescu ad tissinem amezgun.
+9456758	I kennemti d acu i d akent-tuqe[ε]?
+9457287	Yella kra i awen-xedme[γ] akken ad tqejjimem deg-i ad trennum?
+9457756	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ H[é]raclite.
+9457983	Amen Ma[ï]na!
+9458214	Tuqe[ε]-iyi, imi d nekk i teɛna temsalt.
+9458868	Umneɣ La[ï]za imir-n.
+9459346	Tuqe[ε]-aɣ, imi d nekkni i teɛna temsalt.
+9459590	S tidet ur ssinen ara Claude L[é]vi-Strauss?
+9460102	Yettwanǧe[ε] Tom deg yiɣil.
+9461747	Tumneḍ Ma[ï]wan.
+9461871	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ X[é]nophane.
+9461952	Anta ur nessin tullisin n Th[é]ophile Gautier?
+9462588	Mi ɣṛiɣ idlisen n C[é]lestin Freinet fehmeɣ aṭas n temsal almad n yigurdan.
+9463585	Teɣṛamt kra n udlis n Tolsto[Ï]?
+9464969	Umneɣ Ma[ï]wan.
+9465656	Melmi i teɣṛa adlis-nni n Marcel Aym[é]?
+9465760	I wakken ad tlemeḍ tafelseft ilaq ad tissineḍ Thal[è]s.
+9466815	Ur ntettu ara amek i tme[ε]nem yid-neɣ.
+9466817	Ur ntettu ara amek i tme[ε]nemt yid-neɣ.
+9468591	mar. 18 ao[û]t [à] 20:13
+9469423	D idlisen n J[ü]rgen Habermas ar ad tent-inefɛen mačči d aɣmis n Ccuṛuq!
+9470576	Nsellem iman[‑]nneɣ.
+9470579	Nsellem iman[‑]nteɣ.
+9470667	Jme[ε]-iten.
+9470670	Jme[ε]-itent.
+9470672	Jem[ε]et-ten.
+9470673	Jem[ε]et-tent.
+9470676	Jem[ε]emt-ten.
+9470678	Jem[ε]emt-tent.
+9480375	Belle[ε]!
+9488064	Lemmer i sent-iseḥsab ufellaḥ werǧin yezre[ε].
+9488091	Ma tḥulfaḍ tnef[ε]eḍ, yenfe[ε] wayen d-teqqareḍ, snef[ε]en seg-s medden.
+9492715	Amek dɣa ara ad tini Wikip[é]dia s teqbaylit?
+9494554	Georg Luk[á]cs d afelsaf amarksi yuran ɣef tiẓṛi n tsekla.
+9495523	Yenna-yas Diog[è]ne amehbul, wexxeṛ akin seg iṭij-iw!
+9497311	Amek dɣa ara ttarun Levi[’]s s teqbaylit?
+9497735	Ur yett[ε]eṭṭil ara ad d-yaweḍ Newwal.
+9497865	Igerrez Newwal i tes[ε]eddaḍ?
+9497866	Igerrez Newwal i tes[ε]eddam?
+9497867	Igerrez Newwal i tes[ε]eddamt?
+9497997	Wid kemm i tes[ε]ddayeḍ Newwal?
+9497999	Wid kenwi i tes[ε]ddayem Newwal?
+9498000	Wid kennemti i tes[ε]ddayemt Newwal?
+9498391	Bob yečča a[ε]rus, sakkin yerra-d.
+9498691	Am tifiṛa[ε]qest i yetteddu mmi.
+9498705	Tifiṛa[ε]qas ttidirent deg ilel.
+9502538	Rnut ɣṛet adlis-a n Paul Ric[œ]ur.
+9503250	Irkasen-nni i[ε]edda-ten zzman.
+9503255	Isebbaḍen-nni i[ε]edda fell-asen wakud.
+9503641	La yettazzal u[ε]udiw ihin.
+9503761	Menhu-t Dmitri Mendele[ï]ev?
+9504950	Awal yeḥwa[ğ] asegzi.
+9507002	Tili amek ara ad taru Nescaf[é] s teqbaylit?
+9509731	Ahya Ɛmeṛ agad Ṛebbi deg Frankfurt i t-xenqen s tekṛa[γ]aḍt, ah!
+9510150	T[ε]edda nnig uqerru-yiw.
+9511653	Melba cekk adlis[‑]a yewwi-d ameynut ɣer tesekla taqbaylit.
+9513961	Anta taggagt ur neɣṛi idlisen n Slavoj [Ž]i[ž]ek?
+9530666	Yelha lemer ad teɣṛeḍ idlisen n Jos[é] Ortega y Gasset.
+9530739	Zaɛma d tidet ur ssinen ara Claude L[é]vi-Strauss?
+9534414	Tili amek ara ad ssuqquleɣ Citro[ë]n ɣer teqbaylit?
+9536218	Tom i[ε]awed yekcem s tazzla ɣer tmudrut-is.
+9536220	Yes[ε]a Tom tamudrut deg Boston.
+9539378	Vladimir Jank[é]l[é]vitch d afelsaf yuran aṭas ɣef tikli lɛali.
+9539973	Ɣeṛṛ cwiṭ Jacques Bou[γ]eresse ad tfeḥmeḍ tidmi tafrarit n tfelseft.
+9547944	D acu i d-yeḍran umb[ε]ed?
+9554878	Nes[ε]a axxam ɣaya-t.
+9642352	D abul[γ]aṛ ɣef yeffus.
+9642353	D abul[γ]aṛ ɣef zelmeḍ.
+9652517	Ečč a[ε]eqqa tezhuḍ!
+9668678	Yessuqel-d Igider ɣer teqbaylit isefra yettwassnen am Yugurten akked Aɣeṛṛabu icaxen n Arthur Rimbaud, El Desdichado n G[é]rard de Nerval, Agelmim akked Aɛzal n Alphonse de Lamartine, Taẓuṛi n tmedyezt n Paul Verlaine, Abeḥri n lebḥeṛ n St[é]phane Mallarm[é], Amasrag n Charles Baudelaire, Azekka n tafrara n Victor Hugo d isefra n imedyazen nniḍen.
+9672089	Elle est habit[é]e.
+9683381	Yak ur te[ε]yim ara meqqar?
+9683382	Yak ur te[ε]yimt ara meqqar?
+9760995	Ur ttwaqenn[ε]eɣ ara swaswa dakken tes[ε]iḍ lḥeqq.
+9761002	Ur ttwaqenn[ε]eɣ ara swaswa dakken tes[ε]am lḥeqq.
+9761006	Ur ttwaqenn[ε]eɣ ara swaswa dakken tes[ε]amt lḥeqq.
+9768191	Smen[ε]eɣ-k-id seg lmut.
+9768192	Smen[ε]eɣ-kem-id seg lmut.
+9768193	Smen[ε]eɣ-ken-id seg lmut.
+9768194	Smen[ε]eɣ-kent-id seg lmut.
+9787590	Ur yett[ε]eṭṭil ara Tom ad yeḥlu.
